@@ -1,0 +1,57 @@
+# Hugo configuration file
+title: Historia de la Guerra del Peloponeso de Tucídides
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Principio
+      weight: 1
+      url: "https://ealeman.com/"
+    - name: Blog
+      weight: 2
+      url: "https://ealeman.com/blog/"
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/lampsacus/peloponeso"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
+    base: "https://github.com/lampsacus/peloponeso/edit/main/content"
+
+defaultContentLanguage: es
+languages:
+  es:
+    languageName: Spanish
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
