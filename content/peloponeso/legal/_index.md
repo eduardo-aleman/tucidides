@@ -15,12 +15,8 @@ sidebar:
 weight: 13
 ---
 
-Existen numerosas traducciones al inglés de *Historia de la guerra del Peloponeso*. No tanto así al español. En este sitio reproducimos en su totalidad la de Juan José Torres Esbarranch, publicada por la editorial española Gredos en edición de 1990 y disponible en el sitio archive.org con licencia pública de Creative Commons 'Atribución/Reconocimiento-SinDerivados 4.0 Internacional'. Esta licencia permite "copiar y redistribuir el material en cualquier medio o formato para cualquier propósito, incluso comercialmente". Siempre y cuando se de crédito "de manera adecuada", se ofrezca "un enlace a la licencia" y se indique "si se han realizado cambios". Esto
- puede hacerse "en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante".
+Hay muchísimas traducciones al inglés de *Historia de la guerra del Peloponeso*, pero no tantas al español. En este sitio compartimos la versión completa traducida por Juan José Torres Esbarranch, publicada por la editorial Gredos en 1990. La puedes encontrar libremente en [archive.org](https://archive.org/details/tucidides.-historia-de-la-guerra-del-peloponeso-1.-libros-i-ii-g-1990/page/n1/mode/2up), gracias a que está bajo una licencia pública de Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
 
-El enlace a la licencia es https://creativecommons.org/licenses/by-nd/4.0/.
+Esta licencia permite copiar y distribuir el texto en cualquier formato, incluso con fines comerciales, siempre y cuando se dé el crédito correspondiente, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se hicieron cambios (aunque no se permiten obras derivadas).
 
-El enlace al libro en el sitio archive.org: https://archive.org/details/tucidides.-historia-de-la-guerra-del-peloponeso-1.-libros-i-ii-g-1990/page/n1/mode/2up
-
-Las siguientes son las modificaciones del texto: la adición de materiales didácticos como mapas, tablas y figuras.
-
+En nuestro caso, lo único que hemos añadido son materiales didácticos como mapas, tablas y figuras para enriquecer la lectura.

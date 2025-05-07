@@ -6,7 +6,7 @@ categories:
   - historia
   - clásicos griegos
   - tucídides
-  - tradución
+  - traduciones
   - edición
 toc: true
 type: docs
