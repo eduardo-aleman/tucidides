@@ -1,5 +1,5 @@
 ---
-title: "Prefacio: Estructura de la Historia de la Guerra del Peloponeso"
+title: "Estructura de la Historia de la Guerra del Peloponeso"
 description: "Un análisis detallado de la estructura narrativa, literaria y temática de la Historia de Tucídides."
 date: 2025-04-26
 author: Eduardo Alemán
