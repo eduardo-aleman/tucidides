@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Historia de la Guerra del Peloponeso de Tucídides
+title: Tucídides
 
 # import hextra as module
 module:
@@ -30,7 +30,7 @@ menu:
         type: search
     - name: GitHub
       weight: 4
-      url: "https://github.com/lampsacus/peloponeso"
+      url: "https://github.com/lampsacus/tucidides"
       params:
         icon: github
 
