@@ -11,8 +11,6 @@ toc: true
 type: docs
 sidebar:
   open: true
-cascade:
-  type: docs
 ---
 Autor: Eduardo Alemán
 
