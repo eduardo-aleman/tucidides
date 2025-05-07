@@ -18,7 +18,7 @@ cascade:
   type: docs
 ---
 
-![Busto de Tucídides con fondo oscuro y solemne](/img/busto_tucidides.png "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso.")
+![Busto de Tucídides con fondo oscuro y solemne](/img/busto_tucidides.webp "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso.")
 
 Autor: Eduardo Alemán
 
