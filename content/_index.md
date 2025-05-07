@@ -22,6 +22,8 @@ cascade:
 
 Autor: Eduardo Alemán
 
+## Tucídides y su obra
+
 Tucídides (c. 460–c. 395 a.C.) fue un historiador ateniense cuya única obra conservada, *Historia de la guerra del Peloponeso*, constituye uno de los pilares fundacionales de la historiografía occidental. Testigo directo del conflicto entre Atenas y Esparta —en el que participó como estratego antes de ser exiliado—, Tucídides emprendió la redacción de una historia que aspiraba a ser “una posesión para siempre” (*ktēma es aiei*), un relato libre de mitos, embellecimientos retóricos y parcialidades patrióticas.
 
 El texto, aunque incompleto, cubre desde los orígenes inmediatos del conflicto (la llamada *Pentecontaetía*) hasta el año 411 a.C., y se distingue por una rigurosa estructura narrativa, una intensa reflexión sobre la naturaleza del poder y la guerra, y un estilo denso, intelectualizado y a menudo elíptico. La edición crítica de referencia más utilizada en el ámbito filológico contemporáneo es la preparada por G. B. Alberti (*Thucydidis Historiae*, 3 vols., Roma: Istituto Polygraphico dello Stato, 1972–2000), mientras que la traducción y comentario franceses más influyentes provienen de la monumental colección “Budé”, editada por Jacqueline de Romilly, Raymond Weil y Louis Bodin (*Thucydide: La Guerre du Péloponnèse*, Paris: Les Belles Lettres, 1958–1972).
@@ -33,6 +35,8 @@ Desde un punto de vista político, la obra ha sido leída tanto como una crític
 La tradición académica anglosajona ha contado con herramientas esenciales para la comprensión del texto, como el monumental *Historical Commentary on Thucydides* editado por A. W. Gomme, Antony Andrewes y K. J. Dover (Oxford University Press, 1945–1981), que analiza con minuciosidad el trasfondo histórico, político y topográfico de cada libro. K. J. Dover también sintetizó sus aportes en su estudio accesible *Thucydides* (1973), mientras que estudios como los de Hunter R. Rawlings III (*The Structure of Thucydides' History*, 1981) han desentrañado su compleja arquitectura narrativa.
 
 Los análisis contemporáneos han expandido el enfoque hacia aspectos más conceptuales, como la evolución de la escritura histórica (*The Blinded Eye*, Gregory Crane, 1996) o el estudio de la *stásis*, la guerra civil interna, como categoría política y moral (*Thucydides and Internal War*, Jonathan J. Price, 2001). El resultado es una obra que sigue interpelando a lectores, historiadores, filósofos y politólogos, no como una simple crónica del pasado, sino como un modelo de análisis racional de la experiencia humana en tiempos de crisis.
+
+## Traducción al español
 
 En el ámbito hispánico, la edición de Historia de la guerra del Peloponeso a cargo de Juan José Torres Esbarranch, publicada por Gredos en 1990, representa una de las traducciones más autorizadas y filológicamente rigurosas en lengua española. Esta edición de los Libros I y II se distingue tanto por su fidelidad al original griego como por la claridad del aparato crítico y el extenso análisis contextual. Su publicación ha sido fundamental para la recepción moderna de Tucídides en el mundo hispano, abriendo el acceso a lectores y especialistas interesados en una interpretación técnica pero accesible de la obra.
 
