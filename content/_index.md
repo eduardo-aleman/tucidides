@@ -1,6 +1,7 @@
 ---
-title: "Introducción a la vida y obra de Tucídides"
+title: "Breve introducción a la vida y obra de Tucídides"
 date: "2025-05-06"
+author: Eduardo Alemán
 cover:
   image: busto_tucidides.webp
   alt: "Busto de Tucídides con fondo oscuro y solemne"
@@ -19,7 +20,7 @@ cascade:
 
 ![Busto de Tucídides con fondo oscuro y solemne](/img/busto_tucidides.png "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso.")
 
-## Introducción a la vida y obra de Tucídides
+Autor: Eduardo Alemán
 
 Tucídides (c. 460–c. 395 a.C.) fue un historiador ateniense cuya única obra conservada, *Historia de la guerra del Peloponeso*, constituye uno de los pilares fundacionales de la historiografía occidental. Testigo directo del conflicto entre Atenas y Esparta —en el que participó como estratego antes de ser exiliado—, Tucídides emprendió la redacción de una historia que aspiraba a ser “una posesión para siempre” (*ktēma es aiei*), un relato libre de mitos, embellecimientos retóricos y parcialidades patrióticas.
 
