@@ -2,7 +2,7 @@
 title: "Introducción a la vida y obra de Tucídides"
 date: "2025-05-06"
 cover:
-  image: tucidides-vida-obra.webp
+  image: busto_tucidides.webp
   alt: "Busto de Tucídides con fondo oscuro y solemne"
   caption: "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso."
   relative: false
@@ -13,7 +13,11 @@ categories:
 - tucidides
 - historiografía
 description: "Síntesis crítica sobre la vida, el método y la obra de Tucídides, con referencias a las ediciones filológicas y estudios contemporáneos más relevantes."
+cascade:
+  type: docs
 ---
+
+![Busto de Tucídides con fondo oscuro y solemne](/img/busto_tucidides.png "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso.")
 
 ## Introducción a la vida y obra de Tucídides
 
