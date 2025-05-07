@@ -33,3 +33,44 @@ Desde un punto de vista político, la obra ha sido leída tanto como una crític
 La tradición académica anglosajona ha contado con herramientas esenciales para la comprensión del texto, como el monumental *Historical Commentary on Thucydides* editado por A. W. Gomme, Antony Andrewes y K. J. Dover (Oxford University Press, 1945–1981), que analiza con minuciosidad el trasfondo histórico, político y topográfico de cada libro. K. J. Dover también sintetizó sus aportes en su estudio accesible *Thucydides* (1973), mientras que estudios como los de Hunter R. Rawlings III (*The Structure of Thucydides' History*, 1981) han desentrañado su compleja arquitectura narrativa.
 
 Los análisis contemporáneos han expandido el enfoque hacia aspectos más conceptuales, como la evolución de la escritura histórica (*The Blinded Eye*, Gregory Crane, 1996) o el estudio de la *stásis*, la guerra civil interna, como categoría política y moral (*Thucydides and Internal War*, Jonathan J. Price, 2001). El resultado es una obra que sigue interpelando a lectores, historiadores, filósofos y politólogos, no como una simple crónica del pasado, sino como un modelo de análisis racional de la experiencia humana en tiempos de crisis.
+
+En el ámbito hispánico, la edición de Historia de la guerra del Peloponeso a cargo de Juan José Torres Esbarranch, publicada por Gredos en 1990, representa una de las traducciones más autorizadas y filológicamente rigurosas en lengua española. Esta edición de los Libros I y II se distingue tanto por su fidelidad al original griego como por la claridad del aparato crítico y el extenso análisis contextual. Su publicación ha sido fundamental para la recepción moderna de Tucídides en el mundo hispano, abriendo el acceso a lectores y especialistas interesados en una interpretación técnica pero accesible de la obra.
+
+## Bibliografía
+
+Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato.
+
+Connor, W. R. *Thucydides*. Princeton: Princeton University Press, 1984.
+
+Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, MD: Rowman and Littlefield, 1996.
+
+—. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998.
+
+de Romilly, Jacqueline. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
+
+—. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
+
+de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
+
+Dover, K. J. *Thucydides*. Greece and Rome: New Surveys in the Classics 7. Oxford: Clarendon Press, 1973.
+
+Finley, J. H. *Thucydides*. Cambridge, MA: Harvard University Press, 1942. Reprint, Ann Arbor, MI: University of Michigan Press, 1963.
+
+Gomme, A. W., Antony Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Oxford University Press, 1945–1981.
+
+Palmer, Michael. *Love of Glory and the Common Good: Aspects of the Political Thought of Thucydides*. Lanham, MD: Rowman and Littlefield, 1992.
+
+Parry, Adam. *Logos and Ergon in Thucydides*. With a new introduction by Donald Kagan. Salem, NH: Ayer, 1981.
+
+Pouncey, Peter. *The Necessities of War: A Study of Thucydides' Pessimism*. New York: Columbia University Press, 1980.
+
+Price, Jonathan J. *Thucydides and Internal War*. Cambridge: Cambridge University Press, 2001.
+
+Pritchett, W. K. *Thucydides' Pentekontaetia and Other Essays*. Archaia Hellas: Monographs in Ancient Greek History and Archaeology, 1. Amsterdam: J. C. Gieben, 1995.
+
+Proctor, Dennis. *The Experience of Thucydides*. Warminster: Aris and Phillips, 1980.
+
+Rawlings, Hunter R., III. *The Structure of Thucydides' History*. Princeton: Princeton University Press, 1981.
+
+Torres Esbarranch, Juan José, ed. and trans. *Tucídides. Historia de la guerra del Peloponeso*. Libros I–II. Madrid: Gredos, 1990.
+
