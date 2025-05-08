@@ -5,7 +5,7 @@ author: Eduardo Alemán
 cover:
   image: busto_tucidides.webp
   alt: "Busto de Tucídides con fondo oscuro y solemne"
-  caption: "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso."
+  caption: "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso. Versión de ChatGPT."
   relative: false
 categories:
 - antigüedad
