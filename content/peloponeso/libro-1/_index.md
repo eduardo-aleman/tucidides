@@ -15,129 +15,129 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 
 1\. Prólogo. La importancia de la Guerra del Peloponeso.
 
-2-19./ La «Arqueología». Debilidad de épocas anteriores en relación con la Grecia de la Guerra del Peloponeso. Crítica histórica.
+2-19\. La «Arqueología». Debilidad de épocas anteriores en relación con la Grecia de la Guerra del Peloponeso. Crítica histórica.
 
-20-22./ La investigación de Tucídides. El método histórico.
+20-22\. La investigación de Tucídides. El método histórico.
 
-23./ La magnitud de la Guerra del Peloponeso. Sus causas.
+23\. La magnitud de la Guerra del Peloponeso. Sus causas.
 
-24-55./ Conflicto de Corcira.
+24-55\. Conflicto de Corcira.
 
-29./ Victorias de Corira.
+29\. Victorias de Corira.
 
-31./ Embajadas de corcireos y corintios a Atenas.
+31\. Embajadas de corcireos y corintios a Atenas.
 
-32-36./ Discurso de los corcireos.
+32-36\. Discurso de los corcireos.
 
-37-43./ Discurso de los corintios.
+37-43\. Discurso de los corintios.
 
-44-45./ Alianza defensiva de Atenas y Corcira. Intervención ateniense.
+44-45\. Alianza defensiva de Atenas y Corcira. Intervención ateniense.
 
-46./ Preparativos de los corintios.
+46\. Preparativos de los corintios.
 
-47./ Preparativos de los corcireos.
+47\. Preparativos de los corcireos.
 
-48-52./ Batalla naval de las islas de Síbota.
+48-52\. Batalla naval de las islas de Síbota.
 
-53./ Conversaciones entre atenienses y corintios.
+53\. Conversaciones entre atenienses y corintios.
 
-54./ Corintios y corcireos reivindican la victoria.
+54\. Corintios y corcireos reivindican la victoria.
 
-55./ Los corintios y los atenienses regresan a su patria.
+55\. Los corintios y los atenienses regresan a su patria.
 
-56-66./ Conflicto de Potidea.
+56-66\. Conflicto de Potidea.
 
-57./ Intrigas de Perdicas contra los atenienses.
+57\. Intrigas de Perdicas contra los atenienses.
 
-58./ Sublevación de Potidea.
+58\. Sublevación de Potidea.
 
-59./ Los atenienses en Macedonia.
+59\. Los atenienses en Macedonia.
 
-60./ Ayuda de Corinto.
+60\. Ayuda de Corinto.
 
-61./ Expedición de Calías.
+61\. Expedición de Calías.
 
-62-63./ La Batalla de Potidea.
+62-63\. La Batalla de Potidea.
 
-64-66./ Asedio de Potidea.
+64-66\. Asedio de Potidea.
 
-67-88./ El debate de Esparta.
+67-88\. El debate de Esparta.
 
-68-72./ Discurso de los corintios.
+68-72\. Discurso de los corintios.
 
-73-79./ Discurso de los atenienses.
+73-79\. Discurso de los atenienses.
 
-80-85./ Discurso de Arquidamo.
+80-85\. Discurso de Arquidamo.
 
-86./ Discurso de Estenelaidas.
+86\. Discurso de Estenelaidas.
 
-87./ El tratado ha sido violado.
+87\. El tratado ha sido violado.
 
-88./ El miedo de Esparta al poderío de Atenas. La verdadera causa.
+88\. El miedo de Esparta al poderío de Atenas. La verdadera causa.
 
-89-118./ La «Pentecontecia». Historia de Atenas después de las Guerras Médicas. Formación del Imperio ateniense.
+89-118\. La «Pentecontecia». Historia de Atenas después de las Guerras Médicas. Formación del Imperio ateniense.
 
-90-93./ La reconstrucción de las murallas de Atenas. Actuación de Temístocles.
+90-93\. La reconstrucción de las murallas de Atenas. Actuación de Temístocles.
 
-94./ Expedición de Pausanias contra Chipre y Bizancio.
+94\. Expedición de Pausanias contra Chipre y Bizancio.
 
-95./ Acusaciones contra Pausanias. La hegemonía pasa a los atenienses.
+95\. Acusaciones contra Pausanias. La hegemonía pasa a los atenienses.
 
-96./ La Confederación ático-delia.
+96\. La Confederación ático-delia.
 
-97-100./ Orígenes y crecimiento del poderío ateniense. De la hegemonía al Imperio. Expediciones de Cimón, Tracia, Naxos, Eurimedonte, Tasos.
+97-100\. Orígenes y crecimiento del poderío ateniense. De la hegemonía al Imperio. Expediciones de Cimón, Tracia, Naxos, Eurimedonte, Tasos.
 
-101./ La rebelión de los hilotas. Rendición de Tasos.
+101\. La rebelión de los hilotas. Rendición de Tasos.
 
-102./ Diferencias entre Esparta y Atenas. El incidente de Itome.
+102\. Diferencias entre Esparta y Atenas. El incidente de Itome.
 
-103./ Fin de la resistencia de Itome. Alianza de Mégara y Atenas.
+103\. Fin de la resistencia de Itome. Alianza de Mégara y Atenas.
 
-104./ Los atenienses en Egipto.
+104\. Los atenienses en Egipto.
 
-105-106./ Guerras contra Corinto, Epidauro y Egina.
+105-106\. Guerras contra Corinto, Epidauro y Egina.
 
-107./ Expedición lacedemonia a Grecia Central.
+107\. Expedición lacedemonia a Grecia Central.
 
-108./ Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos.
+108\. Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos.
 
-109-110./ Derrota de los atenienses en Egipto.
+109-110\. Derrota de los atenienses en Egipto.
 
-111./ Los atenienses en Tesalia, en el Peloponeso y en Acarnania.
+111\. Los atenienses en Tesalia, en el Peloponeso y en Acarnania.
 
-112./ Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada.
+112\. Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada.
 
-113./ Batalla de Coronea. Derrota ateniense en Grecia Central.
+113\. Batalla de Coronea. Derrota ateniense en Grecia Central.
 
-114./ Sublevación de Eubea y de Mégara.
+114\. Sublevación de Eubea y de Mégara.
 
-115-117./ La Paz de Treinta años. La Guerra de Samos.
+115-117\. La Paz de Treinta años. La Guerra de Samos.
 
-118./ Fin de la «Pentecontecia». Embajada lacedemonia a Delfos.
+118\. Fin de la «Pentecontecia». Embajada lacedemonia a Delfos.
 
-119-125./ Asamblea de la Liga del Peloponeso en Esparta.
+119-125\. Asamblea de la Liga del Peloponeso en Esparta.
 
-120-124./ Discurso de los corintios.
+120-124\. Discurso de los corintios.
 
-125./ Se decide la guerra.
+125\. Se decide la guerra.
 
-126-139./ Reclamaciones y pretextos.
+126-139\. Reclamaciones y pretextos.
 
-126-127./ Primera embajada lacedemonia a Atenas. El sacrilegio de los Aicmeónidas.
+126-127\. Primera embajada lacedemonia a Atenas. El sacrilegio de los Aicmeónidas.
 
-128-134./ Réplica ateniense. El sacrilegio del Ténaro. Traición de Pausanias.
+128-134\. Réplica ateniense. El sacrilegio del Ténaro. Traición de Pausanias.
 
-135-138./ El caso de Temístocles.
+135-138\. El caso de Temístocles.
 
-139-145./ La Asamblea de Atenas.
+139-145\. La Asamblea de Atenas.
 
-139./ Nuevas embajadas lacedemonias a Atenas. El ultimátum. La Asamblea.
+139\. Nuevas embajadas lacedemonias a Atenas. El ultimátum. La Asamblea.
 
-140-144./ Discurso de Pericles.
+140-144\. Discurso de Pericles.
 
-145./ Respuesta de Atenas.
+145\. Respuesta de Atenas.
 
-146./ Acaba el relato de las causas y antecedentes de la Guerra del Peloponeso.
+146\. Acaba el relato de las causas y antecedentes de la Guerra del Peloponeso.
 
 ## 1. Prólogo. La importancia de la Guerra del Peloponeso
 
