@@ -31,6 +31,8 @@ El título griego tradicional de la obra de Tucídides aparece como *ΘΟΥΚΥ�
 
 Esta edición, monumental en su alcance, reúne el texto griego con aparato crítico completo, introducciones filológicas y las biografías antiguas transmitidas junto con la obra de Tucídides.
 
+<!--
 ### Acerca de la imagen
 
 > Oxford Papyrology. “P.oxy. LVII 3888. Thucydides Ii 75-76”. 21 Sept. 2022. Web. 10 May 2025.
+-->
