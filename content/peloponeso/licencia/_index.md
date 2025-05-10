@@ -12,7 +12,7 @@ toc: true
 type: docs
 sidebar:
   open: true
-weight: 13
+weight: 25
 ---
 
 Hay muchas traducciones al inglés de *Historia de la guerra del Peloponeso*, pero en español no son tantas. En este sitio compartimos la versión completa traducida por Juan José Torres Esbarranch, publicada por la editorial Gredos en 1990. La edición está disponible libremente en [archive.org](https://archive.org/details/tucidides.-historia-de-la-guerra-del-peloponeso-1.-), ya que cuenta con una licencia pública Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
