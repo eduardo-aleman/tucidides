@@ -19,17 +19,12 @@ sidebar:
 toc: true
 ---
 
-<figure>
-  <img src="/img/papiro3888.webp" alt="Papiro Oxirrinco 3888, Tucídides" />
-  <figcaption>
-    El P. Oxy. LVII 3888 es un fragmento de papiro del siglo II d.C. que conserva parte del Libro II (capítulos 75–76) de la <em>Historia de la Guerra del Peloponeso</em> de Tucídides. Descubierto en Egipto y actualmente conservado en la Sackler Library de Oxford, ofrece un testimonio textual temprano.
-  </figcaption>
-</figure>
+![Papiro Oxirrinco 3888](/img/papiro3888.webp "Fragmento del Libro II de Tucídides, siglo II d.C.  El P. Oxy. LVII 3888 es un fragmento de papiro del siglo II d.C. que conserva parte del Libro II (capítulos 75–76) de la Historia de la Guerra del Peloponeso de Tucídides. Descubierto en Egipto y actualmente conservado en la Sackler Library de Oxford, ofrece un testimonio textual temprano.")
 
 
 ## Acerca del título: Referencia editorial
 
-Según Alberti, ΘΟΥΚΥΔΙΔΟΥ ἹΣΤΟΡΙΩΝ Α es la forma tradicional griega de presentar la obra de Tucídides, literalmente:
+*ΘΟΥΚΥΔΙΔΟΥ ἹΣΤΟΡΙΩΝ Α* es la forma tradicional griega de presentar la obra de Tucídides, literalmente:
 
 ### 📜 Transcripción y desglose:
 
@@ -47,13 +42,13 @@ Libro I de las Historias de Tucídides o más formalmente: “Primer libro de la
 
 El título en genitivo es una convención clásica para obras históricas, como:
 
-Ἡροδότου Ἱστορίαι — “Las historias de Heródoto”
+*Ἡροδότου Ἱστορίαι* — “Las historias de Heródoto”
 
-Ξενοφῶντος Ἑλληνικά — “Los Helénicos de Jenofonte”
+*Ξενοφῶντος Ἑλληνικά* — “Los Helénicos de Jenofonte”
 
 En la edición latina tradicional, este título se expresa como:
 
-Thucydidis Historiarum Liber I
+*Thucydidis Historiarum Liber I*
 
 ## Citas: 
 
