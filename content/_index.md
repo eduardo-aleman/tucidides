@@ -2,11 +2,6 @@
 title: "Breve introducción a la vida y obra de Tucídides"
 date: "2025-05-06"
 author: Eduardo Alemán
-cover:
-  image: busto_tucidides.webp
-  alt: "Busto de Tucídides con fondo oscuro y solemne"
-  caption: "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso. Versión de ChatGPT."
-  relative: false
 categories:
 - antigüedad
 - historia
@@ -17,8 +12,6 @@ description: "Síntesis crítica sobre la vida, el método y la obra de Tucídid
 cascade:
   type: docs
 ---
-
-![Busto de Tucídides con fondo oscuro y solemne](/img/busto_tucidides.webp "Tucídides, historiador ateniense y testigo de la guerra del Peloponeso.")
 
 Autor: Eduardo Alemán
 
