@@ -23,7 +23,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 
 24-55\. Conflicto de Corcira.
 
-29\. Victorias de Corira.
+29\. Victorias de Corcira.
 
 31\. Embajadas de corcireos y corintios a Atenas.
 
@@ -360,6 +360,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 ## 23. La magnitud de la Guerra del Peloponeso. Sus causas.
 
 23. De los hechos anteriores el más importante<sup>157</sup> fue la guerra contra los medos, a pesar de que ésta se decidió rápidamente en dos batallas navales y dos terrestres<sup>158</sup>. La duración de esta guerra nuestra, por el contrario, ha ido mucho más allá, y ha ocurrido que en su transcurso se han producido en Grecia desastres sin parangón en un período igual. [2] Nunca tantas ciudades fueron tomadas y asoladas, unas por los bárbaros<sup>159</sup> y otras por los mismos griegos<sup>160</sup> luchando unos contra otros (algunas hay incluso que cambiaron de habitantes al ser conquistadas)<sup>161</sup>; nunca tampoco había habido tantos destierros y tanta mortandad, bien en la misma guerra bien a causa de las luchas civiles. [3] E historias que antes refería la tradición, pero que raramente encontraban una confirmación en la realidad, dejaron de resultar inverosímiles: historias acerca de terremotos<sup>162</sup>, que afectaron a la vez a extensas regiones y que fueron muy violentos; eclipses de sol<sup>163</sup>, que ocurrieron con mayor frecuencia de lo que se recordaba en tiempos pasados; y grandes sequías en algunas tierras y hambres como secuela, y, en fin, la calamidad que no menos daños causó y que destruyó a una parte de la población, la peste<sup>164</sup>. [4] Todos estos males cayeron sobre Grecia junto con esta guerra. La comenzaron los atenienses y los peloponesios al romper el tratado de paz de treinta años que habían concertado después de la conquista de Eubea<sup>165</sup>. [5] Para explicar por qué rompieron he expuesto en primer lugar las razones de esta ruptura y las diferencias que la ocasionaron, a fin de que nunca nadie se pregunte por qué se produjo entre los griegos una guerra tan importante<sup>166</sup>. [6] La causa más verdadera<sup>167</sup>, aunque la que menos se manifiesta en las declaraciones<sup>168</sup>, pienso que la constituye el hecho de que los atenienses al hacerse poderosos e inspirar miedo a los lacedemonios les obligaron a luchar. Pero las razones declaradas públicamente, por las cuales rompieron el tratado y entraron en guerra, fueron las siguientes por parte de cada bando.
+
 ### Notas de Juan José Torres Esbarranch.
 
 157. La magnitud o importancia de los acontecimientos era para Tucídides una categoría fundamental del conocimiento histórico. Cf. *supra*, I 1, 2; n. 11.
@@ -374,3 +375,25 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 166. Nótese el mismo espíritu que inspira la descripción médica de la peste en II 48, 3.
 167. Tucídides distingue aquí entre «la causa más verdadera» (*îèn mén alèthestâtên próphasin*), es decir, la causa profunda, y «las razones declaradas» (*hai d'es to phanerôn legómenai aitiai*), los motivos inmediatos (*aittai en este caso*) frente a la verdadera causa (expresada aquí con el término *próphasis*): el motivo psicológico profundo, que no era otro que el temor que inspiraba a los lacedemonios el poderío de Atenas. Por un lado, las cuestiones de Corcira y Potidea (cf. *infra*, I 24-66), con la breve referencia al decreto contra Mégara (cf. *infra*, I 67, 4); por el otro, el extraordinario crecimiento del poder de Atenas (cf. *infra*, I 89-117). El término *próphasis*, sin embargo, utilizado en este pasaje para referirse a la «causa profunda», tiene con mayor frecuencia el valor de «pretexto» (opuesto a menudo a *aitía*, «causa»), sentido con el que suele emplearlo Tucídides a partir del libro III (cf. P. HUART, *Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide*, Paris, 1968, pág. 259; sobre el doble valor de próphasis, cf. K. WEIDAUER, *op. cit.*, pág. 14).
 168. La idea del temor inspirado por la expansión de Atenas no era nueva (cf. nota anterior) y estaba presente en discursos y comentarios. Sin embargo, la *próphasis* no se sacaba a relucir en las embajadas (cf. *infra*, I 126, 1-2; 139, 1-3), en las que se esgrimían las *aitíai*; la causa más verdadera era la menos aparente en las declaraciones, y también debía aparecer menos que las aitíai en los comentarios populares. Atenas, además, no confesaría que su propia expansión fuera la causa de la guerra.
+
+## 24-55. Conflicto de Corcira.
+
+24. Epidamno169 es una ciudad situada a la derecha para el que entra en el golfo Jonio170. Vecinos suyos son los taulantios171, bárbaros de raza iliria. [2] La fundaron los corcireos172, pero el fundador fue Falio, hijo de Eratóclides, corintio de nacimiento, del linaje de los Heráclidas, que, según la costumbre antigua, había sido traído de la metrópoli173. Participaron también en la fundación algunos corintios y otras gentes de estirpe dórica. [3] Con el paso del tiempo, la ciudad de los epidamnios se hizo grande y populosa. [4] Pero, tras muchos años de disensiones internas, según se cuenta, a consecuencia de una guerra con sus vecinos bárbaros, se encontraron en la ruina y privados de la mayor parte de su fuerza. [5] Finalmente, antes de esta guerra nuestra174, el pueblo expulsó a los aristócratas, y éstos, atacando en compañía de los bárbaros, se dedicaron a saquear a los de la ciudad tanto por tierra como por mar. [6] Cuando los epidamnios que estaban en la ciudad se vieron en apuros, enviaron embajadores a Corcira, como metrópoli que era, pidiendo que no miraran con indiferencia su destrucción, sino que los reconciliaran con los exiliados y pusieran fin a la guerra con los bárbaros. Formularon esta petición sentándose en el templo de Hera175 como suplicantes. Pero los corcireos no atendieron a la súplica, sino que los despidieron sin conseguir nada.
+
+### Notas de Juan José Torres Esbarranch.
+
+169. Luego la romana *Dyrrachium* y hoy Durrës, puerto de Albania
+central cercano a Tirana (en italiano, Durazzo). En tiempos de Roma
+y Bizancio también fue un enclave muy importante; además de su importancia
+en las comunicaciones marítimas, salía de allí la via Egnatia, que,
+a través de Iliria, se dirigía a Tesalónica y a Bizancio. Cf. ESTRABÓN,
+VII 7, 4.
+170. El Adriático. Obsérvese, por otra parte, la descripción desde el punto de vista del navegante: *polis en dexiái espléonti es ton lónion kólpon*, una característica del estilo de las *periḗgēsis* o guías geográficas.
+171. Cf. HECATEO (F, Jacoby, *FCrHist *1, F 99 y 101); ESTRABÓN, VII 7, 8. 
+172. En el 626 o 625 a. C.
+173. Cuando una colonia fundaba a su vez otra colonia, la fundación era presidida, conforme al derecho sagrado, por un fundador (*oikistḗs*) de la metrópoli. La ciudad fundadora —en este caso Corcira— solicitaba a su metrópoli —aquí Corinto— la intervención de un miembro de su aristocracia (aquí «del linaje de los Heráclidas»). De ahí que tanto Corcira como Corinto se consideraran con derecho sobre Epidamno. El *oikistḗs* era responsable de la colonia (*apoikía*) en su fase de fundación, y una vez constituida la nueva polis solía ser honrado en la ciudad que había fundado e incluso era venerado después de su muerte (cf. *infra*, V 11, 1).
+174. Las referencias cronológicas sobre los hechos anteriores a la Guerra del Peloponeso son a veces imprecisas. Los acontecimientos a los que aquí se alude ocurrieron, según DIODORO SÍCULO, XII 30, 2, hacia el 439-438 a. C., pero actualmente se piensa que esta fecha es inexacta y se sitúa el enfrentamiento entre demócratas y oligarcas de Epidamno en el 435. Así, el conflicto de Corcira se desarrollaría entre el 435 (batalla de Leucimna) y el 433 (batalla de las islas de Síbota).
+175. Sobre este templo, cf. *infra*, III 75, 5; 79, 1; 81, 2; DIODORO,
+XIII 48, 6. Sus restos han sido hallados en recientes excavaciones. Cf.
+P. G. K a llig a s , «Tò en Kerkýrāi hieròn tês Akraías Hēras», *Archaiologikòn Deltíon* XXIV (1969), 51-58.
+
