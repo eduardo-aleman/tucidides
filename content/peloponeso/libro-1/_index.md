@@ -385,12 +385,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 
 ### Notas de Juan José Torres Esbarranch.
 
-169. Luego la romana *Dyrrachium* y hoy Durrës, puerto de Albania
-central cercano a Tirana (en italiano, Durazzo). En tiempos de Roma
-y Bizancio también fue un enclave muy importante; además de su importancia
-en las comunicaciones marítimas, salía de allí la via Egnatia, que,
-a través de Iliria, se dirigía a Tesalónica y a Bizancio. Cf. ESTRABÓN,
-VII 7, 4.
+169. Luego la romana *Dyrrachium* y hoy Durrës, puerto de Albania central cercano a Tirana (en italiano, Durazzo). En tiempos de Roma y Bizancio también fue un enclave muy importante; además de su importancia en las comunicaciones marítimas, salía de allí la via Egnatia, que, a través de Iliria, se dirigía a Tesalónica y a Bizancio. Cf. ESTRABÓN, VII 7, 4.
 170. El Adriático. Obsérvese, por otra parte, la descripción desde el punto de vista del navegante: *polis en dexiái espléonti es ton lónion kólpon*, una característica del estilo de las *periḗgēsis* o guías geográficas.
 171. Cf. HECATEO (F, Jacoby, *FCrHist *1, F 99 y 101); ESTRABÓN, VII 7, 8.
 172. En el 626 o 625 a. C.
