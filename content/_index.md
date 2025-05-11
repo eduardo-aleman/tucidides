@@ -55,6 +55,13 @@ Finley, J. H. *Thucydides*. Cambridge, MA: Harvard University Press, 1942. Repri
 
 Gomme, A. W., Antony Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Oxford University Press, 1945–1981.
 
+Hornblower, Simon**. *Thucydides*. London: Duckworth, 1987.
+
+Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1987.
+  -. *The Archidamian War*. Cornell University Press, 1997.
+  -. *The Peace of Nicias and the Sicilian Expedition*. Cornell University Press, 2001.
+  -. *The Fall of the Athenian Empire*. Cornell University Press, 2001.
+
 Palmer, Michael. *Love of Glory and the Common Good: Aspects of the Political Thought of Thucydides*. Lanham, MD: Rowman and Littlefield, 1992.
 
 Parry, Adam. *Logos and Ergon in Thucydides*. With a new introduction by Donald Kagan. Salem, NH: Ayer, 1981.
@@ -70,4 +77,8 @@ Proctor, Dennis. *The Experience of Thucydides*. Warminster: Aris and Phillips, 
 Rawlings, Hunter R., III. *The Structure of Thucydides' History*. Princeton: Princeton University Press, 1981.
 
 Torres Esbarranch, Juan José, ed. and trans. *Tucídides. Historia de la guerra del Peloponeso*. Libros I–II. Madrid: Gredos, 1990.
+
+Strassler, Robert B. (ed.) *The Landmark Thucydides: A Comprehensive Guide to the Peloponnesian War*. Nueva York: Free Press, 1998.
+
+Woodruff, Paul (ed. y trad.) *The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War*. Hackett Publishing, 2021.  
 
