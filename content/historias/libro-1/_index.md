@@ -452,7 +452,7 @@ de la costa oriental de Corcira. Cf. *infra*, 1 47, 2.
 222. La costa entre Accio y el cabo Quimerio (probablemente el actual Varlaam) está formada por un arenal y por playas entre zonas rocosas; los fondeaderos son inadecuados para una gran flota hasta llegar a la bahía de Fanari, uno de los lugares en que se sitúa el puerto de Quimerio. Este topónimo tenía que ver probablemente con una zona de la Tesprotia (cf. nota siguiente) situada al sur de Síbota (cf. *infra*, I 50, 3, n. 299) y se daba a un promontorio y a un puerto (cf. *infra*, I 46, 3-4). Para la identificación del puerto se ha pensado en la bahía de Fanari, donde desemboca el río Gourlá (el Aqueronte) y que tiene al sur la pequeña babia de Kerentza, y también en la de _Hagios Iōannēs_, situada al norte de Fanari y unos 6 Km. al este de Parga, un puerto más amplio que el de Fanari (cf. el _Glykỳs Limēn_ de ESTRABÓN, VII 7, 5, y PAUSANIAS, VIII 7, 2). Pero, según N. G. L. . HAMMOND («Naval Operations in the South Channel of Corcyra 435-433 B C», Journal of Hellenic Studies 65 (1945), 26-37), que estudió sobre el terreno la descripción de Tucidides, el puerto de Quimerio no debe localizarse al sur del cabo Varlaam, sino al norte, donde está el actual Vemocastro, en la bahía del Paramythia, ubicación preferible a la de la bahía de Arila, situada algo más al norte. Cf. el reciente trabajo de J. WILSON: _Athens and Corcyra. Strategy and Tactics in the Peloponnesian War_, Bristol, 1987.
 223. La Tesprotia, región costera del Epiro meridional, entre el río
 Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
-224. La llegada del invierno solía poner fin a las operaciones militares, o al menos las reducía sensiblemente, Cf. *infra*, lI 47, 1; 92, 7-93, 1; etc. Cf. , sin embargo, Il 69, 1, n. 464. 
+224. La llegada del invierno solía poner fin a las operaciones militares, o al menos las reducía sensiblemente, Cf. *infra*, lI 47, 1; 92, 7-93, 1; etc. Cf. , sin embargo, Il 69, 1, n. 464.
 
 ## 31. Embajadas de corcireos y corintios a Atenas.
 
@@ -460,17 +460,29 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 
 ### Notas de Juan José Torres Esbarranch.
 
-225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433. 
-226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2. 
+225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433.
+226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2.
 227. En los discursos de embajadores como el presente existe la duda de si reflejan el discurso de un solo embajador o son el resumen de versas intervenciones. Seguramente son el reflejo general de la posición de los planteamientos de los estados que intervenían en el debate. Cf. _supra_, 1 22, 1-2, n. 150.
 
 ## 32-36. Discurso de los corcireos.
 
+32. «Es justo, atenienses, que quienes, sin mediar un servicio prestado anteriormente ni una alianza, acuden a otros<sup>228</sup>, como hacemos nosotros ahora, a pedir ayuda, demuestren en primer lugar que su petición implica sobre todo utilidad y, si no, que al menos no es perjudicial, y, en segundo lugar, que conservarán una gratitud inquebrantable; si no fundamentan con seguridad ninguno de estos dos puntos, no es justo que se irriten si no tienen éxito. [2] Por éso, pues, nos han enviado los corcireos, porque creen que, con la petición de alianza, también pueden ofrecer garantías sobre los puntos citados. [3] Sucede, sin embargo, que nuestra política resulta al mismo tiempo absurda en relación con nuestra petición ante vosotros y perjudicial para nuestros propios intereses en el presente. [4] Absurda, porque nosotros, que hasta este momento nunca hemos querido ser aliados de nadie, venimos ahora a pedir esto de otros; y perjudicial a la vez, porque por la misma razón nos encontramos solos en la guerra actual con los corintios. Y lo que antes parecía prudencia nuestra —no compartir, en una alianza con otros, los peligros motivados por sus decisiones— ha cambiado y ahora se ha revelado como insensatez y debilidad. [5] Es cierto que en la pasada batalla nosotros solos, sin ninguna ayuda, conseguimos rechazar a los corintios; pero una vez que se han puesto en movimiento contra nosotros con mayor armamento, sacado del Peloponeso y del resto de Grecia, y que nosotros vemos que somos incapaces de superarlos sólo con nuestras fuerzas, y que además corremos un gran peligro si caemos bajo su poder, la necesidad nos obliga a pediros ayuda a vosotros y a cualquier otro, y merecemos indulgencia si, no con malicia, sino más bien como reconocimiento de un error de apreciación, nos atrevemos a emprender una política contraria a nuestro retraimiento anterior<sup>229</sup>.
+
 ### Notas de Juan José Torres Esbarranch.
+
+228. Literalmente «a los vecinos», _hoi pélas_, expresión con la que normalmente se hace referencia a otros pueblos en general, no precisamente a Estados con territorios limítrofes. Esta identificación de «los otros» con «los vecinos» refleja probablemente el limitado horizonte de las _poleis_ griegas de la época arcaica. 229. Retraimiento, inactividad o política de neutralidad o de no intervención (apragmosýnē), fruto de la prudencia (sōfrosýnē) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. *infra*, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
 
 ## 37-43. Discurso de los corintios.
 
+37. «Dado que los corcireos aquí presentes no sólo han hablado en su discurso de que los acojáis como aliados, sino que también han sostenido que nosotros cometemos injusticia y ellos son atacados sin razón, es necesario que también nosotros nos refiramos primero a estos dos puntos antes de pasar al resto de nuestro discurso, a fin de que conozcáis con mayor seguridad nuestra justa reclamación y rechacéis no sin razón la petición que la necesidad les dicta.
+[2] Dicen que por prudencia<sup>247</sup> nunca han aceptado la alianza de nadie; pero la verdad es que han seguido esta política con ánimo malévolo y no por virtud, pues no querían tener ningún aliado testigo de sus injusticias ni querían avergonzarse al solicitar su ayuda. [3] Y su ciudad, además, al estar situada en una posición independiente, les hace jueces de los daños que causan a otros en lugar de estar sujetos a tratados<sup>248</sup>, por el hecho de que salen muy poco de su isla para ir a los puertos de sus vecinos, mientras que continuamente reciben a los otros, que arriban por necesidad. [4] En estas condiciones, se escudan en la hermosa apariencia de esta política de no alineamiento<sup>249</sup> no para evitar su participación en las injusticias de otros, sino con la intención de cometer ellos solos sus propias injusticias y de actuar con violencia en los casos en que son los más fuertes, de sacar ventaja cuando pasan desapercibidos y de no avergonzarse si alguna vez se hacen con alguna ganancia. [5] Si verdaderamente fueran hombres honrados, como dicen, cuanto más fuera del alcance de otros pueblos estuvieran, tanto más claramente podrían mostrar su virtud ofreciendo y aceptando los arbitrajes de la justicia<sup>250</sup>.
+
 ### Notas de Juan José Torres Esbarranch.
+
+247. Cf. *supra*, 1 32, 4.
+248. Tratados o convenios para la aplicación de la justicia a los ciudadanos de otros Estados, de reciprocidad jurídica. 
+249. Cf. *supra*, 1 32, 5, n. 229.
+250. Cf. *infra*, 1 77, 1, n. 435.
 
 ## 44-45. Alianza defensiva de Atenas y Corcira. Intervención ateniense.
 
