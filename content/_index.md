@@ -47,7 +47,6 @@ Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, 
 
 de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
 
-
 —. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
 
 —. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
@@ -63,8 +62,11 @@ Gomme, A. W., Antony Andrewes, and K. J. Dover. *A Historical Commentary on Thuc
 Hornblower, Simon. *Thucydides*. London: Duckworth, 1987.
 
 Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1987.
+
   -. *The Archidamian War*. Cornell University Press, 1997.
+
   -. *The Peace of Nicias and the Sicilian Expedition*. Cornell University Press, 2001.
+  
   -. *The Fall of the Athenian Empire*. Cornell University Press, 2001.
 
 Palmer, Michael. *Love of Glory and the Common Good: Aspects of the Political Thought of Thucydides*. Lanham, MD: Rowman and Littlefield, 1992.
