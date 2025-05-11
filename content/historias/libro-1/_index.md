@@ -460,6 +460,6 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 
 ### Notas de Juan José Torres Esbarranch.
 
-225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433.
-226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2.
+225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433. 
+226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2. 
 227. En los discursos de embajadores como el presente existe la duda de si reflejan el discurso de un solo embajador o son el resumen de versas intervenciones. Seguramente son el reflejo general de la posición de los planteamientos de los estados que intervenían en el debate. Cf. _supra_, 1 22, 1-2, n. 150.
