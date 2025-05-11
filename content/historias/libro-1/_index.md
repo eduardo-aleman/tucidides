@@ -711,7 +711,6 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 ## 112. Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada.
 
 
-
 ### Notas de Juan José Torres Esbarranch.
 
 
