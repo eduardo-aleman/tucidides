@@ -463,3 +463,368 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433. 
 226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2. 
 227. En los discursos de embajadores como el presente existe la duda de si reflejan el discurso de un solo embajador o son el resumen de versas intervenciones. Seguramente son el reflejo general de la posición de los planteamientos de los estados que intervenían en el debate. Cf. _supra_, 1 22, 1-2, n. 150.
+
+## 32-36. Discurso de los corcireos.
+
+### Notas de Juan José Torres Esbarranch.
+
+## 37-43. Discurso de los corintios.
+
+### Notas de Juan José Torres Esbarranch.
+
+## 44-45. Alianza defensiva de Atenas y Corcira. Intervención ateniense.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 46. Preparativos de los corintios.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 47. Preparativos de los corcireos.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 48-52. Batalla naval de las islas de Síbota.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 53. Conversaciones entre atenienses y corintios.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 54. Corintios y corcireos reivindican la victoria.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 55. Los corintios y los atenienses regresan a su patria.
+
+### Notas de Juan José Torres Esbarranch.
+## 56-66. Conflicto de Potidea.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 57. Intrigas de Perdicas contra los atenienses.
+
+### Notas de Juan José Torres Esbarranch.
+
+## 58. Sublevación de Potidea.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 59. Los atenienses en Macedonia.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 60. Ayuda de Corinto.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 61. Expedición de Calías.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 62-63. La Batalla de Potidea.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 64-66. Asedio de Potidea.
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 67-88. El debate de Esparta.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 68-72. Discurso de los corintios.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 73-79. Discurso de los atenienses.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+## 80-85. Discurso de Arquidamo.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 86. Discurso de Estenelaidas.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 87. El tratado ha sido violado.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 88. El miedo de Esparta al poderío de Atenas. La verdadera causa.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 89-118. La «Pentecontecia». Historia de Atenas después de las Guerras Médicas. Formación del Imperio ateniense.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 90-93. La reconstrucción de las murallas de Atenas. Actuación de Temístocles.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 94. Expedición de Pausanias contra Chipre y Bizancio.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 95. Acusaciones contra Pausanias. La hegemonía pasa a los atenienses.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 96. La Confederación ático-delia.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 97-100. Orígenes y crecimiento del poderío ateniense. De la hegemonía al Imperio. Expediciones de Cimón, Tracia, Naxos, Eurimedonte, Tasos.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 101. La rebelión de los hilotas. Rendición de Tasos.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 102. Diferencias entre Esparta y Atenas. El incidente de Itome.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 103. Fin de la resistencia de Itome. Alianza de Mégara y Atenas.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 104. Los atenienses en Egipto.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 105-106. Guerras contra Corinto, Epidauro y Egina.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 107. Expedición lacedemonia a Grecia Central.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 108. Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 109-110. Derrota de los atenienses en Egipto.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 111. Los atenienses en Tesalia, en el Peloponeso y en Acarnania.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 112. Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 113. Batalla de Coronea. Derrota ateniense en Grecia Central.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 114. Sublevación de Eubea y de Mégara.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 115-117. La Paz de Treinta años. La Guerra de Samos.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 118. Fin de la «Pentecontecia». Embajada lacedemonia a Delfos.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+
+## 119-125. Asamblea de la Liga del Peloponeso en Esparta.
+
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 120-124. Discurso de los corintios.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 125. Se decide la guerra.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 126-139. Reclamaciones y pretextos.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 126-127. Primera embajada lacedemonia a Atenas. El sacrilegio de los Aicmeónidas.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 128-134. Réplica ateniense. El sacrilegio del Ténaro. Traición de Pausanias.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 135-138. El caso de Temístocles.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 139-145. La Asamblea de Atenas.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 139. Nuevas embajadas lacedemonias a Atenas. El ultimátum. La Asamblea.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 140-144. Discurso de Pericles.
+
+
+
+## 145. Respuesta de Atenas.
+
+
+### Notas de Juan José Torres Esbarranch.
+
+
+
+## 146. Acaba el relato de las causas y antecedentes de la Guerra del Peloponeso.
+
+
+### Notas de Juan José Torres Esbarranch.
