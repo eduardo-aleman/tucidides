@@ -37,7 +37,7 @@ En el ámbito hispánico, la edición de Historia de la guerra del Peloponeso a 
 
 Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato. [Disponible en archive.org](https://archive.org/details/thucydidis-historiae-vol.-i-libri-i-ii)
 
-Antonios Rengakos, Antonis Tsakmakis, L. Canfora E. J. Bakker, Brill's Companion to Thucydides. Leiden: Brill, 2006. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2007/2007.09.55/)
+Antonios Rengakos, Antonis Tsakmakis, L. Canfora E. J. Bakker. *Brill's Companion to Thucydides*. Leiden: Brill, 2006. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2007/2007.09.55/)
 
 Connor, W. R. *Thucydides*. Princeton: Princeton University Press, 1984.
 
@@ -59,7 +59,7 @@ Finley, J. H. *Thucydides*. Cambridge, MA: Harvard University Press, 1942. Repri
 
 Gomme, A. W., Antony Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Oxford University Press, 1945–1981.
 
-Hornblower, Simon. *Thucydides*. London: Duckworth, 1987.
+Hornblower, Simon. *Thucydides*. London: Duckworth, 1987. [Disponible en archive.org](https://archive.org/details/thucydides0000horn/)
 
 Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1987.
 
