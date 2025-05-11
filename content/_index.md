@@ -55,7 +55,7 @@ Finley, J. H. *Thucydides*. Cambridge, MA: Harvard University Press, 1942. Repri
 
 Gomme, A. W., Antony Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Oxford University Press, 1945–1981.
 
-Hornblower, Simon**. *Thucydides*. London: Duckworth, 1987.
+Hornblower, Simon. *Thucydides*. London: Duckworth, 1987.
 
 Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1987.
   -. *The Archidamian War*. Cornell University Press, 1997.
