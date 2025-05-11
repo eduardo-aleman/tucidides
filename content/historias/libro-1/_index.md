@@ -480,14 +480,20 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 ### Notas de Juan José Torres Esbarranch.
 
 247. Cf. *supra*, 1 32, 4.
-248. Tratados o convenios para la aplicación de la justicia a los ciudadanos de otros Estados, de reciprocidad jurídica. 
+248. Tratados o convenios para la aplicación de la justicia a los ciudadanos de otros Estados, de reciprocidad jurídica.
 249. Cf. *supra*, 1 32, 5, n. 229.
 250. Cf. *infra*, 1 77, 1, n. 435.
 
 ## 44-45. Alianza defensiva de Atenas y Corcira. Intervención ateniense.
 
+44. Así hablaron a su vez los corintios. Los atenienses, después de escuchar a unos y a otros, celebraron dos asambleas; en la primera acogieron los argumentos de los corintios con no menor aceptación, pero en la del día siguiente decidieron, cambiando de opinión, no concertar con los corcireos una alianza plena que estipulara los mismos amigos y enemigos (pues en eí caso de que los corcireos les llevaran a navegar con ellos contra los corintios, quedaría roto el tratado con los peloponesios); pero concertaron una alianza defensiva<sup>265</sup> con el acuerdo de ayuda mutua en caso de que alguien atacase Corcira o Atenas o a los aliados de estas ciudades. [2] Creían que de todas formas se verían abocados a la guerra contra los peloponesios, y su intención era no abandonar Corcira, dueña de una flota tan grande, a los corintios, sino dejarles chocar unos contra otros lo más posible, a fin de entrar ellos en guerra, en caso necesario, cuando los corintios y demás poseedores de una flota<sup>266</sup> fueran más débiles. [3] Veían, además, que la isla estaba magníficamente situada en la ruta de cabotaje de Italia y Sicilia<sup>267</sup>.
+
 ### Notas de Juan José Torres Esbarranch.
 
+264. Cf. *supra*, I 40, 5.
+265. En lugar de una alianza plena (_symmachía_), que implicaba «tener los mismos amigos y enemigos», es decir, una alianza ofensiva y defensiva a la vez, estipularon una _epimachía_, una alianza defensiva.
+266. Cf. *supra*, I 27, 2.
+267. Cf. *supra*, I 36, 2, n. 245. Era éste un argumento de gran peso.
 
 ## 46. Preparativos de los corintios.
 
