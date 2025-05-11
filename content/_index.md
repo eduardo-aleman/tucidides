@@ -51,6 +51,7 @@ de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydid
 de Romilly, Jacqueline. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
 
 -. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
+
 —. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
 
 Dover, K. J. *Thucydides*. Greece and Rome: New Surveys in the Classics 7. Oxford: Clarendon Press, 1973.
