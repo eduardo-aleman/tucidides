@@ -432,3 +432,4 @@ En la interpretación del mito que nos ofrece Tucídides es de destacar la idea 
 207. Lo que, dado el reciente pronunciamiento del oráculo en favor de los corintios (cf. _supra_, 25, 1), suponía un riesgo para Corcira.
 208. Diplomática alusión a los atenienses.
 209. El recurso al arbitraje (_dikē_) para evitar un conflicto armado, muy frecuente entre los griegos dada su fragmentación política, era raramente efectivo cuando los adversarios se creían en situación de conseguir la victoria.
+
