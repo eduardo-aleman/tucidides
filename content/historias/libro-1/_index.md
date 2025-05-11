@@ -454,7 +454,7 @@ de la costa oriental de Corcira. Cf. *infra*, 1 47, 2.
 Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 224. La llegada del invierno solía poner fin a las operaciones militares, o al menos las reducía sensiblemente, Cf. *infra*, lI 47, 1; 92, 7-93, 1; etc. Cf. , sin embargo, Il 69, 1, n. 464. 
 
-## 31. Embajadas de corcireos y corintios a Atenas
+## 31. Embajadas de corcireos y corintios a Atenas.
 
 31. Durante todo el año que siguió a la batalla naval y el año posterior<sup>225</sup>, los corintios, a quienes irritaba el recuerdo de la guerra contra los corcireos, se dedicaron a construir naves y a preparar con todo empeño una expedición naval reclutando remeros del mismo Peloponeso y del resto de Grecia con el incentivo de una buena soldada. [2] Cuando los corcireos se enteraron de sus preparativos, se asustaron, y, dado que no estaban ligados por ningún tratado con ninguna ciudad griega y no se habían preocupado de inscribirse ni en la confederación ateniense ni en la lacedemonia<sup>226</sup>, decidieron dirigirse a los atenienses, hacerse sus aliados e intentar conseguir de ellos alguna ayuda. [3] Los corintios, al enterarse de esto, fueron, también ellos, a Atenas a negociar, para evitar que la flota ateniense, uniéndose a la de los corcireos, les impidiera dirimir la guerra como querían. [4] Tuvo lugar una asamblea y se entabló un debate. He aquí lo que dijeron los corcereos<sup>227</sup>:
 
