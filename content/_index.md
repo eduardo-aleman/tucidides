@@ -43,15 +43,15 @@ Connor, W. R. *Thucydides*. Princeton: Princeton University Press, 1984.
 
 Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, MD: Rowman and Littlefield, 1996. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/1997/1997.02.21/)
 
-—. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/1999/1999.08.05/)
+  —. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/1999/1999.08.05/)
 
 de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
 
-—. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
+  —. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
 
-—. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
+  —. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
 
-—. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
+  —. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
 
 Dover, K. J. *Thucydides*. Greece and Rome: New Surveys in the Classics 7. Oxford: Clarendon Press, 1973.
 
@@ -63,11 +63,11 @@ Hornblower, Simon. *Thucydides*. London: Duckworth, 1987.
 
 Kagan, Donald. *The Outbreak of the Peloponnesian War*. Cornell University Press, 1987.
 
-  -. *The Archidamian War*. Cornell University Press, 1997.
+  —. *The Archidamian War*. Cornell University Press, 1997.
 
-  -. *The Peace of Nicias and the Sicilian Expedition*. Cornell University Press, 2001.
+  —. *The Peace of Nicias and the Sicilian Expedition*. Cornell University Press, 2001.
   
-  -. *The Fall of the Athenian Empire*. Cornell University Press, 2001.
+  —. *The Fall of the Athenian Empire*. Cornell University Press, 2001.
 
 Palmer, Michael. *Love of Glory and the Common Good: Aspects of the Political Thought of Thucydides*. Lanham, MD: Rowman and Littlefield, 1992.
 
