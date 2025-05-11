@@ -470,7 +470,7 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 
 ### Notas de Juan José Torres Esbarranch.
 
-228. Literalmente «a los vecinos», _hoi pélas_, expresión con la que normalmente se hace referencia a otros pueblos en general, no precisamente a Estados con territorios limítrofes. Esta identificación de «los otros» con «los vecinos» refleja probablemente el limitado horizonte de las _poleis_ griegas de la época arcaica. 229. Retraimiento, inactividad o política de neutralidad o de no intervención (apragmosýnē), fruto de la prudencia (sōfrosýnē) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. *infra*, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
+228. Literalmente «a los vecinos», _hoi pélas_, expresión con la que normalmente se hace referencia a otros pueblos en general, no precisamente a Estados con territorios limítrofes. Esta identificación de «los otros» con «los vecinos» refleja probablemente el limitado horizonte de las _poleis_ griegas de la época arcaica. 229. Retraimiento, inactividad o política de neutralidad o de no intervención (_apragmosýnē_), fruto de la prudencia (_sōfrosýnē_) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. *infra*, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
 
 ## 37-43. Discurso de los corintios.
 
