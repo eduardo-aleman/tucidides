@@ -37,17 +37,21 @@ En el ámbito hispánico, la edición de Historia de la guerra del Peloponeso a 
 
 Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato.
 
+Antonios Rengakos, Antonis Tsakmakis, L. Canfora E. J. Bakker, Brill's Companion to Thucydides. Leiden: Brill, 2006. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2007/2007.09.55/)
+
 Connor, W. R. *Thucydides*. Princeton: Princeton University Press, 1984.
 
-Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, MD: Rowman and Littlefield, 1996.
+Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, MD: Rowman and Littlefield, 1996. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/1997/1997.02.21/)
 
-—. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998.
+—. *The Ancient Simplicity: Thucydides and the Limits of Political Realism*. Berkeley: University of California Press, 1998. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/1999/1999.08.05/)
+
+de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
+
 
 de Romilly, Jacqueline. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
 
+-. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
 —. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
-
-de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
 
 Dover, K. J. *Thucydides*. Greece and Rome: New Surveys in the Classics 7. Oxford: Clarendon Press, 1973.
 
@@ -75,6 +79,8 @@ Pritchett, W. K. *Thucydides' Pentekontaetia and Other Essays*. Archaia Hellas: 
 Proctor, Dennis. *The Experience of Thucydides*. Warminster: Aris and Phillips, 1980.
 
 Rawlings, Hunter R., III. *The Structure of Thucydides' History*. Princeton: Princeton University Press, 1981.
+
+Ryan K. Balot, Sara Forsdyke, Edith Foster. *The Oxford Handbook of Thucydides*. Oxford handbooks. New York: Oxford University Press, 2017.
 
 Torres Esbarranch, Juan José, ed. and trans. *Tucídides. Historia de la guerra del Peloponeso*. Libros I–II. Madrid: Gredos, 1990.
 
