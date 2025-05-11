@@ -35,7 +35,7 @@ En el ámbito hispánico, la edición de Historia de la guerra del Peloponeso a 
 
 ## Bibliografía
 
-Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato.
+Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato. [Disponible en archive.org](https://archive.org/details/thucydidis-historiae-vol.-i-libri-i-ii)
 
 Antonios Rengakos, Antonis Tsakmakis, L. Canfora E. J. Bakker, Brill's Companion to Thucydides. Leiden: Brill, 2006. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2007/2007.09.55/)
 
@@ -48,9 +48,9 @@ Crane, Gregory. *The Blinded Eye: Thucydides and the New Written Word*. Lanham, 
 de Romilly, Jacqueline, Raymond Weil, and Louis Bodin, eds. and trans. *Thucydide: La Guerre du Péloponnèse*. 6 vols. Paris: Les Belles Lettres, 1958–1972.
 
 
-de Romilly, Jacqueline. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
+—. *Histoire et raison chez Thucydide*. 2nd ed., Paris: Les Belles Lettres, 1967.
 
--. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
+—. *The Mind of Thucydides* (first published 1956). Translated by Elizabeth Trapnell Rawlings; edited and with an introduction by Hunter R. Rawlings III and Jeffrey Rusten. Cornell studies in classical philology. Ithaca; London: Cornell University Press, 2012. [Bryn Mawr Classical Review.](https://bmcr.brynmawr.edu/2013/2013.04.53/)
 
 —. *Thucydides and Athenian Imperialism*. Translated by Philip Thody, Oxford: Oxford University Press. Reprint, Salem, NH: Ayer, 1988.
 
