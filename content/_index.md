@@ -80,5 +80,4 @@ Torres Esbarranch, Juan José, ed. and trans. *Tucídides. Historia de la guerra
 
 Strassler, Robert B. (ed.) *The Landmark Thucydides: A Comprehensive Guide to the Peloponnesian War*. Nueva York: Free Press, 1998.
 
-Woodruff, Paul (ed. y trad.) *The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War*. Hackett Publishing, 2021.  
-
+Woodruff, Paul (ed. y trad.) *The Essential Thucydides: On Justice, Power, and Human Nature: Selections from The History of the Peloponnesian War*. Hackett Publishing, 2021.
