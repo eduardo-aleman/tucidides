@@ -13,8 +13,6 @@ cascade:
   type: docs
 ---
 
-Autor: Eduardo Alemán
-
 ## Tucídides y su obra
 
 Tucídides (c. 460–c. 395 a.C.) fue un historiador ateniense cuya única obra conservada, *Historia de la guerra del Peloponeso*, constituye uno de los pilares fundacionales de la historiografía occidental. Testigo directo del conflicto entre Atenas y Esparta —en el que participó como estratego antes de ser exiliado—, Tucídides emprendió la redacción de una historia que aspiraba a ser “una posesión para siempre” (*ktēma es aiei*), un relato libre de mitos, embellecimientos retóricos y parcialidades patrióticas.
