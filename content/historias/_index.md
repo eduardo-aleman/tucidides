@@ -19,39 +19,30 @@ sidebar:
 toc: true
 ---
 
-<!-- ![Papiro Oxirrinco 3888](/img/papiro3888.webp "Fragmento del Libro II de Tucídides, siglo II d.C.  El P. Oxy. LVII 3888 es un fragmento de papiro del siglo II d.C. que conserva parte del Libro II (capítulos 75–76) de la Historia de la Guerra del Peloponeso de Tucídides. Descubierto en Egipto y actualmente conservado en la Sackler Library de Oxford, ofrece un testimonio textual temprano.") -->
+## Sobre el título
 
-La expresión ΘΟΥΚΥΔΙΔΟΥ ἹΣΤΟΡΙΩΝ representa el título tradicional de la obra de Tucídides según se conserva en los manuscritos griegos. Literalmente, puede traducirse como “De las Historias de Tucídides”. Su forma gramatical —el genitivo de “Θουκυδίδης” y el plural de “ἱστορία”— sigue una convención antigua usada para titular obras históricas o filosóficas, como en los casos de Ἡροδότου Ἱστορίαι (Las historias de Heródoto) o Ξενοφῶντος Ἑλληνικά (Los Helénicos de Jenofonte). No se trata de un título que Tucídides haya utilizado, sino de una designación editorial consolidada en la tradición manuscrita y adoptada por las ediciones impresas modernas.
+### Alberti:
 
-En contraste, Θουκυδίδης ᾿Αθηναῖος ξυνέγραψε es la frase con la que inicia el propio texto de Tucídides y constituye su verdadero incipit. Traducida, dice: “Tucídides, el ateniense, escribió (esta historia)”. Esta afirmación en primera persona establece de inmediato al autor como testigo y compilador consciente de los hechos. El verbo ξυνέγραψε —forma aorista de ξυγγράφω, que significa “compilar” o “escribir con orden”— sugiere una elaboración reflexiva y metódica, más que una simple narración cronológica.
-La comparación entre ambas expresiones revela dos niveles de aproximación al texto: el título externo impuesto por la tradición de los manuscritos y la declaración interna del propio autor. Mientras que el título genitivo responde a una lógica de archivo y catalogación (¿de quién son estas historias?), el incipit nominativo pone el énfasis en la autoría y en la intención historiográfica de quien escribe. En este sentido, la frase inicial Θουκυδίδης ᾿Αθηναῖος ξυνέγραψε no solo inaugura el relato, sino que también afirma una postura intelectual: la del historiador que compone su obra con un criterio analítico y con conciencia de su rol frente a los hechos.
+El título con que se transmite el *Libro I* de las *Historias* de Tucídides varía significativamente en los manuscritos antiguos y refleja tanto decisiones paleográficas como editoriales. Según la edición crítica de Giovanni Battista Alberti (*Thucydidis Historiae*, vol. 1), la forma más cercana al encabezado clásico es *Θουκυδίδου Ἱστοριῶν Α* (*de Tucídides, Investigaciones, Libro A*), que aparece en el códice G y es corroborada por testimonios afines. Esta fórmula —con el nombre del autor en genitivo (*Θουκυδίδου*, “de Tucídides”), seguido del genitivo plural de *ἱστορία* (*Ἱστοριῶν*, “investigaciones, historias”) y la letra *Α* (indicando el primer libro)— responde a una convención antigua de titulación, empleada también en obras como *Ἡροδότου Ἱστορίαι* (“Las historias de Heródoto”) y *Ξενοφῶντος Ἑλληνικά* (“Los Helénicos de Jenofonte”). En latín, este título se corresponde con *Thucydidis Historiarum Liber I*, forma estandarizada en las ediciones humanistas y modernas.
 
-Según Gomme, "_Θουκυδίδης ᾿Αθηναῖος ξυνέγραψε_: the title-page, as it were, of the book-first the author's name, and then his subject. Herodotos began his book in a similar way; Xenophon did not, either Hellenika which professes to continue from Thucydides' last sentence, or the independent Anabasis."
+Sin embargo, como observa Alberti, en otros manuscritos se registran variantes como *Θουκυδίδου συγγραφῆς α* (*de Tucídides, escritor, libro A*) en ABE, *Θουκυδίδου συγγραφῆς πρῶτον* (*de Tucídides, escritor, primero*) en F, *Θουκυδίδου α* (*de Tucídides, A*) en M², o incluso la omisión total del título en C⁴. La inserción del término *συγγραφεύς* (“escritor” o “autor”) parece ser una interpolación de época posterior, posiblemente bizantina, destinada a resaltar la figura del autor como sujeto activo de la narración. Estas fórmulas, aunque ajenas al encabezado original, aportan información valiosa sobre la recepción del texto y la manera en que fue organizado y titulado por copistas tardíos.
 
-## Citas 
+Alberti destaca también que el uso de ordinales como *πρῶτον* (“primero”) en lugar de letras como *α* (“alfa”) es característico de ciertos contextos escolares y sistematizaciones medievales. Por otra parte, la omisión del título en algunos códices refleja una práctica corriente en transmisiones textuales donde lo importante era conservar el contenido continuo más que dividir formalmente los libros.
 
-### Acerca del título
+Estas variantes son registradas y comparadas por Alberti en su aparato crítico (vol. 1, p. 25), junto con testimonios de autores antiguos como Dionisio de Halicarnaso, Alejandro, Prisciano y escoliastas a Aristófanes, que comentan o reproducen encabezados semejantes. Así, el estudio del título permite no solo observar la evolución de la presentación del texto, sino también reconstruir parte de la historia de su transmisión.
 
-> Alberti, Giovanni Battista, ed. *Thucydidis Historiae*. Vols. I–II. Roma: Istituto Poligrafico dello Stato, 1972.
+> Alberti, Giovanni Battista, editor. *Thucydidis Historiae*. Vol. 1, Books 1–2, Instituto Poligrafico dello Stato, 1972, p. 25.
 
-Esta edición, monumental en su alcance, reúne el texto griego con aparato crítico completo, introducciones filológicas y las biografías antiguas transmitidas junto con la obra de Tucídides.
+### Gomme:
 
-> Gomme, A.W., Andrewes, A., & Dover, K.J. *Historical Commentary on Thucydides* Oxford: Clarendon Press, 1945–1981.
+Según A. W. Gomme, la frase *Θουκυδίδης ᾿Αθηναῖος ξυνέγραψε* (*Tucídides el ateniense escribió*) debe entenderse como una especie de *título interno* o “portada” del libro, que presenta primero el nombre del autor y luego su tema: la guerra entre atenienses y peloponesios. Esta fórmula se corresponde con una convención literaria que también emplea Heródoto al comenzar su obra, mientras que Jenofonte, curiosamente, no la adopta ni en la *Helénica* —que se ofrece como continuación directa de Tucídides— ni en su obra más personal, la *Anábasis*. El uso de esta estructura en Tucídides subraya el carácter reflexivo y deliberado de su historiografía, en la que el autor se posiciona desde la primera línea como testigo, analista y artífice del relato histórico.
 
-- Vol. I: *Introduction and Commentary on Book I*, by A.W. Gomme (1945)  
-- Vol. II: *Commentary on Book II*, by A.W. Gomme (1956)  
-- Vol. III: *Commentary on Book III*, by A.W. Gomme (1959)  
-- Vol. IV: *Commentary on Book IV*, by A.W. Gomme (1970)  
-- Vol. V: *Commentary on Books V–VII*, by A. Andrewes (1977)  
-- Vol. VI: *Commentary on Book VIII*, by K.J. Dover (1981)
-
-El Historical Commentary on Thucydides de A.W. Gomme es una obra fundamental en la filología clásica y en el estudio de la historiografía griega. Considerado un hito interpretativo, este comentario se distingue por su exhaustivo análisis histórico, geográfico y político del texto de Tucídides, ofreciendo aclaraciones minuciosas sobre nombres propios, instituciones, topografía y cronología. Gomme combina una erudición filológica rigurosa con un enfoque crítico que busca situar las afirmaciones de Tucídides dentro del contexto histórico real en que fueron concebidas.
-
-El proyecto, iniciado por Gomme, abarca los libros I a V. A su muerte, fue continuado por Andrewes (libros V–VII) y finalmente por K.J. Dover (libro VIII), quienes mantuvieron el alto estándar académico del comentario. La obra conjunta no solo esclarece pasajes oscuros, sino que también examina la metodología histórica de Tucídides, su concepción del poder y su estilo narrativo, proporcionando al lector moderno una herramienta indispensable para una lectura profunda y contextualizada.
-Su valor reside, además, en su capacidad para dialogar críticamente con otras fuentes antiguas, identificar anacronismos aparentes, y evaluar la fiabilidad de los discursos o episodios descritos, convirtiéndolo en una guía imprescindible tanto para historiadores como para filólogos.
+> Gomme, A. W., Andrewes, A., and Dover, K. J. *A Historical Commentary on Thucydides*. Vol. 1: *Introduction and Commentary on Book I*, by A. W. Gomme, Oxford: Clarendon Press, 1945, p. 89.
 
 <!--
 ### Acerca de la imagen
 
 > Oxford Papyrology. “P.oxy. LVII 3888. Thucydides Ii 75-76”. 21 Sept. 2022. Web. 10 May 2025.
 -->
+
+<!-- ![Papiro Oxirrinco 3888](/img/papiro3888.webp "Fragmento del Libro II de Tucídides, siglo II d.C.  El P. Oxy. LVII 3888 es un fragmento de papiro del siglo II d.C. que conserva parte del Libro II (capítulos 75–76) de la Historia de la Guerra del Peloponeso de Tucídides. Descubierto en Egipto y actualmente conservado en la Sackler Library de Oxford, ofrece un testimonio textual temprano.") -->
