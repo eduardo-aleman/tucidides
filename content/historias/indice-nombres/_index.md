@@ -13,7 +13,7 @@ draft: false
 description: "Índice alfabético de nombres mencionados en los libros primero y segundo, con referencias detalladas por libro y sección según la edición que usamos en este sitio."
 weight: 3
 ---
-Tucídides. Historia de la guerra del Peloponeso. Edición de Juan José Torres Esbarranch. Libros I-II. España, Gredos, 1990.
+Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torres Esbarranch. Libros I-II. España, Gredos, 1990.
 
 ## A
 
