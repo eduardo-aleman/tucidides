@@ -552,7 +552,7 @@ Corinto. Esta norma del derecho colonial era, sin embargo, frecuentemente olvida
 
 ### Notas de Juan José Torres Esbarranch.
 
-264. Cf. *supra*, I 40, 5.
+264. Cf. _supra_, I 40, 5. 
 265. En lugar de una alianza plena (_symmachía_), que implicaba «tener los mismos amigos y enemigos», es decir, una alianza ofensiva y defensiva a la vez, estipularon una _epimachía_, una alianza defensiva.
 266. Cf. *supra*, I 27, 2.
 267. Cf. *supra*, I 36, 2, n. 245. Era éste un argumento de gran peso.
