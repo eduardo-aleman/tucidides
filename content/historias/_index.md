@@ -37,7 +37,7 @@ Estas variantes son registradas y comparadas por Alberti en su aparato crítico 
 
 Según A. W. Gomme, la frase *Θουκυδίδης ᾿Αθηναῖος ξυνέγραψε* (*Tucídides el ateniense escribió*) debe entenderse como una especie de *título interno* o “portada” del libro, que presenta primero el nombre del autor y luego su tema: la guerra entre atenienses y peloponesios. Esta fórmula se corresponde con una convención literaria que también emplea Heródoto al comenzar su obra, mientras que Jenofonte, curiosamente, no la adopta ni en la *Helénica* —que se ofrece como continuación directa de Tucídides— ni en su obra más personal, la *Anábasis*. El uso de esta estructura en Tucídides subraya el carácter reflexivo y deliberado de su historiografía, en la que el autor se posiciona desde la primera línea como testigo, analista y artífice del relato histórico.
 
-> Gomme, A. W., Andrewes, A., and Dover, K. J. *A Historical Commentary on Thucydides*. Vol. 1: *Introduction and Commentary on Book I*, by A. W. Gomme, Oxford: Clarendon Press, 1945, p. 89.
+> Gomme, A. W. *A Historical Commentary on Thucydides*. Vol. 1: *Introduction and Commentary on Book I*, by A. W. Gomme, Oxford: Clarendon Press, 1945, p. 89.
 
 <!--
 ### Acerca de la imagen
