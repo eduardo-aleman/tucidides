@@ -618,11 +618,22 @@ Los corintios, cuando estuvieron listos sus preparativos, pusieron rumbo a Corci
 
 ## 53. Conversaciones entre atenienses y corintios.
 
+53. Decidieron, pues, embarcar en una chalupa unos cuantos hombres sin caduceo<sup>307</sup> y enviarlos a los atenienses para hacer una prueba. Los enviaron con el siguiente mensaje: «Faltáis a la justicia, atenienses, iniciando una guerra y rompiendo el tratado; pues os habéis puesto por medio tomando las armas contra nosotros cuando estábamos castigando a nuestros enemigos. Si vuestra intención es impedirnos navegar contra Corcira o hacia cualquier otro sitio que queramos y rompéis el tratado, comenzad por cogernos a nosotros aquí presentes y tratadnos como a enemigos<sup>308</sup>». [3] Así fue su mensaje; y por parte del ejército corcireo todos los que lo oyeron se pusieron a gritar que los cogieran en el acto y los mataran, pero los atenienses contestaron de este modo: [4] «No iniciamos la guerra, peloponesios, ni rompemos el tratado, sino que hemos venido en auxilio de los corcireos aquí presentes, que son aliados nuestros. Si queréis, pues, navegar hacia cualquier otra parte, no os lo impedimos; pero si navegáis contra Corcira o alguno de sus territorios, con todos los medios a nuestro alcance no lo consentiremos».
+
 ### Notas de Juan José Torres Esbarranch.
+
+308. Al ir sin el caduceo, no iban como heraldos y no eran inviolables.
 
 ## 54. Corintios y corcireos reivindican la victoria.
 
+54. Tras esta respuesta de los atenienses, los corintios se prepararon para la travesía de regreso a su patria y levantaron un trofeo en Síbota del continente<sup>309</sup> , los corcireos, entre tanto, recogieron los restos del naufragio y los cadáveres<sup>310</sup> que estaban cerca de ellos, arrastrados por la corriente y el viento, que había soplado durante la noche y los había dispersado por todas partes, y levantaron a su vez un trofeo en la isla de Síbota como vencedores. [2] Unos y otros reivindicaban la victoria por las siguientes razones: los corintios habían dominado en la batalla naval hasta la noche, de modo que les había sido posible llevarse, en su mayor parte, sus naves averiadas y sus muertos, y tenían no menos de mil prisioneros y habían echado a pique unas setenta naves; por esto levantaron el trofeo<sup>311</sup>. Los corcireos habían destruido alrededor de treinta naves y, después de la llegada de los atenienses, habían recogido los restos de sus naves y los cadáveres de los suyos que se encontraban cerca de ellos; y, además, el día anterior los corintios, al ver las naves áticas, habían retrocedido ciando ante ellos y se habían retirado, y, después de llegar los atenienses, no habían salido de Síbota<sup>312</sup> a su encuentro; por estas razones levantaron un trofeo. De este modo unos y otros pretendían la victoria.
+
 ### Notas de Juan José Torres Esbarranch.
+
+309. Cf. *supra*, I 50, 3; 52, 1.
+310. Cada parte pudo recoger libremente a sus muertos, lo que significaba que no había vencedores ni vencidos. De ahí que los dos bandos levantaran un trofeo.
+311. Cf. *supra*, n. 216.
+312. La del continente.
 
 ## 55. Los corintios y los atenienses regresan a su patria.
 
