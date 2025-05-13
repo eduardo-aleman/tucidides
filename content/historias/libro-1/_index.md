@@ -4,7 +4,7 @@ type: docs
 prev:
 next:
 sidebar:
- open: true
+  open: true
 toc: true
 weight: 1
 ---
@@ -396,13 +396,13 @@ En la interpretación del mito que nos ofrece Tucídides es de destacar la idea 
 
 169. Luego la romana _Dyrrachium_ y hoy Durrës, puerto de Albania central cercano a Tirana (en italiano, Durazzo). En tiempos de Roma y Bizancio también fue un enclave muy importante; además de su importancia en las comunicaciones marítimas, salía de allí la via Egnatia, que, a través de Iliria, se dirigía a Tesalónica y a Bizancio. Cf. ESTRABÓN, VII 7, 4.
 170. El Adriático. Obsérvese, por otra parte, la descripción desde el punto de vista del navegante: _polis en dexiái espléonti es ton lónion kólpon_, una característica del estilo de las _periḗgēsis_ o guías geográficas.
-171. Cf. HECATEO (F, Jacoby, *FCrHist* 1, F 99 y 101); ESTRABÓN, VII 7, 8.
+171. Cf. HECATEO (F, Jacoby, _FCrHist_ 1, F 99 y 101); ESTRABÓN, VII 7, 8.
 172. En el 626 o 625 a. C.
 173. Cuando una colonia fundaba a su vez otra colonia, la fundación era presidida, conforme al derecho sagrado, por un fundador (_oikistḗs_) de la metrópoli. La ciudad fundadora —en este caso Corcira— solicitaba a su metrópoli —aquí Corinto— la intervención de un miembro de su aristocracia (aquí «del linaje de los Heráclidas»). De ahí que tanto Corcira como Corinto se consideraran con derecho sobre Epidamno. El _oikistḗs_ era responsable de la colonia (_apoikía_) en su fase de fundación, y una vez constituida la nueva polis solía ser honrado en la ciudad que había fundado e incluso era venerado después de su muerte (cf. _infra_, V 11, 1).
 174. Las referencias cronológicas sobre los hechos anteriores a la Guerra del Peloponeso son a veces imprecisas. Los acontecimientos a los que aquí se alude ocurrieron, según DIODORO SÍCULO, XII 30, 2, hacia el 439-438 a. C. , pero actualmente se piensa que esta fecha es inexacta y se sitúa el enfrentamiento entre demócratas y oligarcas de Epidamno en el 435. Así, el conflicto de Corcira se desarrollaría entre el 435 (batalla de Leucimna) y el 433 (batalla de las islas de Síbota).
 175. Sobre este templo, cf. _infra_, III 75, 5; 79, 1; 81, 2; DIODORO,
- XIII 48, 6. Sus restos han sido hallados en recientes excavaciones. Cf.
- P. G. KALLIGAS, «Tò en Kerkýrāi hieròn tês Akraías Hēras», _Archaiologikòn Deltíon_ XXIV (1969), 51-58.
+     XIII 48, 6. Sus restos han sido hallados en recientes excavaciones. Cf.
+     P. G. KALLIGAS, «Tò en Kerkýrāi hieròn tês Akraías Hēras», _Archaiologikòn Deltíon_ XXIV (1969), 51-58.
 176. Apolo, que se manifestaba por medio del oráculo de Delfos (cf. _infra_, I 25, 2, n. 178).
 177. Cf. _supra_, I 24, 2.
 178. El santuario de Delfos había jugado un importante papel en la colonización griega de los siglos VIII y VII a. C. ; con sus directrices, había orientado el movimiento colonizador. En el siglo V, aún era el centro de las cuestiones coloniales, donde se dirimían los asuntos que afectaban a las colonias y las diferencias entre una colonia y su metrópoli (cf. DIODORO, XII 35, 3); seguía, asimismo, presidiendo las fundaciones que se produjeron durante este siglo (cf. _infra_, III 92, 5). Sobre este tema, cf. , asimismo, _infra_, VI 3, 1; HERÓDOTO, IV 150-164; V 42-48; VI 34-37; ESTRABÓN, VI 1, 6; 2, 4; 3, 2; M, LOMBARDO «Le concezioni degli antichi sul ruolo degli oracoli nella coíonizzazione greca», _Ricerche sulla coíonizzazione greca (Annali della Scuola Normale Superiore di Pisa_, 1972), pág. 63 ss; H. W. PARKEe, D. E. WORMELL, _The Delfic Oracle_ I, Oxford, 1956, págs. 49-81. En este caso, los epidamnios del partido democrático, tras la negativa de los corcireos a prestarles ayuda, recurrieron a Corinto, la metrópoli de su metrópoli; pero antes de dar este paso, acudieron a Delfos para preguntar si podían considerar a Corinto como ciudad fundadora y solicitar de este modo su ayuda, puesto que según el «derecho colonial» eran culpables las colonias que recurrían a una ciudad que no fuera su metrópoli para solucionar sus problemas internos. Los epidamnios preguntarían al dios si, al ser su _oikistḗs_ un corintio, podían romper los lazos con Corcira, su metrópoli, para establecerlos con Corinto. Con la respuesta afirmativa se despejaban los escrúpulos religiosos facilitando la intervención de Corinto, ya muy interesada en la empresa.
@@ -438,23 +438,23 @@ En la interpretación del mito que nos ofrece Tucídides es de destacar la idea 
 208. Diplomática alusión a los atenienses.
 209. El recurso al arbitraje (_dikē_) para evitar un conflicto armado, muy frecuente entre los griegos dada su fragmentación política, era raramente efectivo cuando los adversarios se creían en situación de conseguir la victoria.
 210. Se recurría al heraldo (kêryx) para declarar la guerra y para
-cualquier contacto con el enemigo mientras se mantenía el estado de guerra. Cf. *infra*, n. 307 y 941.
+     cualquier contacto con el enemigo mientras se mantenía el estado de guerra. Cf. _infra_, n. 307 y 941.
 211. Pasaje de numerales discutidos y diversamente corregidos. El texto de Tucídides dice «setenta y cinco naves y dos mil hoplitas». Si en 27, 2 se han sumado 68 naves, sin contar las solicitadas a los eleos, éstos debieron de contribuir con 7 barcos. Hay, sin embargo, un pasaje de DIODORO (XII 31, 2) que da un total de 70, con lo que las de los eleos serían sólo 2. En cuanto al número de hoplitas, se ha señalado una discrepancia entre este pasaje y I 27, 2, donde sólo los corintios preparan unas fuerzas de 3. 000 hoplitas; no se explica aquí por qué razón enviaron sólo 2. 000. Se han, propuesto, pues, diversas correcciones: 75 naves y 3. 000 hoplitas (cf. A. W. GOMME, _op. cit. _ I, págs. 163-164; J. DE ROMILLY, _op. cit. _ I, págs. 19-20, que considera suficiente la cifra de 3. 000 en relación con el número de naves); 70 naves y 5. 000 hoplitas (H. VAN HERWERDEN, _Studia Thucydidea_, Utrecht, 1869, págs. 8-9) o 70 naves y 7. 000 hoplitas (B. HEMMERDINGER, «Thucydides, I, 29, 1», _Revue des Études Grecques_ 71 (1958), 423), basándose estos dos últimos en Diodoro y en consideraciones paleográficas.
 212. Todos estos personajes sólo aparecen en este pasaje.
-213. En la boca del Golfo de Ampracia, en la costa meridional. Accio es un promontorio que domina la entrada del Golfo y Anactorio está situada al sureste, a pocos kilómetros, cerca de la actual Vonitsa. Era una colonia corintia, en cuya fundación también habían participado probablemente los corcireos (cf. *infra*, I 55, 1). Su situación era estratégica para el control del Golfo de Ampracia. Cf. ESTRABÓN, X 2, 7-8.
-214. _Kai tàs állas episkeuásantes_. El verbo _episkeuázo_ no tiene aquí el significado de «reparar» naves viejas, sino el de «poner a punto»; se trata de un uso técnico para indicar una «revisión» habitual. En caso contrario, la flota corcirea (a la que se califica como una de las mejores flotas de Grecia: Cf. *supra*, I 25, 4; *infra*, 133, I; 36, 3) sería un conjunto de barcos vetustos (cf. J. GLUCKER, «Thucydides I 29, 3, Gregory of Corinth and the ars interpretandi», _Mnemosyne_ s. 4. 23 (1970), 127- 149).
+213. En la boca del Golfo de Ampracia, en la costa meridional. Accio es un promontorio que domina la entrada del Golfo y Anactorio está situada al sureste, a pocos kilómetros, cerca de la actual Vonitsa. Era una colonia corintia, en cuya fundación también habían participado probablemente los corcireos (cf. _infra_, I 55, 1). Su situación era estratégica para el control del Golfo de Ampracia. Cf. ESTRABÓN, X 2, 7-8.
+214. _Kai tàs állas episkeuásantes_. El verbo _episkeuázo_ no tiene aquí el significado de «reparar» naves viejas, sino el de «poner a punto»; se trata de un uso técnico para indicar una «revisión» habitual. En caso contrario, la flota corcirea (a la que se califica como una de las mejores flotas de Grecia: Cf. _supra_, I 25, 4; _infra_, 133, I; 36, 3) sería un conjunto de barcos vetustos (cf. J. GLUCKER, «Thucydides I 29, 3, Gregory of Corinth and the ars interpretandi», _Mnemosyne_ s. 4. 23 (1970), 127- 149).
 215. Los extranjeros a los que se alude eran los ampraciotas y los leucadios de I 26, 1. Así acabó la batalla de Leucimna.
-216. El trofeo (_tropaion_), señal de victoria dedicada a Zeus, era levantado en el lugar donde el enemigo había sido vencido. El vencedor quedaba dueño del campo de batalla y el enemigo reconocía oficialmente la derrota al pedir la entrega de cadáveres bajo pacto. Los que se habían hecho con la victoria levantaban el trofeo, generalmente, y según la antigua costumbre, de material perecedero: una columna de madera o un simple tronco donde colgaban algunas armas capturadas al enemigo y ponían una inscripción en una tabla conmemorativa. También existió el tipo tumuliforme (cf. JENOFONTE, Anábasis IV 7, 25-26), y luego pasaron a ser de tipo más monumental y con materiales más duraderos. A veces la victoria quedaba indecisa y ambos contendientes se consideraban con derecho a levantarlo (cf. *infra*, I 54, 1-2; 105, 5-6; II. 92, 4-5, etc. ). En las batallas navales, el trofeo consistía en una nave capturada que se sacaba a tierra en un lugar próximo a la batalla (cf. *infra*, II 92, 4-5). Los trofeos se consideraban inviolables (cf. JENOFONTE, Helé- nicas IV 5-10).
+216. El trofeo (_tropaion_), señal de victoria dedicada a Zeus, era levantado en el lugar donde el enemigo había sido vencido. El vencedor quedaba dueño del campo de batalla y el enemigo reconocía oficialmente la derrota al pedir la entrega de cadáveres bajo pacto. Los que se habían hecho con la victoria levantaban el trofeo, generalmente, y según la antigua costumbre, de material perecedero: una columna de madera o un simple tronco donde colgaban algunas armas capturadas al enemigo y ponían una inscripción en una tabla conmemorativa. También existió el tipo tumuliforme (cf. JENOFONTE, Anábasis IV 7, 25-26), y luego pasaron a ser de tipo más monumental y con materiales más duraderos. A veces la victoria quedaba indecisa y ambos contendientes se consideraban con derecho a levantarlo (cf. _infra_, I 54, 1-2; 105, 5-6; II. 92, 4-5, etc. ). En las batallas navales, el trofeo consistía en una nave capturada que se sacaba a tierra en un lugar próximo a la batalla (cf. _infra_, II 92, 4-5). Los trofeos se consideraban inviolables (cf. JENOFONTE, Helé- nicas IV 5-10).
 217. Probablemente el actual cabo Lefkimo, en la parte meridional
-de la costa oriental de Corcira. Cf. *infra*, 1 47, 2.
-218. Sea por consideraciones de tipo colonial o por razones de oportunidad, los corintios, a pesar de todo, tuvieron un trato preferente. Cf. *supra*, 29, S.
+     de la costa oriental de Corcira. Cf. _infra_, 1 47, 2.
+218. Sea por consideraciones de tipo colonial o por razones de oportunidad, los corintios, a pesar de todo, tuvieron un trato preferente. Cf. _supra_, 29, S.
 219. _Kyllénen tò Eleiõn epíneion_. Estaba situado en la Élide noroccidental, pero no se ha localizado con seguridad. Desde E. CURTIUS, _Peloponnesos_ II, Gotha, 1852, págs. 33-34, se ha situado cerca del promontorio de Kunupeli, en la costa septentrional, cerca del cabo Araxo y de la frontera con Acaya; pero podría estar más al sur, en la zona de Glarentza, donde se encuentra la actual Kilini, a unos veinte Km. al oeste de la ciudad de Elide. Cf. J. SERVAIS, «Recherches sur le port de Cyllène», _Bulletin de Correspondance Hellénique_ 85 (1961), 123-161. Este _Ēleíōn epíneion_, puerto y arsenal de los eleos, era con frecuencia la base de la flota peloponesia cuando operaba al oeste y noroeste del Peloponeso (cf. II 84, 5; III 69, 1; VI 88, 9).
 220. Literalmente «a la vuelta del verano» (_periónti tôi thérei_). El verano del 434 a. C.
-221. Cf. *supra*, 1 29, 3, n. 213.
-222. La costa entre Accio y el cabo Quimerio (probablemente el actual Varlaam) está formada por un arenal y por playas entre zonas rocosas; los fondeaderos son inadecuados para una gran flota hasta llegar a la bahía de Fanari, uno de los lugares en que se sitúa el puerto de Quimerio. Este topónimo tenía que ver probablemente con una zona de la Tesprotia (cf. nota siguiente) situada al sur de Síbota (cf. *infra*, I 50, 3, n. 299) y se daba a un promontorio y a un puerto (cf. *infra*, I 46, 3-4). Para la identificación del puerto se ha pensado en la bahía de Fanari, donde desemboca el río Gourlá (el Aqueronte) y que tiene al sur la pequeña babia de Kerentza, y también en la de _Hagios Iōannēs_, situada al norte de Fanari y unos 6 Km. al este de Parga, un puerto más amplio que el de Fanari (cf. el _Glykỳs Limēn_ de ESTRABÓN, VII 7, 5, y PAUSANIAS, VIII 7, 2). Pero, según N. G. L. . HAMMOND («Naval Operations in the South Channel of Corcyra 435-433 B C», Journal of Hellenic Studies 65 (1945), 26-37), que estudió sobre el terreno la descripción de Tucídides, el puerto de Quimerio no debe localizarse al sur del cabo Varlaam, sino al norte, donde está el actual Vemocastro, en la bahía del Paramythia, ubicación preferible a la de la bahía de Arila, situada algo más al norte. Cf. el reciente trabajo de J. WILSON: _Athens and Corcyra. Strategy and Tactics in the Peloponnesian War_, Bristol, 1987.
+221. Cf. _supra_, 1 29, 3, n. 213.
+222. La costa entre Accio y el cabo Quimerio (probablemente el actual Varlaam) está formada por un arenal y por playas entre zonas rocosas; los fondeaderos son inadecuados para una gran flota hasta llegar a la bahía de Fanari, uno de los lugares en que se sitúa el puerto de Quimerio. Este topónimo tenía que ver probablemente con una zona de la Tesprotia (cf. nota siguiente) situada al sur de Síbota (cf. _infra_, I 50, 3, n. 299) y se daba a un promontorio y a un puerto (cf. _infra_, I 46, 3-4). Para la identificación del puerto se ha pensado en la bahía de Fanari, donde desemboca el río Gourlá (el Aqueronte) y que tiene al sur la pequeña babia de Kerentza, y también en la de _Hagios Iōannēs_, situada al norte de Fanari y unos 6 Km. al este de Parga, un puerto más amplio que el de Fanari (cf. el _Glykỳs Limēn_ de ESTRABÓN, VII 7, 5, y PAUSANIAS, VIII 7, 2). Pero, según N. G. L. . HAMMOND («Naval Operations in the South Channel of Corcyra 435-433 B C», Journal of Hellenic Studies 65 (1945), 26-37), que estudió sobre el terreno la descripción de Tucídides, el puerto de Quimerio no debe localizarse al sur del cabo Varlaam, sino al norte, donde está el actual Vemocastro, en la bahía del Paramythia, ubicación preferible a la de la bahía de Arila, situada algo más al norte. Cf. el reciente trabajo de J. WILSON: _Athens and Corcyra. Strategy and Tactics in the Peloponnesian War_, Bristol, 1987.
 223. La Tesprotia, región costera del Epiro meridional, entre el río
-Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
-224. La llegada del invierno solía poner fin a las operaciones militares, o al menos las reducía sensiblemente, Cf. *infra*, lI 47, 1; 92, 7-93, 1; etc. Cf. , sin embargo, Il 69, 1, n. 464.
+     Tiamis (of. _infra_, 1 46, 4) y el Golfo de Ampracia.
+224. La llegada del invierno solía poner fin a las operaciones militares, o al menos las reducía sensiblemente, Cf. _infra_, lI 47, 1; 92, 7-93, 1; etc. Cf. , sin embargo, Il 69, 1, n. 464.
 
 ## 31. Embajadas de corcireos y corintios a Atenas.
 
@@ -463,7 +463,7 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 ### Notas de Juan José Torres Esbarranch.
 
 225. Los preparativos de los corintios se iniciaron en el 435, después de la batalla de Leucimna, y duraron hasta la primavera del 433.
-226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. *infra*, 1 35, 2; 40, 2.
+226. No pertenecían ni a la Liga del Peloponeso ni a la Confederación ático-delia. Cf. _infra_, 1 35, 2; 40, 2.
 227. En los discursos de embajadores como el presente existe la duda de si reflejan el discurso de un solo embajador o son el resumen de versas intervenciones. Seguramente son el reflejo general de la posición de los planteamientos de los estados que intervenían en el debate. Cf. _supra_, 1 22, 1-2, n. 150.
 
 ## 32-36. Discurso de los corcireos.
@@ -480,29 +480,29 @@ Tiamis (of. *infra*, 1 46, 4) y el Golfo de Ampracia.
 
 ### Notas de Juan José Torres Esbarranch.
 
-228. Literalmente «a los vecinos», _hoi pélas_, expresión con la que normalmente se hace referencia a otros pueblos en general, no precisamente a Estados con territorios limítrofes. Esta identificación de «los otros» con «los vecinos» refleja probablemente el limitado horizonte de las _poleis_ griegas de la época arcaica. 229. Retraimiento, inactividad o política de neutralidad o de no intervención (_apragmosýnē_), fruto de la prudencia (_sōfrosýnē_) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. *infra*, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
-229. Retraimiento, inactividad o política de neutralidad o de no intervención (_apragmosýnē_), fruto de la prudencia (sōfrosýnē) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. *infra*, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
-230. La gratitud de Corcira no resultó muy efectiva durante la guerra, si bien es cierto que las revueltas del 427 y 425 la debilitaron de forma considerable. En el 431 enviaron cincuenta naves en apoyo de la flota ateniense que atacaba las costas peloponesias (ef, *infra*, 1l 21, 1); en el 426 participaron en las operaciones contra Léucade (cf. *infra*, III 94, L), pero enseguida se retiraron (Il 95, 2); finalmente, Corcira sirvió de base para la expedición contra Sicilia (cf. *infra*, VI 30, 1; 42, 1-3).
+228. Literalmente «a los vecinos», _hoi pélas_, expresión con la que normalmente se hace referencia a otros pueblos en general, no precisamente a Estados con territorios limítrofes. Esta identificación de «los otros» con «los vecinos» refleja probablemente el limitado horizonte de las _poleis_ griegas de la época arcaica. 229. Retraimiento, inactividad o política de neutralidad o de no intervención (_apragmosýnē_), fruto de la prudencia (_sōfrosýnē_) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. _infra_, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
+229. Retraimiento, inactividad o política de neutralidad o de no intervención (_apragmosýnē_), fruto de la prudencia (sōfrosýnē) de que ha hablado antes. La política de neutralidad era objeto con frecuencia de juicios negativos (cf. _infra_, VI 80, 1-2; HERÓDOTO, VIII 73, 3).
+230. La gratitud de Corcira no resultó muy efectiva durante la guerra, si bien es cierto que las revueltas del 427 y 425 la debilitaron de forma considerable. En el 431 enviaron cincuenta naves en apoyo de la flota ateniense que atacaba las costas peloponesias (ef, _infra_, 1l 21, 1); en el 426 participaron en las operaciones contra Léucade (cf. _infra_, III 94, L), pero enseguida se retiraron (Il 95, 2); finalmente, Corcira sirvió de base para la expedición contra Sicilia (cf. _infra_, VI 30, 1; 42, 1-3).
 231. Junto a las ventajas de orden más bien moral de ayudar a un
-pueblo víctima de la injusticia y granjearse una gratitud imperecedera,
-ventajas que no dejaban de ser problemáticas para Atenas (puesto que
-tenía que intervenir, contra lo habitual, entre una colonia y su metrópoli), aparece al fin la razón realmente ventajosa: Corcira tenía la segunda
-flota de Grecia. Cf. *supra*, 1 25, 4.
-232. _Aretḗ_ con el valor de _aretês dóxa_, fama de virtud, la buena reputación surgida de la magnanimidad hacia otros pueblos, en este caso hacia los corcireos. Cf. *infra*, 1 69; Ill 56, 7.
-233. Dado que la guerra es inevitable, a Atenas le interesa la amistad de Corcira, por su magnífica situación y por su flota. Cf. *infra*, 1 36, 1-3.
-234. Aquí los embajadores corcireos indican la verdadera causa de la guerra tal como la veía Tucídides (cf. *supra*, | 23, 6, n. 167). Posiblemente exageran en su afirmación de que los lacedemonios la deseaban, pero aciertan en la causa esencial: el miedo de Esparta, al que se sumó la intervención de Corinto.
+     pueblo víctima de la injusticia y granjearse una gratitud imperecedera,
+     ventajas que no dejaban de ser problemáticas para Atenas (puesto que
+     tenía que intervenir, contra lo habitual, entre una colonia y su metrópoli), aparece al fin la razón realmente ventajosa: Corcira tenía la segunda
+     flota de Grecia. Cf. _supra_, 1 25, 4.
+232. _Aretḗ_ con el valor de _aretês dóxa_, fama de virtud, la buena reputación surgida de la magnanimidad hacia otros pueblos, en este caso hacia los corcireos. Cf. _infra_, 1 69; Ill 56, 7.
+233. Dado que la guerra es inevitable, a Atenas le interesa la amistad de Corcira, por su magnífica situación y por su flota. Cf. _infra_, 1 36, 1-3.
+234. Aquí los embajadores corcireos indican la verdadera causa de la guerra tal como la veía Tucídides (cf. _supra_, | 23, 6, n. 167). Posiblemente exageran en su afirmación de que los lacedemonios la deseaban, pero aciertan en la causa esencial: el miedo de Esparta, al que se sumó la intervención de Corinto.
 235. Con esta serie de coordinadas se insiste en la importancia de la actuación de Corinto como instigadora de la guerra.
 236. La cuestión se plantea entre Atenas y Corinto, en ver quién se anticipa en conseguir a Corcira. Los corintios, por temor a que Corcira se una a Atenas, intentarán debilitarla destruyéndola o se reforzarán ellos mismos sometiéndola. Los atenienses, si quieren contar con dos grandes flotas en la inevitable guerra contra Esparta, deben adelantarse a los corintios e impedirles la consecución de su doble objetivo. Para la construcción, ef. SÓFOCLES, _Electra_ 1320-21, y ANDÓCIDES, 1 20.
-237. Cf. *supra*, 28, 2.
-238. El tratado del 446-445 a. C. (Cf. *supra*, n. 165, e *infra*, 1 115, 1). A esta invocación del tratado por parte de los corcireos replican luego los corintios (cf. *infra*, 1 40, 2).
-239. Los miembros de la Confederación ático-delia (salvo Quios y Lesbos) sometidos a Atenas. Cf. *supra*, I 19, e *infra*, I 124, 3. La alianza estaba al alcance de los corcireos, según el artículo invocado en 35, 2.
-240. Cf. *supra*, 33, 1.
+237. Cf. _supra_, 28, 2.
+238. El tratado del 446-445 a. C. (Cf. _supra_, n. 165, e _infra_, 1 115, 1). A esta invocación del tratado por parte de los corcireos replican luego los corintios (cf. _infra_, 1 40, 2).
+239. Los miembros de la Confederación ático-delia (salvo Quios y Lesbos) sometidos a Atenas. Cf. _supra_, I 19, e _infra_, I 124, 3. La alianza estaba al alcance de los corcireos, según el artículo invocado en 35, 2.
+240. Cf. _supra_, 33, 1.
 241. Condición para la _symmachía_ o tratado de alianza.
 242. Idea imprecisa y diversamente interpretada. ¿Se refiere a que Corcira se separa de Corinto o a que están solos y sus fuerzas no están unidas a las de Atenas ante el enfrentamiento que se avecina? Creemos preferible mantener la indefinición del texto (_hikanoì toùs metastántas blápsai_) en la traducción.
-243. Cf. *supra*, 1 35, 1, n. 238. En este pasaje se apunta más a lo práctico que al punto de vista jurídico, al que se ha referido I 35.
-244. Cf. *supra*, 1 33, 3.
-245. No se efectuaba la travesía directa por alta mar, sino que lo habitual era seguir la ruta de cabotaje (_paráplous_): desde el noroeste de Grecia, el Epiro y Corcira, se pasaba -atravesando el Adriático por su parte más estrecha, el canal de Otranto, a 40° de latitud norte al sur de Italia y se seguía costeando hasta Regio para pasar luego a Sicilia. (Cf. *infra*, VI 30; 42-44).
-246. Cf. *infra*, II 7, 2. Esparta confiaba en esta ayuda.
+243. Cf. _supra_, 1 35, 1, n. 238. En este pasaje se apunta más a lo práctico que al punto de vista jurídico, al que se ha referido I 35.
+244. Cf. _supra_, 1 33, 3.
+245. No se efectuaba la travesía directa por alta mar, sino que lo habitual era seguir la ruta de cabotaje (_paráplous_): desde el noroeste de Grecia, el Epiro y Corcira, se pasaba -atravesando el Adriático por su parte más estrecha, el canal de Otranto, a 40° de latitud norte al sur de Italia y se seguía costeando hasta Regio para pasar luego a Sicilia. (Cf. _infra_, VI 30; 42-44).
+246. Cf. _infra_, II 7, 2. Esparta confiaba en esta ayuda.
 
 ## 37-43. Discurso de los corintios.
 
@@ -520,30 +520,28 @@ flota de Grecia. Cf. *supra*, 1 25, 4.
 
 43. Hemos caído en la situación que nosotros mismos advertíamos en Esparta, al proclamar que cada ciudad era libre de castigar a sus propios aliados<sup>264</sup>, y ahora pretendemos recibir el mismo trato de vosotros y que, después de haber sacado provecho de nuestro voto, no nos perjudiquéis con el vuestro. [2] Correspondednos con una recompensa equivalente, y daos cuenta de que éste es aquel momento crítico en que el que te asiste es más amigo y el que se enfrenta, enemigo. [3] Y no acojáis como aliados a estos corcireos contra nuestra voluntad, ni los ayudéis en sus injusticias. [4] Si lo hacéis así, actuaréis como es debido y decidiréis lo más conveniente para vosotros mismos. »
 
-
 ### Notas de Juan José Torres Esbarranch.
 
-247. Cf. *supra*, 1 32, 4.
+247. Cf. _supra_, 1 32, 4.
 248. Tratados o convenios para la aplicación de la justicia a los ciudadanos de otros Estados, de reciprocidad jurídica.
-249. Cf. *supra*, 1 32, 5, n. 229.
-250. Cf. *infra*, 1 77, 1, n. 435.
-251. Cf. *supra*, I 25, 4.
-252. Afirmación falsa, ya que Epidamno había sido colonizada por los corcireos y sólo el oikistḗs y algunos colonos eran corintios (cf. *supra*, I 24, 2). Como se ha visto, Epidamno solicitó ayuda a Corcira como metrópoli, y sólo después de la negativa de los corcireos se puso en manos de los corintios (cf. *supra*, I 24, 6-25, 2).
+249. Cf. _supra_, 1 32, 5, n. 229.
+250. Cf. _infra_, 1 77, 1, n. 435.
+251. Cf. _supra_, I 25, 4.
+252. Afirmación falsa, ya que Epidamno había sido colonizada por los corcireos y sólo el oikistḗs y algunos colonos eran corintios (cf. _supra_, I 24, 2). Como se ha visto, Epidamno solicitó ayuda a Corcira como metrópoli, y sólo después de la negativa de los corcireos se puso en manos de los corintios (cf. _supra_, I 24, 6-25, 2).
 253. Recriminación a los corcireos, que tenían que haber ofrecido el arbitraje antes de poner sitio a Epidamno. No era infrecuente, sin embargo, recurrir a una solución negociada desde una posición de fuerza; estaba incluso bien visto por constituir una prueba de moderación.
-254. Los corintios, que censuran el aislamiento de Corcira, insisten en el principio de reciprocidad, en el que basa sus pretensiones ante Atenas. Cf. *infra*, I 40, 4-5; 41, 1-2.
+254. Los corintios, que censuran el aislamiento de Corcira, insisten en el principio de reciprocidad, en el que basa sus pretensiones ante Atenas. Cf. _infra_, I 40, 4-5; 41, 1-2.
 255. La política exterior de Corcira, como colonia de Corinto, debía
-coincidir con la de su metrópoli. Si se aliaba a Atenas, se desligaba de
-Corinto. Esta norma del derecho colonial era, sin embargo, frecuentemente olvidada en la práctica.
+     coincidir con la de su metrópoli. Si se aliaba a Atenas, se desligaba de
+     Corinto. Esta norma del derecho colonial era, sin embargo, frecuentemente olvidada en la práctica.
 256. Literalmente «un armisticio» (_anokōchḗ_), es decir, el pacto más elemental que podía realizarse; una tregua como las que se concertaban con ocasión de una fiesta.
 257. Samos se sublevó en el 440 a, C. y fue sometida de nuevo en el 439. Tucídides se refiere a esta rebelión en I 115-117, pero no habla sobre la intervención de los corintios ante los confederados peloponesios en favor de Atenas. El caso de Samos respecto a Atenas no era exactamente comparable al de Corcira respecto a Corinto, tal como observa A. W. GOMME, _A historical commentary on Thucydides_ I, Oxford, 1945, págs. 174-175, porque Samos estaba inscrita en la Liga ática, mientras que Corcira era una _ágraphos pólis_.
-258. Literalmente «naves largas». Cf. *supra*, n. 107.
-259. Sobre la guerra entre Atenas y Egina, cf, *supra*, 1 14, 3, n. 112. Acerca de las veinte naves que Corinto proporcionó a Atenas, cf. HERÓDOTO, VI 89. Las relaciones entre Atenas y Corinto eran entonces buenas debido a varias razones, sobre todo porque Corinto temía una alianza entre Atenas y Esparta que le restara influencia dentro de la Liga peloponesia, y porque prefería apoyar a Atenas en su guerra contra Egina, dado que esta isla era una importante rival comercial de Corinto. Sin embargo, la posición de Corinto cambió cuando Atenas, siguiendo los consejos de Temístocles, se decidió a dar mayor importancia a su flota, y hacia el 458 a. C. el enfrentamiento ya fue manifiesto. Cf. *infra*, I 105 ss. Desde entonces el encono de Corinto respecto a Atenas fue en aumento.
-260. Respecto a la expresión _tà Mēdiká_ de este pasaje algunos comentaristas (W. H. FORBES, _Thucydides_ I, Oxford, 1985, y A. W. GOMME, op. cit. 1, pág. 175) piensan que puede referirse sólo a la expedición de 480-479, excluyendo Maratón. A ello se opone N. G. L. . HAMMOND, art. cit. , _The Classical Review_ 71 (1957), 101-102, según el cual Tucídides probablemente no cambia el significado de _tà Mēdiká_ en los diversos pasajes en que aparece referido a las hostilidades entre griegos y persas (cf, *supra*, 1 14, 2, n. 108; *infra*, 1 73, 2-4; 97, 2), donde se aplica a las Guerras Médicas en conjunto. Otra cosa es _tò Medikón_, que se refiere sólo a la expedición de Jerjes (cf. *supra*, I 23, 1, n. 158), del mismo modo que en otros pasajes se individualiza la acción de Maratón (cf, *supra*, n. 128), y la expresión _ho Mēdikǒn pólemos_ (cf. *infra*, 1 95, 7; III 10, 2), referida a la segunda Guerra Médica hasta que Esparta se retira (480-478 a. C. ).
-261. 261 Cf. HERÓDOTO, VI 92. Heródoto nos habla de esta victoria naval ateniense (VI 92, 1) y, al mismo tiempo, de otra victoria por tierra sobre un contingente argivo (VI 92, 3), pero luego dice (VI 93) que, in- mediatamente después, la derrota egineta se transformó en victoria, lo que, analizado el pasaje herodoteo, resulta difícilmente explicable (cf. W. W. How, J. WELLs, A commentary on Herodotus with introduction and appendixes II, 2. " ed. , Oxford, 1928, págs. 101-102). Por ello se ha pensado que en el texto de Heródoto hay una confusión con otro episodio de la guerra que Atenas venía manteniendo con Egina (cf. *supra*, n. 112). Pero es indudable que la victoria naval cuya importancia subrayan aquí los corintios en su discurso debió de ser episódica y que se impuso luego la supremacía naval egineta, lo que obligó a Atenas a un programa de construcción de doscientas naves, que acabó utilizando para enfrentarse a la invasión persa (of. *supra*, 1 14, 3, y HERÓDOTO, VIl 144, 1), motivo que impuso la reconciliación entre Atenas y Egina.
+258. Literalmente «naves largas». Cf. _supra_, n. 107.
+259. Sobre la guerra entre Atenas y Egina, cf, _supra_, 1 14, 3, n. 112. Acerca de las veinte naves que Corinto proporcionó a Atenas, cf. HERÓDOTO, VI 89. Las relaciones entre Atenas y Corinto eran entonces buenas debido a varias razones, sobre todo porque Corinto temía una alianza entre Atenas y Esparta que le restara influencia dentro de la Liga peloponesia, y porque prefería apoyar a Atenas en su guerra contra Egina, dado que esta isla era una importante rival comercial de Corinto. Sin embargo, la posición de Corinto cambió cuando Atenas, siguiendo los consejos de Temístocles, se decidió a dar mayor importancia a su flota, y hacia el 458 a. C. el enfrentamiento ya fue manifiesto. Cf. _infra_, I 105 ss. Desde entonces el encono de Corinto respecto a Atenas fue en aumento.
+260. Respecto a la expresión _tà Mēdiká_ de este pasaje algunos comentaristas (W. H. FORBES, _Thucydides_ I, Oxford, 1985, y A. W. GOMME, op. cit. 1, pág. 175) piensan que puede referirse sólo a la expedición de 480-479, excluyendo Maratón. A ello se opone N. G. L. . HAMMOND, art. cit. , _The Classical Review_ 71 (1957), 101-102, según el cual Tucídides probablemente no cambia el significado de _tà Mēdiká_ en los diversos pasajes en que aparece referido a las hostilidades entre griegos y persas (cf, _supra_, 1 14, 2, n. 108; _infra_, 1 73, 2-4; 97, 2), donde se aplica a las Guerras Médicas en conjunto. Otra cosa es _tò Medikón_, que se refiere sólo a la expedición de Jerjes (cf. _supra_, I 23, 1, n. 158), del mismo modo que en otros pasajes se individualiza la acción de Maratón (cf, _supra_, n. 128), y la expresión _ho Mēdikǒn pólemos_ (cf. _infra_, 1 95, 7; III 10, 2), referida a la segunda Guerra Médica hasta que Esparta se retira (480-478 a. C. ).
+261. 261 Cf. HERÓDOTO, VI 92. Heródoto nos habla de esta victoria naval ateniense (VI 92, 1) y, al mismo tiempo, de otra victoria por tierra sobre un contingente argivo (VI 92, 3), pero luego dice (VI 93) que, in- mediatamente después, la derrota egineta se transformó en victoria, lo que, analizado el pasaje herodoteo, resulta difícilmente explicable (cf. W. W. How, J. WELLs, A commentary on Herodotus with introduction and appendixes II, 2. " ed. , Oxford, 1928, págs. 101-102). Por ello se ha pensado que en el texto de Heródoto hay una confusión con otro episodio de la guerra que Atenas venía manteniendo con Egina (cf. _supra_, n. 112). Pero es indudable que la victoria naval cuya importancia subrayan aquí los corintios en su discurso debió de ser episódica y que se impuso luego la supremacía naval egineta, lo que obligó a Atenas a un programa de construcción de doscientas naves, que acabó utilizando para enfrentarse a la invasión persa (of. _supra_, 1 14, 3, y HERÓDOTO, VIl 144, 1), motivo que impuso la reconciliación entre Atenas y Egina.
 262. _Tà oikeîa_, que GOMME (cf. op. cit. I, pág. 175) interpreta como «lazos de parentesco».
-263. Alusión a las diferencias entre Atenas y Corinto a propósito de Mégara. Su origen era antiguo. Hacia el 459 a. C. Mégara, en guerra con Corinto por una cuestión de fronteras, abandonó la Liga del Peloponeso y se hizo aliada de Atenas. Según Tucídides (cf. *infra*, I 103, 4), ésta fue la causa principal del odio de Corinto contra Atenas. Pero éste y otros episodios (cf. *infra*, 1 10S; 106; 114) eran lejanos y anteriores a los gestos de buena voluntad, con ocasión de la sublevación de Samos, a los que se refieren los corintios en su discurso (of. *supra*, 1 40, 5; 41, 2). Reciente (433/-32 a. C. ), en cambio, era la prohibición a todos los barcos de Mégara, perteneciente ahora a la Confederación del Peloponeso, de entrar en los puertos de la Liga ática, con lo que la identificación de Mégara con la posición de Corinto fue absoluta (ef. *infra*, I 67, 4; 139, 1-2, m. 892; 140, 4 y 144, 2). Sobre la interpretación de este pasaje, cf. CH. TUPLIN, «Thucydides I 42. 2 and the Megarian decree», _The Classical Quarterly_ 73 (1979), 301-307. Se discute sobre si constituye una referencia concreta al decreto megareo y a la situación que lo motivó o si se refiere a las antiguas diferencias entre Atenas y Corinto por la cuestión de Mégara. Gran parte de la discusión gira en torno al valor del _próteron_, sobre si se refiere a un pasado remoto o a un pasado próximo ligado al presente.
-264. Cf. sUpra, I 40, 5.
-
+263. Alusión a las diferencias entre Atenas y Corinto a propósito de Mégara. Su origen era antiguo. Hacia el 459 a. C. Mégara, en guerra con Corinto por una cuestión de fronteras, abandonó la Liga del Peloponeso y se hizo aliada de Atenas. Según Tucídides (cf. _infra_, I 103, 4), ésta fue la causa principal del odio de Corinto contra Atenas. Pero éste y otros episodios (cf. _infra_, 1 10S; 106; 114) eran lejanos y anteriores a los gestos de buena voluntad, con ocasión de la sublevación de Samos, a los que se refieren los corintios en su discurso (of. _supra_, 1 40, 5; 41, 2). Reciente (433/-32 a. C. ), en cambio, era la prohibición a todos los barcos de Mégara, perteneciente ahora a la Confederación del Peloponeso, de entrar en los puertos de la Liga ática, con lo que la identificación de Mégara con la posición de Corinto fue absoluta (ef. _infra_, I 67, 4; 139, 1-2, m. 892; 140, 4 y 144, 2). Sobre la interpretación de este pasaje, cf. CH. TUPLIN, «Thucydides I 42. 2 and the Megarian decree», _The Classical Quarterly_ 73 (1979), 301-307. Se discute sobre si constituye una referencia concreta al decreto megareo y a la situación que lo motivó o si se refiere a las antiguas diferencias entre Atenas y Corinto por la cuestión de Mégara. Gran parte de la discusión gira en torno al valor del _próteron_, sobre si se refiere a un pasado remoto o a un pasado próximo ligado al presente.
+264. Cf. _supra_, I 40, 5.
 
 ## 44-45. Alianza defensiva de Atenas y Corcira. Intervención ateniense.
 
@@ -552,15 +550,12 @@ Corinto. Esta norma del derecho colonial era, sin embargo, frecuentemente olvida
 
 ### Notas de Juan José Torres Esbarranch.
 
-264. Cf. _supra_, I 40, 5. 
 265. En lugar de una alianza plena (_symmachía_), que implicaba «tener los mismos amigos y enemigos», es decir, una alianza ofensiva y defensiva a la vez, estipularon una _epimachía_, una alianza defensiva.
-266. Cf. *supra*, I 27, 2.
-267. Cf. *supra*, I 36, 2, n. 245. Era éste un argumento de gran peso.
-268. Sobre esta expedición, cf, PLUTARCO, _Pericles_ 29: Sobre los gastos de esta expedición y de las veinte naves enviadas a continuación (cf.
-*infra*, 1 50, 5-51, S), conservamos un documento epigráfico del año 433
-a. C. Cf. R. MEIGGS, D. LEWIS, _A selection of Greek historical inscriptions to the end of the fifth century b. C. _, Oxford, 1969, 61.
-269. Lacedemonio era hijo de Cimón, el famoso general y hombre de Estado. Cimón era próxeno de Esparta en Atenas y su política era filoespartana; admiraba la vida y el régimen político de Esparta. De ahí el nombre de su hijo primogénito. Sus otros dos hijos se llamaban Eolo y Tésalo. Sobre Cimón, cf, *infra*, n. 537. La elección de Lacedemonio, de tendencia filoespartana, para esta misión, ha motivado diversas hipótesis. Según PLUTARCO (Pericles 29, 1-3), estaría en ello la mano de Pericles, que pretendería desacreditar a un destacado miembro de la oposición aristocrática poniéndole al frente de una escuadra muy pequeña cuyo éxito era problemático. Pero tal vez la elección fue debida al propósito de no aumentar la tensión en aquella situación prebélica. 270 Diótimo estuvo al frente de una embajada enviada a Susa hacia el 424-23 para negociar un tratado de amistad con Darío II (cf. ESTRABÓN, I 3, 1). También desempeñó una misión en Italia y Sicilia (cf. Timeo, en F. _GrHist_ 566 F 98). En VIII 15-17, encontramos a su hijo Estrombíquides, que fue estratego en el 412 a. C.
-271. Proteas aparece de nuevo como estratego en el 431 a. C. Cf. *infra*, Il 23, 2, donde le encontramos al frente de una flota enviada contra el Peloponeso.
+266. Cf. _supra_, I 27, 2.
+267. Cf. _supra_, I 36, 2, n. 245. Era éste un argumento de gran peso.
+268. Sobre esta expedición, cf, PLUTARCO, _Pericles_ 29: Sobre los gastos de esta expedición y de las veinte naves enviadas a continuación (cf. _infra_, 1 50, 5-51, S), conservamos un documento epigráfico del año 433 a. C. Cf. R. MEIGGS, D. LEWIS, _A selection of Greek historical inscriptions to the end of the fifth century b. C. _, Oxford, 1969, 61.
+269. Lacedemonio era hijo de Cimón, el famoso general y hombre de Estado. Cimón era próxeno de Esparta en Atenas y su política era filoespartana; admiraba la vida y el régimen político de Esparta. De ahí el nombre de su hijo primogénito. Sus otros dos hijos se llamaban Eolo y Tésalo. Sobre Cimón, cf, _infra_, n. 537. La elección de Lacedemonio, de tendencia filoespartana, para esta misión, ha motivado diversas hipótesis. Según PLUTARCO (Pericles 29, 1-3), estaría en ello la mano de Pericles, que pretendería desacreditar a un destacado miembro de la oposición aristocrática poniéndole al frente de una escuadra muy pequeña cuyo éxito era problemático. Pero tal vez la elección fue debida al propósito de no aumentar la tensión en aquella situación prebélica. 270 Diótimo estuvo al frente de una embajada enviada a Susa hacia el 424-23 para negociar un tratado de amistad con Darío II (cf. ESTRABÓN, I 3, 1). También desempeñó una misión en Italia y Sicilia (cf. Timeo, en F. _GrHist_ 566 F 98). En VIII 15-17, encontramos a su hijo Estrombíquides, que fue estratego en el 412 a. C.
+270. Proteas aparece de nuevo como estratego en el 431 a. C. Cf. _infra_, Il 23, 2, donde le encontramos al frente de una flota enviada contra el Peloponeso.
 
 ## 46. Preparativos de los corintios.
 
@@ -569,41 +564,37 @@ Los corintios, cuando estuvieron listos sus preparativos, pusieron rumbo a Corci
 ### Notas de Juan José Torres Esbarranch.
 
 272. Encontramos de nuevo a Jenóclides, al frente de una guarnición corintia enviada a Ampracia, en III 114, 4.
-273. Cf. *supra*, 1 30, 3, nn. 222 y 223.
+273. Cf. _supra_, 1 30, 3, nn. 222 y 223.
 274. Zona de la Tesprótide o Tesprotia que correspondía aproximadamente al valle del Aqueronte.
-275. Situada en el interior. Cf. ESTRABÓN, VII 7, 5: _hypérkeitai dè toútou kólpou Kíchyros, hē próteron Ephýra, pólis Thesprōtôn_, es decir, que en el interior sobre la bahía (el Glykýs Limḗn o «Puerto Dulce»; cf. *supra*, n. 222; por aquella zona está actualmente Glyki) estaba _Kíchyros_, Cíquiro, nombre que antes se daba a Éfira, ciudad de los tesprotos.
+275. Situada en el interior. Cf. ESTRABÓN, VII 7, 5: _hypérkeitai dè toútou kólpou Kíchyros, hē próteron Ephýra, pólis Thesprōtôn_, es decir, que en el interior sobre la bahía (el Glykýs Limḗn o «Puerto Dulce»; cf. _supra_, n. 222; por aquella zona está actualmente Glyki) estaba _Kíchyros_, Cíquiro, nombre que antes se daba a Éfira, ciudad de los tesprotos.
 276. El río Aqueronte (el actual _Gourlá_) está bordeado de zonas pantanosas; es en parte subterráneo y atraviesa una garganta sombría, por lo que se le consideraba una entrada al mundo de los muertos. Cf. HERÓDOTO, V. 92; PAUSANIAS, 1 17, 5.
 277. El actual Kalamás.
 278. Región costera frente a Corcira, al norte de Tesprotia.
-279. En esta descripción geográfica se ha distinguido entre el puerto de Quimerio (cf. *supra*, 1 30, 3, n. 222) y el promontorio del mismo nombre, que se ha identificado con el cabo _Trophalē_ o, más probablemente, con el Varlaam. Lo detallado de la misma, prueba del interés de Tucídides por los campos de batalla, sugiere la autopsia (hipótesis puesta en duda a causa de algunas imprecisiones en el relato) o una especial información sobre el lugar. L. PEARSON, «Thucydides and the geographical tradition», _The Classical Quarterly_ 33 (1939), 48-54, observa la similitud de estilo entre este tipo de descripciones en Tucídides, en las que se dan algunos detalles irrelevantes, y descripciones parecidas de las antiguas _periēgḗseis_, y llega a la conclusión de que Tucídides se ha inspirado en alguna de estas guías. Respecto a este pasaje, dice Lionel Pearson: «This is perhaps the most perfect example of the style to be found in Thucydides. Not only are the two rivers mentioned which enter the sea here, but the course of Acheron is described and the fact that it gives its name to the límnē is recorded; and, what is even more irrelevant, he tells us that the Thyamis forms a boundary between Thesprotia and Cestrine, So perfect, indeed, is the example that it is easy to believe Thucydides looked 'up some _Periegesis_ (perhaps even Hecateus') to find out something about Cheimerium, about which he knew nothing, and copied down the description word for word» (_art. cit._, 52). A. W. GOMME (op. cit. , pág. 180), sin embargo, objeta que, si esto fuera así, hubiera descrito la zona de Síbota, relacionada también con las operaciones de este relato, con el mismo detalle, lo que en realidad no hizo (sobre la distinción entre las islas y el puerto de Síbota, ef, *infra*, I 54). Es probable que Tucídides se informara de gentes que conocían el lugar (tal vez tuvo un informador corintio, como piensa Gomme, por el ma- yor detalle de la zona de Quimerio), y que con los datos geográficos recibidos y con las noticias que recogió sobre aquellas operaciones navales compusiera su relato de los hechos procurando encuadrarlos lo más exactamente posible en su marco geográfico; el desconocimiento directo explicaría las imprecisiones (cf. *infra*, 1 49, 5, n. 294). En cuanto a la similitud estilística observada por Pearson, Tucídides, que además tenia bastantes conocimientos geográficos y era buen viajero, debía de conocer bien el estilo de las _periēgḗseis_ y pudo muy bien adaptarse a él en descripciones semejantes.
+279. En esta descripción geográfica se ha distinguido entre el puerto de Quimerio (cf. _supra_, 1 30, 3, n. 222) y el promontorio del mismo nombre, que se ha identificado con el cabo _Trophalē_ o, más probablemente, con el Varlaam. Lo detallado de la misma, prueba del interés de Tucídides por los campos de batalla, sugiere la autopsia (hipótesis puesta en duda a causa de algunas imprecisiones en el relato) o una especial información sobre el lugar. L. PEARSON, «Thucydides and the geographical tradition», _The Classical Quarterly_ 33 (1939), 48-54, observa la similitud de estilo entre este tipo de descripciones en Tucídides, en las que se dan algunos detalles irrelevantes, y descripciones parecidas de las antiguas _periēgḗseis_, y llega a la conclusión de que Tucídides se ha inspirado en alguna de estas guías. Respecto a este pasaje, dice Lionel Pearson: «This is perhaps the most perfect example of the style to be found in Thucydides. Not only are the two rivers mentioned which enter the sea here, but the course of Acheron is described and the fact that it gives its name to the límnē is recorded; and, what is even more irrelevant, he tells us that the Thyamis forms a boundary between Thesprotia and Cestrine, So perfect, indeed, is the example that it is easy to believe Thucydides looked 'up some _Periegesis_ (perhaps even Hecateus') to find out something about Cheimerium, about which he knew nothing, and copied down the description word for word» (_art. cit._, 52). A. W. GOMME (op. cit. , pág. 180), sin embargo, objeta que, si esto fuera así, hubiera descrito la zona de Síbota, relacionada también con las operaciones de este relato, con el mismo detalle, lo que en realidad no hizo (sobre la distinción entre las islas y el puerto de Síbota, ef, _infra_, I 54). Es probable que Tucídides se informara de gentes que conocían el lugar (tal vez tuvo un informador corintio, como piensa Gomme, por el ma- yor detalle de la zona de Quimerio), y que con los datos geográficos recibidos y con las noticias que recogió sobre aquellas operaciones navales compusiera su relato de los hechos procurando encuadrarlos lo más exactamente posible en su marco geográfico; el desconocimiento directo explicaría las imprecisiones (cf. _infra_, 1 49, 5, n. 294). En cuanto a la similitud estilística observada por Pearson, Tucídides, que además tenia bastantes conocimientos geográficos y era buen viajero, debía de conocer bien el estilo de las _periēgḗseis_ y pudo muy bien adaptarse a él en descripciones semejantes.
 
 ## 47. Preparativos de los corcireos.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
 ## 48-52. Batalla naval de las islas de Síbota.
 
 ### Notas de Juan José Torres Esbarranch.
-
 
 ## 53. Conversaciones entre atenienses y corintios.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
 ## 54. Corintios y corcireos reivindican la victoria.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
 ## 55. Los corintios y los atenienses regresan a su patria.
 
 ### Notas de Juan José Torres Esbarranch.
+
 ## 56-66. Conflicto de Potidea.
 
 ### Notas de Juan José Torres Esbarranch.
-
 
 ## 57. Intrigas de Perdicas contra los atenienses.
 
@@ -613,316 +604,180 @@ Los corintios, cuando estuvieron listos sus preparativos, pusieron rumbo a Corci
 
 ### Notas de Juan José Torres Esbarranch.
 
-
 ## 59. Los atenienses en Macedonia.
 
 ### Notas de Juan José Torres Esbarranch.
-
 
 ## 60. Ayuda de Corinto.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
 ## 61. Expedición de Calías.
 
 ### Notas de Juan José Torres Esbarranch.
-
 
 ## 62-63. La Batalla de Potidea.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
-
 ## 64-66. Asedio de Potidea.
 
 ### Notas de Juan José Torres Esbarranch.
 
-
-
 ## 67-88. El debate de Esparta.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 68-72. Discurso de los corintios.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 73-79. Discurso de los atenienses.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
 
 ## 80-85. Discurso de Arquidamo.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 86. Discurso de Estenelaidas.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 87. El tratado ha sido violado.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 88. El miedo de Esparta al poderío de Atenas. La verdadera causa.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 89-118. La «Pentecontecia». Historia de Atenas después de las Guerras Médicas. Formación del Imperio ateniense.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 90-93. La reconstrucción de las murallas de Atenas. Actuación de Temístocles.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 94. Expedición de Pausanias contra Chipre y Bizancio.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 95. Acusaciones contra Pausanias. La hegemonía pasa a los atenienses.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 96. La Confederación ático-delia.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 97-100. Orígenes y crecimiento del poderío ateniense. De la hegemonía al Imperio. Expediciones de Cimón, Tracia, Naxos, Eurimedonte, Tasos.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 101. La rebelión de los hilotas. Rendición de Tasos.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 102. Diferencias entre Esparta y Atenas. El incidente de Itome.
 
-
 ### Notas de Juan José Torres Esbarranch.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 103. Fin de la resistencia de Itome. Alianza de Mégara y Atenas.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 104. Los atenienses en Egipto.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 105-106. Guerras contra Corinto, Epidauro y Egina.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 107. Expedición lacedemonia a Grecia Central.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 108. Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 109-110. Derrota de los atenienses en Egipto.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 111. Los atenienses en Tesalia, en el Peloponeso y en Acarnania.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 112. Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 113. Batalla de Coronea. Derrota ateniense en Grecia Central.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 114. Sublevación de Eubea y de Mégara.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 115-117. La Paz de Treinta años. La Guerra de Samos.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 118. Fin de la «Pentecontecia». Embajada lacedemonia a Delfos.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
-
 
 ## 119-125. Asamblea de la Liga del Peloponeso en Esparta.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 120-124. Discurso de los corintios.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 125. Se decide la guerra.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 126-139. Reclamaciones y pretextos.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 126-127. Primera embajada lacedemonia a Atenas. El sacrilegio de los Aicmeónidas.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 128-134. Réplica ateniense. El sacrilegio del Ténaro. Traición de Pausanias.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 135-138. El caso de Temístocles.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 139-145. La Asamblea de Atenas.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 139. Nuevas embajadas lacedemonias a Atenas. El ultimátum. La Asamblea.
 
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 140-144. Discurso de Pericles.
 
-
-
 ### Notas de Juan José Torres Esbarranch.
-
-
 
 ## 145. Respuesta de Atenas.
 
-
 ### Notas de Juan José Torres Esbarranch.
 
-
-
 ## 146. Acaba el relato de las causas y antecedentes de la Guerra del Peloponeso.
-
 
 ### Notas de Juan José Torres Esbarranch.
