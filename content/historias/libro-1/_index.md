@@ -637,7 +637,16 @@ Los corintios, cuando estuvieron listos sus preparativos, pusieron rumbo a Corci
 
 ## 55. Los corintios y los atenienses regresan a su patria.
 
+55. Los corintios, en la travesía de regreso, tomaron, por medio de una estratagema, Anactorio<sup>313</sup>, que está situada en la embocadura del Golfo de Ampracia (era de ellos y de los corcireos en común), y, tras establecer en ella colonos corintios, se retiraron hacia su patria; y de los prisioneros corcireos vendieron ochocientos, que eran esclavos<sup>314</sup>, y guardaron en prisión doscientos cincuenta, tratándolos con gran consideración a fin de que al repatriarse ganasen Corcira para su causa<sup>315</sup>; pues se daba la circunstancia de que en su mayor parte eran, por su influencia, los primeros de su ciudad. [2] Así, pues, Corcira aventajó en esta guerra a los corintios<sup>316</sup>, y las naves de los atenienses se retiraron de la isla. Este fue el primer motivo de guerra que tuvieron los corintios contra los atenienses: el hecho de que, estando vigente el tratado de paz, habían participado en compañía de los corcireos en un combate naval contra ellos.
+
 ### Notas de Juan José Torres Esbarranch.
+
+313. Cf. *supra*, I 29, 3 y n. 213.
+314. Los remeros de las naves que habían capturado. Por la proporción de esclavos entre los prisioneros podemos pensar que la mayor parte
+de los remeros de la flota de Corcira eran esclavos, lo que no era así
+en Atenas y en otras ciudades.
+315. Lo que llevaron a cabo. Cf. *infra*, III 70 ss.
+316. La batalla en sí fue favorable a los corintios: habían puesto en fuga a la flota enemiga y habían procedido libremente a las operaciones que significaban la victoria, tales como la recogida de los propios muertos y la recuperación de los barcos averiados (cf. *supra*, I 50, 1-3). Pero, tras quedar dueños del campo de batalla, cuando se iniciaba una segunda batalla, se habían retirado (cf. *supra*, 50, 5-51, 2), y los corcireos pu- dieron también recoger sus cadáveres sin mediar pacto; así se explica la reivindicación de la victoria por ambas partes (cf. *supra*, 1 54, 1). Lo esencial, sin embargo, fue que Corcira consiguió su propósito: mantuvo el control de Epidamno e impidió la intervención corintia en su colonia. Corcira, por tanto, ganó la guerra.
 
 ## 56-66. Conflicto de Potidea.
 
