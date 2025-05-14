@@ -762,14 +762,14 @@ Eubea (I, 114) y el de Potidea (cf, *supra*, I 58, 1; *infra*, I 71, 4).
 404. Pericles expone la misma idea de forma más amplia y precisa en el discurso fúnebre. Cf. _infra_, II 37, 1-2; 40, 2, y. 41, 1.
 405. Es ésta una visión del espíritu emprendedor de los atenienses visto por sus enemigos; conviene compararla y contrastarla con la de Pericles en el discurso fúnebre (cf. I 38-39). Dos visiones distintas de la actividad ateniense.
 406. La fiesta de la satisfacción del deber cumplido.
-407. Véase asimismo, acerca de la mentalidad ateniense, el último discurso de Pericles (cf. I 60; 62-63) y el de Alcibiades cuando exhorta a los atenienses a la expedición a Sicilia (cf. _infra_, VI 16-18). Curiosamente, un siglo más tarde, como observa A. W. GOMME (cf. _op. cit. _ I, pág. 232), Demóstenes dirá las mismas cosas de Filipo, en contraposición a los atenienses, que las que aquí dicen los corintios respecto a los atenienses en contraste con los lacedemonios (cf. DEMÓSTENES, I 14-15; II 23; IV 5-7; 42).
+407. Véase asimismo, acerca de la mentalidad ateniense, el último discurso de Pericles (cf. I 60; 62-63) y el de Alcibiades cuando exhorta a los atenienses a la expedición a Sicilia (cf. _infra_, VI 16-18). Curiosamente, un siglo más tarde, como observa A. W. GOMME (cf. _op. cit._ I, pág. 232), Demóstenes dirá las mismas cosas de Filipo, en contraposición a los atenienses, que las que aquí dicen los corintios respecto a los atenienses en contraste con los lacedemonios (cf. DEMÓSTENES, I 14-15; II 23; IV 5-7; 42).
 408. Un pasaje ilustrativo de la fe en el progreso.
 409. Cf. EURÍPIDES, _Suplicantes_ 324-325; el discurso de Pericles (cf. _infra_, II 63, 3) y el de Alcibíades (cf. _infra_, VI 18, 7).
 410. Sobre el tema de la estabilidad de costumbres y de leyes y sobre la oportunidad de cambiar de leyes, cf. _infra_, III 37, 3; VI 18, 7; ARISTÓTELES, _Política_ II 8, 1268b-1269a, 26 ss.
 411. Cf. _supra_, I 58, 1.
 412. Probable alusión a una alianza con Argos, como observa el escoliasta. Corinto, descontenta con Esparta, se alió efectivamente con Argos después de la paz de Nicias del 421 a. C. (cf, _infra_, V 27-31).
 413. Cf. _infra_, I 123, 2.
-414. En algunos casos, Pelopónnesos es más que un término geográ- fico, Cf. T. Wick, «The meaning of Pelopónnesos in Tucydides», _Classical Philology_ 73 (1978), 45-47.
+414. En algunos casos, Pelopónnesos es más que un término geográfico, Cf. T. Wick, «The meaning of Pelopónnesos in Tucydides», _Classical Philology_ 73 (1978), 45-47.
 415. Se refiere a las Guerras Médicas y al importante papel que en ellas tuvo Atenas (cf. _infra_, I 73-75).
 
 ## 73-79. Discurso de los atenienses.
