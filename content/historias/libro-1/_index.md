@@ -581,7 +581,7 @@ Los corintios, cuando estuvieron listos sus preparativos, pusieron rumbo a Corci
 
 ## 48-52. Batalla naval de las islas de Síbota.
 
-##### [Haz click para ver el mapa](mapa_batalla_sibota.webp)
+### [Haz click para ver el mapa](mapa_batalla_sibota.webp)
 
 48. Cuando los preparativos de los Batalla naval de las islas de Síbota corintios estuvieron listos, tomaron víveres para tres días y se hicieron a la mar de noche desde Quimerio con la intención de librar batalla; [2] y estaban navegando cuando, al amanecer, divisaron las naves de los corcireos en alta mar y navegando contra ellos. [3] Cuando se vieron las dos flotas, se colocaron frente a frente en orden de batalla: a continuación del ala derecha de los corcireos, las naves atenienses, mientras que ellos ocupaban el resto de la formación con las naves distribuidas en tres divisiones<sup>286</sup>, cada una bajo el mando de uno de los tres almirantes. Así se colocaron los corcireos. [4] Por el lado corintio, las naves megareas y las ampraciotas ocupaban el ala derecha, en el centro los otros aliados, cada contingente por separado, y los mismos corintios, con las naves más marineras, ocupaban el ala izquierda, frente a los atenienses y al ala derecha de los corcireos<sup>287</sup>.
 
