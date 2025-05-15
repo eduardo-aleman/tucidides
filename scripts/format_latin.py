@@ -20,18 +20,28 @@ PHRASE_PATTERNS = {
 }
 
 # Compilar patrones
-simple_pattern = re.compile(rf"(?<!_)\\b({'|'.join(SIMPLE_WORDS)})\\b(?!_)")
-phrase_wrappers = {phrase: re.compile(rf"(?<!_)\\b{pattern}\\b(?!_)")
+simple_pattern = re.compile(rf"(?<!_)\b({'|'.join(SIMPLE_WORDS)})\b([.,;:]?)(?!_)")
+phrase_wrappers = {phrase: re.compile(rf"(?<!_)\b{pattern}\b(?!_)")
                    for phrase, pattern in PHRASE_PATTERNS.items()}
 phrase_spacings = {phrase: re.compile(rf"_\s*{pattern}\s*_")
                    for phrase, pattern in PHRASE_PATTERNS.items()}
 
 def wrap_italics(text):
-    text = simple_pattern.sub(r'_\1_', text)
+    # Reemplazo para palabras simples con puntuación
+    def replace_simple(match):
+        word, punct = match.groups()
+        return f'_{word}_{punct}'
+
+    text = simple_pattern.sub(replace_simple, text)
+
+    # Corregir frases mal espaciadas (ya entre guiones bajos)
     for phrase, fixer in phrase_spacings.items():
         text = fixer.sub(f'_{phrase}_', text)
+
+    # Envolver frases correctamente formateadas pero sin cursiva
     for phrase, detector in phrase_wrappers.items():
         text = detector.sub(f'_{phrase}_', text)
+
     return text
 
 def process_file(file_path):
@@ -51,13 +61,16 @@ def process_file(file_path):
         if updated_line != line:
             changes.append(f"Línea {i+1}:\n- {line}\n+ {updated_line}\n")
 
+    # Crear copia de respaldo
     backup_path = file.with_suffix(file.suffix + ".bak")
     shutil.copyfile(file, backup_path)
     print(f"✅ Copia de respaldo creada: {backup_path.name}")
 
+    # Guardar archivo actualizado
     file.write_text("\n".join(updated_lines), encoding='utf-8')
     print(f"✅ Archivo actualizado: {file.name}")
 
+    # Escribir log si hubo cambios
     if changes:
         date_str = datetime.now().strftime("%Y-%m-%d")
         log_path = file.parent / f"format_changes_{date_str}.log"

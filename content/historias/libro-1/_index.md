@@ -832,14 +832,36 @@ Eubea (I, 114) y el de Potidea (cf, _supra_, I 58, 1; _infra_, I 71, 4).
 
 ### Notas de Juan José Torres Esbarranch.
 
-{{% comment %}} ḗ {{% /comment %}}
-
-
+442. Esta alusión a su experiencia y a su edad induce a pensar que en la fecha de este discurso (432 a. C. ) Arquidamo era ya un anciano, que podía haber combatido en las Guerras Médicas. Sobre la alusión a su auditorio de edad avanzada, testigo de las guerras contra Persia, en el discurso de los atenienses, cf. _supra_, I 72, 1; 73, 2.
+443. El escoliasta recuerda aquí el conocido dicho de Píndaro _glykỳs apeírōi pólemos_ (fr. 110). Cf. _infra_, II 8, 1. La guerra, ciertamente, atrae al inexperto, pero la inexperiencia también puede provocar espanto ante la perspectiva de la guerra (cf. _infra_, I 81, 6).
+444. Con la denominación de peloponesios se refiere a los miembros de la Liga del Peloponeso, mientras que los vecinos eran los estados cercanos no aliados, como era el caso de Argos. Cf. _supra_, n. 71.
+445. Argumento realista de Arquidamo: Esparta no tenía rival por tierra frente a fuerzas que combatían con sus mismas armas, pero no estaba preparada para enfrentarse a una potencia marítima de unos recursos económicos superiores a los suyos.
+446. Cercanos, en cambio, en comparación con los persas. Cf. _supra_, I 69, 5.
+447. Los recursos financieros de Atenas dependían básicamente de tres depósitos: el tesoro público, que se nutría de las rentas de los dominios públicos, de las minas de plata de Laurio y de las de oro de Tracia, de tasas, multas y gastos judiciales, de una parte del botín de guerra, etc. ; el tesoro de Atenea, cuyos fondos procedían de los donativos y ofrendas de los fieles y de los intereses de los préstamos que negociaba; y el tesoro federal, creado tras la constitución de la Liga de Delos (478/77 a. C. ), en el que se depositaban las contribuciones de los aliados, tesoro que, como es sabido, estuvo en Delos hasta el 454/53 a. C. , año en que fue trasiadado a Atenas, trasvasándose desde entonces al tesoro de Atenea como primicia la sexagésima parte de los tributos, a razón de una mina por talento. Frente a esta riqueza pública ateniense, constituía un fuerte contraste la economía de Esparta, que no recibia tributo de sus aliados. 
+448. Arquidamo ha puesto el dedo en la llaga; la flota y los recursos financieros eran los dos puntales de la superioridad ateniense y los principales motivos de preocupación para sus adversarios. Cf. _infra_, I 121, 3-5; 141, 3-7.
+449. Sobre la escasez de recursos de Esparta, cf. _infra_, I 141; 3, donde Pericles, al plantear su estrategia, se refiere a las cortas disponibilidades de los peloponesios. El tema aquí suscitado por Arquidamo, las extraordinarias posibilidades de Atenas frente a las limitaciones financieras peloponesias, está presente hasta el final del libro I. Los corintios, que constituían la gran excepción a esta pobreza peloponesia, se opondrán al punto de vista de Arquidamo (cf. _infra_, I 121-122).
+450. Referido especialmente a las fuerzas hopliticas, en las que Esparta superaba las posibilidades de Atenas. No está en contradicción con lo dicho en 80, 3.
+451. Advertencia de Arquidamo contra la creencia de que los métodos de guerra ordinarios puedan tener éxito frente a Atenas, aunque después (cf. 1 82, 3-4) parece que les concede alguna posibilidad. En realidad es una respuesta a la propuesta corintia de una invasión inmediata (cf. _supra_, I 71, 1-4) y a la idea de una resolución rápida de la guerra (cf. _infra_, 81, 6; 143, 4). Acerca de la estrategia espartana, cf. P. A. BRUNT, «Spartan Policy and Strategy in the Archidamian War», _Phoenix_ 19 (1965), 255-280; G. L. CAWkELL, «Thucydides Judgement of Periclean Strategy», _Yale Classical Studies_ 24 (1976), 53-69; I. MOXON, «Thucydides Account of Spartan Strategy and Policy in the Archidamian War», _Rivista Storica dell' Antichita_ 8 (1978), 7-26; TH. KELLY, «Spartan Strategy in the Archidamian War», _The American Historical Review_ 87 (1982), 25-54.
+452. De acuerdo, en efecto, con la estrategia de Pericles, que había previsto renunciar al territorio del Ática, indefendible frente a los hoplitas peloponesios, y sustituirlo, gracias a los Muros Largos y a la flota, por las importaciones y los recursos del imperio.
+453. Ya lo habían demostrado en las Guerras Médicas, renunciando incluso a la ciudad. Cf. _supra_, 1 74, 3-4.
+454. Arquidamo se excusa de su propuesta de recurrir a los bárbaros, ya que aún no se había olvidado la invasión persa y una alianza con Persia podía provocar críticas. Sin embargo, muy pronto empezarán las tentativas de Esparta para obtener el apoyo persa con que contrarrestar los recursos financieros de Atenas. Cf. II 7, 1; 67, 1; IV 50, 1-2. Atenas, naturalmente, no quedará al margen.
+455. Que en el supuesto contrario. Es decir, iniciar la guerra sin los preparativos suficientes puede colocar al Peloponeso en una situación peor que la que los corintios atribuyen a la política de Esparta.
+456. Alusión a los intereses de algunos estados, en especial de Corinto, Mégara y Egina, y también, posiblemente, a las quejas de los comerciantes de estas ciudades. Cf. _supra_, 1 67.
+457. Cf. _supra_, I 69, 4; 70; 71, 4. Sobre la relación de este capítulo con el discurso de los corintios, cf. L. BODIN, «Thucydide, I 84», _Mélanges Desrousseaux_, París, 1937, págs. 19-25.
+458. Gracias precisamente a la política que es objeto de críticas, como expone a continuación en respuesta a las acusaciones corintias.
+459. La prudencia en las decisiones (_euboulía_) y la moderación en la conducta (_tò eúkosmon_) en contestación al reproche de lentitud (_bradytḗs_), de dilaciones y vacilaciones (_iò bradỳ kaì méllon_).
+460. Este sentimiento del honor ligado a la moderación (_sōphrosýnē_) y al valor (_eupsychía_) está expresado por dos palabras muy afines: _aidṓs_, sentimiento del honor, y _aíschynē_, sentimiento de vergüenza ante el deshonor.
+461. Alusión a la afición ateniense por la oratoria.
+462. Cf. _supra_, I 69, 5.
+463. En contestación al elogio corintio sobre la superioridad ateniense (cf. _infra_, I 70).
+464. Cf. _supra_, I 78, 4.
 
 
 ## 86. Discurso de Estenelaidas.
 
 ### Notas de Juan José Torres Esbarranch.
+
+<!-- ḗ ṓ ỳ -->
 
 ## 87. El tratado ha sido violado.
 
