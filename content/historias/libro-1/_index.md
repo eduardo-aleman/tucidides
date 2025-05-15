@@ -914,6 +914,26 @@ de la tregua de treinta años que se había acordado después de los sucesos de 
 
 ## 90-93. La reconstrucción de las murallas de Atenas. Actuación de Temístocles
 
+90. Los lacedemonios, al enterarse de lo que se preparaba, fueron a Atenas en embajada, en parte porque ellos mismos hubieran visto con
+mayor agrado que ni los atenienses
+ni ningún otro pueblo tuvieran murallas, pero principalmente porque sus aliados los incitaban por su temor a la
+potencia de la flota ateniense, que antes no era tan grande487, y a la audacia que habían desplegado en la guerra contra los medos. [2] Les pidieron, pues, que no levantaran
+sus murallas, sino que optaran por colaborar con ellos en
+el derribo de los recintos fortificados de todas las ciudades
+de fuera del Peloponeso que los tuvieran en pie; sin manifestar sus verdaderas intenciones ni su disposición de desconfianza respecto a los atenienses, alegaron que los bárbaros, en el caso de una nueva invasión, no dispondrían
+de una plaza fortificada de donde lanzar sus ataques, como acabada de ocurrir con Tebas488; el Peloponeso era,
+en su opinión, un refugio y una base de operaciones suficiente para todos. Los atenienses, por consejo de Temístocles489, despidieron enseguida a los lacedemonios que les
+habían comunicado estas pretensiones, respondiéndoles que
+les enviarían embajadores para tratar sobre el asunto del
+que habían hablado. Luego, Temístocles les propuso que
+le enviaran a él mismo a Esparta cuanto antes, pero que
+no mandaran enseguida a otros embajadores que, además
+de él, fueran elegidos; debían esperar hasta que hubieran
+levantado la muralla lo suficiente para defenderse desde
+el mínimo de altura indispensable; y todos los que estaban
+en la ciudad, hombres, mujeres y niños, debían trabajar
+en masa en la construcción de la muralla, sin respetar nin- 
+
 ### Notas de Juan José Torres Esbarranch
 
 <!-- ḗ ṓ ỳ -->
