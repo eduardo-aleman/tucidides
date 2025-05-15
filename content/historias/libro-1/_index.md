@@ -208,7 +208,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 20. _Hellás_, «Hélade». _Hellás_ fue, originariamente, una zona de Tesalia, próxima a Ftía, que se hallaba bajo el dominio de Aquiles. Cf. Ilíada IX 395.
 21. Deucalión era un héroe, hijo de Prometeo, que se casó con Pirra, hija de Epimeteo y de Pandora, la primera mujer. Deucalión y Pirra fueron los únicos supervivientes del diluvio con el que Zeus decidió castigar a los hombres. Por consejo de Prometeo, construyeron un arca en la que flotaron durante nueve días y nueve noches salvándose del diluvio. Se establecieron luego en Tesalia, donde reinaron sobre los primeros hombres que, tras el diluvio, surgieron de las piedras —los huesos de la Tierra— que Deucalión y Pirra lanzaron por orden de Zeus. Uno de sus hijos fue Helén, mítico fundador de los helenos, de cuyos hijos, Doro, Eolo y Juto, descienden los dorios, eolios, jonios y aqueos. (Cf. DIODORO, IV 60, 2; APOLODORO, I 7, 2-3. ) He aquí el árbol genealógico de esta familia mítica:
 
-![He aquí el árbol genealógico de esta familia mítica:](arbol_gen. webp)
+![He aquí el árbol genealógico de esta familia mítica:](arbol_gen.webp)
 
 En la interpretación del mito que nos ofrece Tucídides es de destacar la idea de que el nombre de _helenos_ se difundió debido a la fuerza de Helén y sus hijos. Un nombre se difundía igual que se extendían los dominios, debido a la fuerza. No se dan pruebas. Solo está la afirmación de que la difusión del nombre debió de producirse porque Helén y sus hijos se hicieron poderosos. El poderío de Helén se infiere de la difusión de su nombre, y subyace la idea de la fuerza como elemento determinante de la historia.
 
