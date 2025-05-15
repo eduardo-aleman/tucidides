@@ -973,7 +973,8 @@ Anaxándridas (560–520)
  │ └── Pausanias (408–394) [Tuc. III 26, 2]
  └── Cleómenes
 ```
-513. En el 478 a. C. , tras la toma de Sesto. Pausanias había sucedido en el mando a Leotíquidas, perteneciente a la familia de los Euripóntidas (cf. _supra_, 1 89, 2). DIODORO (XI 44, 2) sitúa la expedición en el 477 a. C. , pero es probable que sea del año anterior. 514. Bajo el mando de Arístides, según DIODORO (XI 44, 2), de Arístides y Cimón, según PLUTARCO (Arístides 23, 1; Cimón 6, 1).
+513. En el 478 a. C. , tras la toma de Sesto. Pausanias había sucedido en el mando a Leotíquidas, perteneciente a la familia de los Euripóntidas (cf. _supra_, 1 89, 2). DIODORO (XI 44, 2) sitúa la expedición en el 477 a. C. , pero es probable que sea del año anterior. 
+514. Bajo el mando de Arístides, según DIODORO (XI 44, 2), de Arístides y Cimón, según PLUTARCO (Arístides 23, 1; Cimón 6, 1).
 515. Isla usada como base por la flota persa; objetivo, pues, importante para los griegos, que dirigieron diversas expediciones contra ella. Cf. _infra_, 104, 2; 112, 1-4.
 516. De evidente importancia para los griegos después de tomar Sesto. (Cf. _supra_, I 89, 2. ) Atenas se aseguraba el control de los estrechos.
 517. Cf. _infra_, I 128, 5.
