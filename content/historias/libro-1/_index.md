@@ -820,7 +820,7 @@ Eubea (I, 114) y el de Potidea (cf, _supra_, I 58, 1; _infra_, I 71, 4).
 
 ### Notas de Juan José Torres Esbarranch.
 
-{{% comment %}} ḗ  {{% /comment %}}
+{{% comment %}} ḗ {{% /comment %}}
 
 ## 86. Discurso de Estenelaidas.
 
