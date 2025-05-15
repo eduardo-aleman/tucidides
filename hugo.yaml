@@ -47,6 +47,9 @@ params:
     enable: false
     base: "https://github.com/lampsacus/tucidides/edit/main/content"
 
+  mermaid: true
+
+
 defaultContentLanguage: es
 languages:
   es:
