@@ -1,0 +1,25 @@
+=== 2025-05-15T00:03:44.259606 ===
+Archivo: _index.md
+
+=== Total de modificaciones ===
+- Frases latinas corregidas: 351
+- Palabras con superíndice: 7
+- Líneas modificadas: 254
+- Total general: 358
+
+=== Conversiones a superíndice ===
+- Pausanias511: 1 vez/veces
+- Cleómbroto512: 1 vez/veces
+- griegos513: 1 vez/veces
+- naves514: 1 vez/veces
+- Chipre515: 1 vez/veces
+- Bizancio516: 1 vez/veces
+- Pausanias517: 1 vez/veces
+
+=== Total de modificaciones ===
+- Frases latinas corregidas: 351
+- Palabras con superíndice: 7
+- Líneas modificadas: 254
+- Total general: 358
+
+---

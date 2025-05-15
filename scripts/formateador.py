@@ -36,11 +36,9 @@ def cargar_ultima_ruta():
 
 def excluir_fecha(texto, pos):
     contexto = texto[max(0, pos - 100):pos].lower()
-    # Solo filtra si hay expresiones como "año 476" o "años 1234"
     return bool(re.search(r'\b(año|años)\s*(\d{1,4})?\b', contexto))
 
 def procesar_texto(texto):
-    # Frases simples
     def reemplazar_simple(match):
         palabra, punct = match.groups()
         frase_counter[palabra] += 1
@@ -48,19 +46,16 @@ def procesar_texto(texto):
 
     texto = simple_pattern.sub(reemplazar_simple, texto)
 
-    # Frases mal espaciadas
     for frase, fixer in phrase_spacings.items():
         if fixer.search(texto):
             frase_counter[frase] += 1
         texto = fixer.sub(f'_{frase}_', texto)
 
-    # Frases correctas sin formateo
     for frase, detector in phrase_wrappers.items():
         if detector.search(texto):
             frase_counter[frase] += 1
         texto = detector.sub(f'_{frase}_', texto)
 
-    # Superíndices palabra + número
     def reemplazar_palabra_numero(match):
         palabra, numero, puntuacion = match.groups()
         pos = match.start()
@@ -72,7 +67,6 @@ def procesar_texto(texto):
 
     texto = inline_number_pattern.sub(reemplazar_palabra_numero, texto)
 
-    # Superíndices tras puntuación
     def reemplazar_signo_numero(match):
         simbolo, numero, puntuacion = match.groups()
         clave = f"{simbolo}{numero}"
@@ -81,7 +75,6 @@ def procesar_texto(texto):
 
     texto = after_punctuation_pattern.sub(reemplazar_signo_numero, texto)
 
-    # Limpieza de espacios y comillas
     texto = re.sub(r'([.,;:])(?=[^\s\n</])', r'\1 ', texto)
     texto = re.sub(r'(?<![.,;:]) {2,}', ' ', texto)
     texto = re.sub(r' +\n', '\n', texto)
@@ -89,7 +82,19 @@ def procesar_texto(texto):
 
     return texto
 
-def generar_resumen_total():
+def contar_lineas_modificadas(original, actualizado):
+    original_lines = original.splitlines()
+    actualizado_lines = actualizado.splitlines()
+    max_len = max(len(original_lines), len(actualizado_lines))
+    cambios = 0
+    for i in range(max_len):
+        linea_original = original_lines[i] if i < len(original_lines) else ''
+        linea_nueva = actualizado_lines[i] if i < len(actualizado_lines) else ''
+        if linea_original != linea_nueva:
+            cambios += 1
+    return cambios
+
+def generar_resumen_total(lineas_modificadas=0):
     total_frases = sum(frase_counter.values())
     total_super = sum(superscript_counter.values())
     total = total_frases + total_super
@@ -97,28 +102,9 @@ def generar_resumen_total():
         "=== Total de modificaciones ===",
         f"- Frases latinas corregidas: {total_frases}",
         f"- Palabras con superíndice: {total_super}",
+        f"- Líneas modificadas: {lineas_modificadas}",
         f"- Total general: {total}"
     ])
-
-def generar_resumen_markdown(nombre_archivo):
-    ahora = datetime.now()
-    resumen = [f"# Resumen de correcciones",
-               f"- Fecha: {ahora.strftime('%Y-%m-%d %H:%M:%S')}",
-               f"- Archivo procesado: `{nombre_archivo}`\n"]
-
-    if frase_counter:
-        resumen.append("## Frases latinas corregidas")
-        for frase, cuenta in frase_counter.most_common():
-            resumen.append(f"- _{frase}_: {cuenta} vez/veces")
-
-    if superscript_counter:
-        resumen.append("\n## Palabras convertidas a superíndice")
-        for clave, cuenta in superscript_counter.most_common():
-            resumen.append(f"- {clave}: {cuenta} vez/veces")
-
-    resumen.append("\n## Total de modificaciones")
-    resumen.extend(generar_resumen_total().splitlines()[1:])
-    return "\n".join(resumen)
 
 def process_file(file_path):
     file = Path(file_path)
@@ -140,24 +126,21 @@ def process_file(file_path):
     file.write_text(updated_text, encoding='utf-8')
     print(f"✅ Archivo actualizado: {file.name}")
 
-    date_str = datetime.now().strftime("%Y-%m-%d")
-    log_path = file.parent / f"format_changes_{date_str}.log"
-    with open(log_path, "a", encoding='utf-8') as log:
+    lineas_modificadas = contar_lineas_modificadas(original_text, updated_text)
+
+    log_path = file.parent / "cambios.txt"
+    with open(log_path, "w", encoding='utf-8') as log:
         log.write(f"=== {datetime.now().isoformat()} ===\n")
         log.write(f"Archivo: {file.name}\n\n")
-        log.write(generar_resumen_total() + "\n\n")
+        log.write(generar_resumen_total(lineas_modificadas) + "\n\n")
         if superscript_counter:
-            log.write("\n=== Conversiones a superíndice ===\n")
+            log.write("=== Conversiones a superíndice ===\n")
             for entrada, cuenta in superscript_counter.most_common():
                 log.write(f"- {entrada}: {cuenta} vez/veces\n")
-        log.write("\n" + generar_resumen_total() + "\n\n")
+        log.write("\n" + generar_resumen_total(lineas_modificadas) + "\n")
+        log.write("\n---\n")
+
     print(f"📝 Log actualizado: {log_path.name}")
-
-    resumen_md = generar_resumen_markdown(file.name)
-    resumen_path = file.parent / "frases_corregidas.md"
-    resumen_path.write_text(resumen_md, encoding='utf-8')
-    print(f"📘 Resumen escrito en: {resumen_path.name}")
-
     return True
 
 if __name__ == "__main__":
