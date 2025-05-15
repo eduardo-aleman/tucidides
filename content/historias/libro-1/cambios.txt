@@ -1,17 +1,34 @@
-=== 2025-05-15T00:25:34.142593 ===
+=== 2025-05-15T15:01:20.849510 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 11
-- Palabras con superíndice: 0
-- Líneas modificadas: 16
-- Total general: 11
+- Frases latinas corregidas: 18
+- Palabras con superíndice: 16
+- Líneas modificadas: 38
+- Total general: 34
 
+=== Conversiones a superíndice ===
+- carácter518: 1 vez/veces
+- Rey519: 1 vez/veces
+- parentesco520: 1 vez/veces
+- jefes52: 1 vez/veces
+- Pausanias522: 1 vez/veces
+- medos523: 1 vez/veces
+- Dorcis524: 1 vez/veces
+- corrompieran525: 1 vez/veces
+- hegemonía526: 1 vez/veces
+- naves527: 1 vez/veces
+- motivo528: 1 vez/veces
+- helenotamías529: 1 vez/veces
+- tributo530: 1 vez/veces
+- tributo531: 1 vez/veces
+- Delos532: 1 vez/veces
+- asambleas533: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 11
-- Palabras con superíndice: 0
-- Líneas modificadas: 16
-- Total general: 11
+- Frases latinas corregidas: 18
+- Palabras con superíndice: 16
+- Líneas modificadas: 38
+- Total general: 34
 
 ---

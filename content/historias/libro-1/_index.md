@@ -206,24 +206,24 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 18. Sobre la colonización de Asia Menor, cf. *_infra_*, I 12, 4, y HERÓDOTO, I 142-148. Sobre el origen ateniense de los jonios de las Cícladas y de Asia Menor, cf. *_infra_*, VII 57, 4, y HERÓDOTO, I 146-147; V 97, 2; VII 51, 2; VIII 46, 2-3; IX 106, 3. La propaganda política insistía en el liderazgo de Atenas sobre los jonios.
 19. Acontecimiento que se toma con frecuencia como punto de referencia. Según las principales fuentes cronológicas, su fecha fue el 1184 a. C. (cf. *_infra_*, I 12, 3, n. 83). Tucídides la colocaba en torno al 1200, o hacia mediados del siglo XIII a. C. , según otros.
 20. *Hellás*, «Hélade». *Hellás* fue, originariamente, una zona de Tesalia, próxima a Ftía, que se hallaba bajo el dominio de Aquiles. Cf. Ilíada IX 395.
-21. Deucalión era un héroe, hijo de Prometeo, que se casó con Pirra, hija de Epimeteo y de Pandora, la primera mujer. Deucalión y Pirra fueron los únicos supervivientes del diluvio con el que Zeus decidió castigar a los hombres. Por consejo de Prometeo, construyeron un arca en la que flotaron durante nueve días y nueve noches salvándose del diluvio. Se establecieron luego en Tesalia, donde reinaron sobre los primeros hombres que, tras el diluvio, surgieron de las piedras —los huesos de la Tierra— que Deucalión y Pirra lanzaron por orden de Zeus. Uno de sus hijos fue Helén, mítico fundador de los helenos, de cuyos hijos, Doro, Eolo y Juto, descienden los dorios, eolios, jonios y aqueos. (Cf. DIODORO, IV 60, 2; APOLODORO, I 7, 2–3.) He aquí el árbol genealógico de esta familia mítica:
+21. Deucalión era un héroe, hijo de Prometeo, que se casó con Pirra, hija de Epimeteo y de Pandora, la primera mujer. Deucalión y Pirra fueron los únicos supervivientes del diluvio con el que Zeus decidió castigar a los hombres. Por consejo de Prometeo, construyeron un arca en la que flotaron durante nueve días y nueve noches salvándose del diluvio. Se establecieron luego en Tesalia, donde reinaron sobre los primeros hombres que, tras el diluvio, surgieron de las piedras —los huesos de la Tierra— que Deucalión y Pirra lanzaron por orden de Zeus. Uno de sus hijos fue Helén, mítico fundador de los helenos, de cuyos hijos, Doro, Eolo y Juto, descienden los dorios, eolios, jonios y aqueos. (Cf. DIODORO, IV 60, 2; APOLODORO, I 7, 2–3. ) He aquí el árbol genealógico de esta familia mítica:
 
-    <div class="mermaid">
-    graph TD
-      A[Deucalión = Pirra]
-      A --> B[Helén = Orseida]
-      A --> C[Melancia]
-      A --> D[Anfictión]
-      A --> E[Protogenia]
-      B --> F[Doro]
-      B --> G[Juto - Creúsa]
-      B --> H[Eolo]
-      G --> I[Diomede]
-      G --> J[Aqueo]
-      G --> K[Ión]
-    </div>
+ <div class="mermaid">
+ graph TD
+ A[Deucalión = Pirra]
+ A --> B[Helén = Orseida]
+ A --> C[Melancia]
+ A --> D[Anfictión]
+ A --> E[Protogenia]
+ B --> F[Doro]
+ B --> G[Juto - Creúsa]
+ B --> H[Eolo]
+ G --> I[Diomede]
+ G --> J[Aqueo]
+ G --> K[Ión]
+ </div>
 
-    En la interpretación del mito que nos ofrece Tucídides es de destacar la idea de que el nombre de helenos se difundió debido a la fuerza de Helén y sus hijos. Un nombre se difundía igual que se extendían los dominios, debido a la fuerza. No se dan pruebas. Solo está la afirmación de que la difusión del nombre debió de producirse porque Helén y sus hijos se hicieron poderosos. El poderío de Helén se infiere de la difusión de su nombre, y subyace la idea de la fuerza como elemento determinante de la historia.
+ En la interpretación del mito que nos ofrece Tucídides es de destacar la idea de que el nombre de helenos se difundió debido a la fuerza de Helén y sus hijos. Un nombre se difundía igual que se extendían los dominios, debido a la fuerza. No se dan pruebas. Solo está la afirmación de que la difusión del nombre debió de producirse porque Helén y sus hijos se hicieron poderosos. El poderío de Helén se infiere de la difusión de su nombre, y subyace la idea de la fuerza como elemento determinante de la historia.
 
 22. Con los nombres de pelasgos, léleges y carios se conocía a los primitivos habitantes de las tierras que luego fueron ocupadas por los griegos o helenos. Estos pueblos, antes de la llegada de los griegos, se extenderían por toda Grecia, y los pelasgos, en concreto, según los testimonios de Homero (cf. *Ilíada* II 681-684 y 840-843) y de Heródoto, estarían situados preferentemente en las regiones septentrionales, de donde se verían obligados a emigrar al producirse las invasiones de los grupos indoeuropeos. Heródoto (I 56-58) los consideraba autóctonos e indicaba que su lengua no era griega; los pueblos autóctonos pelásgicos, como era el caso de los atenienses, que luego se convirtieron en griegos, cambiaron sin duda de lengua (cf. HERÓDOTO, I 57, 2-3; VIII 44). Una vez instalados los helenos y ya helenizada la población autóctona ateniense, los pelasgos no asimilados quedarían como grupos marginales; tal sería el caso de los que se instalaron en Lemnos tras ser expulsados del Ática por los atenienses, pelasgos que realizarían incursiones contra el Ática y sobre los que se organizaría una campaña propagandística a mediados del siglo V a. C. para justificar la toma de Lemnos por Milcíades (cf. HERÓDOTO, VI 137-140; E. LUPPINO, «I Pelasgi e la propaganda política del V secolo a. C. », *Contributi dell'Istituto di Storia Antica* I [1972], 71-77). De todas formas, el planteamiento de Heródoto del problema pelásgico es, por lo menos, algo complicado (cf. HERÓDOTO, I 56-58; 146, 1; II 51-52; VI 137-140; VII 94-95; VIII 44). Su identificación histórica no es segura, y ya Éforo en el siglo IV a. C. señalaba que los nombres de estos pueblos eran términos imprecisos que servían para designar a distintos grupos que habitaban en la cuenca del Egeo cuando llegaron los griegos. Tucídides no profundiza en el complejo problema de los pelasgos y se limita a considerarlos como la población más numerosa y extendida de la Grecia prehelénica. Sobre esta cuestión, cf. F. LOCHNER VON HÜTTENBACH, *Die Pelasger*, Múnich, 1960, y la reseña de G. NEUMANN, Gnomon 34 (1962), 370-374.
 23. Región situada al sudeste de Tesalia, en la que se encontraba Ftía, la patria de Aquiles.
@@ -590,7 +590,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 
 ## 48-52. Batalla naval de las islas de Síbota
 
-![Haz click para ver el mapa](mapa_batalla_sibota.webp)
+![Haz click para ver el mapa](mapa_batalla_sibota. webp)
 
 48. Cuando los preparativos de los Batalla naval de las islas de Síbota corintios estuvieron listos, tomaron víveres para tres días y se hicieron a la mar de noche desde Quimerio con la intención de librar batalla; [2] y estaban navegando cuando, al amanecer, divisaron las naves de los corcireos en alta mar y navegando contra ellos. [3] Cuando se vieron las dos flotas, se colocaron frente a frente en orden de batalla: a continuación del ala derecha de los corcireos, las naves atenienses, mientras que ellos ocupaban el resto de la formación con las naves distribuidas en tres divisiones<sup>286</sup>, cada una bajo el mando de uno de los tres almirantes. Así se colocaron los corcireos. [4] Por el lado corintio, las naves megareas y las ampraciotas ocupaban el ala derecha, en el centro los otros aliados, cada contingente por separado, y los mismos corintios, con las naves más marineras, ocupaban el ala izquierda, frente a los atenienses y al ala derecha de los corcireos<sup>287</sup>.
 
@@ -990,19 +990,18 @@ Anaxándridas (560–520)
 -->
 <div class="mermaid">
 graph TD
-  A[Anaxándridas 560–520]
-  A --> B[Cleómenes 520–490]
-  A --> C[Dorieo]
-  A --> D[Leónidas 490–480]
-  D --> E[Plistarco 480–458]
-  A --> F[Cleómbroto †480]
-  F --> G[Pausanias Regente]
-  F --> H[Nicomedes]
-  H --> I[Plistoanacte 458–408]
-  I --> J[Pausanias 408–394]
-  H --> K[Cleómenes]
+ A[Anaxándridas 560–520]
+ A --> B[Cleómenes 520–490]
+ A --> C[Dorieo]
+ A --> D[Leónidas 490–480]
+ D --> E[Plistarco 480–458]
+ A --> F[Cleómbroto †480]
+ F --> G[Pausanias Regente]
+ F --> H[Nicomedes]
+ H --> I[Plistoanacte 458–408]
+ I --> J[Pausanias 408–394]
+ H --> K[Cleómenes]
 </div>
-
 
 513. En el 478 a. C. , tras la toma de Sesto. Pausanias había sucedido en el mando a Leotíquidas, perteneciente a la familia de los Euripóntidas (cf. _supra_, 1 89, 2). DIODORO (XI 44, 2) sitúa la expedición en el 477 a. C. , pero es probable que sea del año anterior.
 514. Bajo el mando de Arístides, según DIODORO (XI 44, 2), de Arístides y Cimón, según PLUTARCO (Arístides 23, 1; Cimón 6, 1).
@@ -1010,9 +1009,9 @@ graph TD
 516. De evidente importancia para los griegos después de tomar Sesto. (Cf. _supra_, I 89, 2. ) Atenas se aseguraba el control de los estrechos.
 517. Cf. _infra_, I 128, 5.
 
-<!-- ḗ ṓ ỳ -->
-
 ## 95. Acusaciones contra Pausanias. La hegemonía pasa a los atenienses
+
+95. Pero, debido a la violencia de su carácter<sup>518</sup>, todos los demás griegos, y en especial los jonios y los que recientemente se habían liberado del Rey<sup>519</sup>, se sintieron molestos. Así, se dirigieron repetidamente a los atenienses y les pidieron que, en atención a su parentesco<sup>520</sup>, fueran sus jefes<sup>52</sup>l, y que no soportaran a Pausanias en caso de violencia. [2] Los atenienses acogieron estas proposiciones y se decidieron a poner fin a su tolerancia y a organizar lo demás del modo que les pareciera mejor. [3] Entretanto los lacedemonios llamaron a Pausanias<sup>522</sup> para interrogarlo acerca de los informes que recibían, pues era acusado de muchas injusticias por los griegos que llegaban a Esparta, y su actuación se parecía más a una imitación de tiranía que a un mandato militar. [4] Y ocurrió que lo llamaron coincidiendo con que los aliados, a excepción de los soldados del Peloponeso, se pasaban a los atenienses por el odio que él les inspiraba. [5] Llegado a Esparta fue llevado a juicio por sus atropellos contra algunos particulares, pero fue absuelto de las acusaciones más graves; se le acusaba prin- cipalmente de simpatizar con los medos<sup>523</sup>, y parecía que el asunto era muy cierto. [6] En consecuencia ya no lo enviaron a él como comandante, sino que enviaron a Dorcis<sup>524</sup> y a algunos otros al frente de una expedición no muy numerosa; pero los aliados ya no les confiaron el mando. [7] Ellos, al darse cuenta, se volvieron, y los lacedemonios ya no enviaron después a otros, temiendo que quienes salieran de Esparta se corrompieran<sup>525</sup> como habían visto en el caso de Pausanias; deseaban también liberarse de la guerra contra los medos, y pensaban que los atenienses estaban capacitados para el mando, y en aquel tiempo los consideraban amigos.
 
 ### Notas de Juan José Torres Esbarranch
 
@@ -1020,10 +1019,28 @@ graph TD
 519. Cf. _supra_, I 89, 2.
 520. Sobre el parentesco de jonios y atenienses, cf. _supra_, 1 2, 6; 6, 3. Aquí el conjunto de griegos asiáticos se identifican con los jonios e invocan la afinidad étnica.
 521. Sus *hēgemónes*. Cf. _supra_, 1 38, 2.
+522. En el invierno del 478-477 a. C.
+523. De «medismo» (*médismós*), término con el que se indica la actitud de los griegos favorables a los persas o dispuestos a aceptar su supremacía. Cf. _infra_, I 135, 2; III 63, 1, etc.
+524. Personaje que sólo aparece en este pasaje. La expedición fue enviada probablemente hacia la primavera del 477 a. C.
+525. Cf. la advertencia ateniense en este sentido, _supra_, 1 77, 6.
 
 ## 96. La Confederación ático-delia
 
+96. Una vez que los atenienses hubieron recibido la hegemonía<sup>526</sup> de este modo, por la voluntad de los aliados a causa del odio hacia Pausanias, determinaron qué ciudades debían aportar dinero para la guerra contra el bárbaro y cuáles debían contribuir con naves<sup>527</sup>; el motivo<sup>528</sup> declarado era devastar el territorio del Rey para vengarse de los daños que habían sufrido. [2] Entonces los atenienses instituyeron la nueva magistratura de los helenotamías<sup>529</sup>, que recaudaban el tributo<sup>530</sup>, nombre que se dio a la contribución en dinero. El primer tributo<sup>531</sup> que se fijó fue de cuatrocientos sesenta talentos; el tesoro público estaba en Delos<sup>532</sup> , y las asambleas<sup>533</sup> se celebraban en el santuario.
+
+
 ### Notas de Juan José Torres Esbarranch
+
+526. Al principio, Atenas tuvo una posición hegemónica entre alia- dos autónomos y libres; luego se pasó de la hegemonía (*hegèmonía*) al imperio (*archḗ*). Tucidídes lo contará en los capítulos que siguen (cf. _infra_, I 97, 1-2).
+527. Se trata de la constitución de la Liga de Delos, en el 477 a. C. (cf. _supra_, I 18, 2, n, 133). Se determinó qué ciudades debían contribuir con dinero y cuales con naves, y se fijó la cantidad. Entre los estados que originariamente debían contribuir con naves y hombres en lugar del tributo (*phóros*) debían de estar Samos (cf. _infra_, I 116, 1; 117, 3), Quíos (cf. _infra_, VI 85, 2; VII 57, 4), Metimna y las otras ciudades de Lesbos (cf. _infra_, III 3, 1; VI 85, 2), Tasos (ef. _infra_, I 101, 3) Y, probablemente, Naxos (cf. _infra_, I 98, 4). El número de estos estados fue disminuyendo debido a que consideraron más gravosa la participación directa en las obligaciones militares que el pago de un tributo (cf. _infra_, I 99, 2-3).
+528. El motivo oficial (*próschēma*) de la alianza (*symmachía*) era la venganza contra los persas por los daños causados durante las Guerras Médicas (cf. el mismo motivo en VI 76, 3). Con esta motivación, la he- gemonía de Atenas parecía adecuada, dado que se había visto particular- mente afectada por las destrucciones y saqueos de los persas. Había además otro motivo, que vemos en el discurso que los mitileneos dirigen a los espartanos y a sus aliados en Olimpia (cf. _infra_, III 10, 3): la liberación de las ciudades griegas que todavía estaban bajo el dominio persa. H. R. RAWLINGS, «Thucydides on the purpose of the Delian league», *Phoenix* 31 (1977), 1-8, analiza este pasaje y sugiere que, con su elección de la palabra *próschēma* (una palabra que frecuentemente se opone a «motivo o intención verdadera», «una pantalla para las verdaderas intenciones que se mantienen ocultas por una razón u otra»), Tucídides juzgaba implícitamente el propósito declarado de la Liga como un simple pretexto para encubrir las verdaderas intenciones de Atenas. A. French, en su artículo «Athenian ambitions and the Delian Alliance», *Phoenix* 33 (1979), 134-141, expone sus reservas al respecto.
+529. Literalmente «los tesoreros de los griegos», con la idea de que la Liga, al estar dirigida contra Persia, representara los intereses de toda Grecia. Eran magistrados atenienses, elegidos anualmente entre los ciudadanos atenienses, en número de diez, uno por cada tribu (Cf. JENOFONTE, Helénicas VI 5, 34). Su misión era recaudar, registrar y custodiar los tributos pagados anualmente por los aliados.
+530. La contribución mediante el *phóros* era una novedad en una *symmachía* como era la Liga. La palabra *phóras* significaba simplemente «pago o contribución», no tenía al principio el sentido molesto que damos a la palabra «tributo», sentido más adecuado al período en que la Liga dejó de ser una alianza de ciudades independientes para pasar a ser un imperio bajo el dominio de Atenas. En relación con estas con- tribuciones tenemos las llamadas «listas de tributos», de las que poseemos los textos epigráficos a partir del año 454 a. C. (cf. B. D. MERITT, H. T. WADE-GERY, M. F. MCGREGOR, *The Alhenian Tribute Lists* I, Cambridge, Mass. , 1939; II-IV, Princeton, N. J. , 1950-1953); eran los registros redactados por los *helenotamías* de las cuotas que como primicia (*aparchaí*), en una sexagésima parte del tributo anual de los aliados, eran depositadas, a partir del traslado del tesoro de Delos a Atenas, en el tesoro de Atenea (cf. _supra_, n. 447).
+531. La fijación del tributo, según ARISTÓTELES (Constitución de los atenienses 23, 5), fue realizada por Arístides (cf. _supra_, n. 494) durante el arcontado de Timóstenes en el 478-477. Esta cantidad que nos da Tucídides para el tributo inicial (cf. , asimismo, PLUTARCO, *Arístides* 24, 4), lo mismo que la cifra que da más adelante (cf. _infra_, II 13, 3, n. 87) para el tributo del 431 a. C. , ha sido objeto de polémica. En este caso la cantidad de 460 talentos parece demasiado elevada en relación a los totales anuales que se obtienen, a partir del año 454 a. C. , de las listas de tributos (cf. B. D. MERITT, H. T. WADE-GERY, M. F. MCGREGOR, *The Alhenian Tribute Lists* III, págs. 239 ss. ; A. W. GOMME, op. cit. I, págs. 273-280). Sólo en el período del 454 al 450 se puede pensar en una suma de unos 490 talentos, pero entonces el número de estados contribuyentes era mayor que el de la primera época; se supone que entre el 477 y el 454 la recaudación debió de incrementarse: en el 477 había algunos miembros de la alianza, como Naxos y Tasos, que contribuían con naves y que luego lo hicieron con dinero; además, algunos nuevos estados, como Egina en el 457 (cf, _infra_, I 108, 4, n. 639), se incorporaron a la alianza. En los años que siguieron, hasta el inicio de la Guerra del Peloponeso, el total del *phoros* rondaba siempre los cuatrocientos talentos, total que no aumentó hasta que no lo impusieron las necesida- des de la guerra (cf. _infra_, lI 13, 3).
+532. Isla situada en el centro de las Cícladas que ya gozaba de gran prestigio en los antiguos mitos; era el centro religioso de los jonios. Su elección como capital de la Liga se debió probablemente a su posición central y a su prestigio entre los jonios como centro cultural y religioso. (Cf. _infra_, III 104, 3. ) En el 454 a. C. , sin embargo, el tesoro fue trasladado a Atenas (Cf. PLUTARCO, Arístides 25, 3; Pericles 12, 1).
+533. Las sýnodoi de los delegados de los estados aliados. Debían de tener un carácter meramente formal, para enterarse de las decisiones tomadas por Atenas.
+
+<!-- ḗ ṓ ỳ -->
 
 ## 97-100. Orígenes y crecimiento del poderío ateniense. De la hegemonía al Imperio. Expediciones de Cimón, Tracia, Naxos, Eurimedonte, Tasos
 
