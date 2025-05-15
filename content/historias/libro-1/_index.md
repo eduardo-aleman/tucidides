@@ -957,11 +957,37 @@ hombres. Cf. HERÓDOTO, VIII 21.
 
 ### Notas de Juan José Torres Esbarranch
 
+511. Después del relato en torno a Temístocles (I 90-93), entra en escena, por parte de Esparta, otro gran personaje, Pausanias, el triunfador de Platea, cuya conducta facilitó la hegemonía de Atenas. Cf. _infra_, I 95, 1.
+512. Cleómbroto era hermano del rey Leónidas, el héroe de las Termópilas. Al morir Cleómbroto en el año 480 a. C. , poco después de su hermano, Pausanias se convirtió en regente de su primo Plistarco, hijo de Leónidas, todavía menor de edad (cf. _infra_, I 132, 1). Pertenecían a la familia real de los Ágidas. He aquí su cuadro genealógico correspondiente a esta época:
+
+```
+Anaxándridas (560–520)
+├── Cleómenes (520–490)
+├── Dorieo (cf. Heródoto V 41, 3)
+├── Leónidas (490–480)
+│ └── Plistarco (480–458) [Hdt. I 132, 1]
+├── Cleómbroto († 480) [Hdt. VIII 71, 1; IX 10, 2]
+ ├── Pausanias (Regente) [Hdt. I 107, 2]
+ ├── Nicomedes [Hdt. I 107, 2]
+ ├── Plistoanacte (458–408) [Hdt. I 107, 2, etc. ]
+ │ └── Pausanias (408–394) [Tuc. III 26, 2]
+ └── Cleómenes
+```
+513. En el 478 a. C. , tras la toma de Sesto. Pausanias había sucedido en el mando a Leotíquidas, perteneciente a la familia de los Euripóntidas (cf. _supra_, 1 89, 2). DIODORO (XI 44, 2) sitúa la expedición en el 477 a. C. , pero es probable que sea del año anterior. 514. Bajo el mando de Arístides, según DIODORO (XI 44, 2), de Arístides y Cimón, según PLUTARCO (Arístides 23, 1; Cimón 6, 1).
+515. Isla usada como base por la flota persa; objetivo, pues, importante para los griegos, que dirigieron diversas expediciones contra ella. Cf. _infra_, 104, 2; 112, 1-4.
+516. De evidente importancia para los griegos después de tomar Sesto. (Cf. _supra_, I 89, 2. ) Atenas se aseguraba el control de los estrechos.
+517. Cf. _infra_, I 128, 5.
+
 <!-- ḗ ṓ ỳ -->
 
 ## 95. Acusaciones contra Pausanias. La hegemonía pasa a los atenienses
 
 ### Notas de Juan José Torres Esbarranch
+
+518. Sobre la conducta de Pausanias, cf. , asimismo, _infra_, 1 128, 3-130, 2; HERÓDOTO, V 32; VIII 3, 2; DIODORO, XI 44, 3-6.
+519. Cf. _supra_, I 89, 2.
+520. Sobre el parentesco de jonios y atenienses, cf. _supra_, 1 2, 6; 6, 3. Aquí el conjunto de griegos asiáticos se identifican con los jonios e invocan la afinidad étnica.
+521. Sus *hēgemónes*. Cf. _supra_, 1 38, 2.
 
 ## 96. La Confederación ático-delia
 
