@@ -1,17 +1,4 @@
 import re
-import os
-
-ARCHIVO_ULTIMA_RUTA = '.ultima_ruta.txt'
-
-def guardar_ultima_ruta(ruta):
-    with open(ARCHIVO_ULTIMA_RUTA, 'w', encoding='utf-8') as f:
-        f.write(ruta)
-
-def cargar_ultima_ruta():
-    if os.path.exists(ARCHIVO_ULTIMA_RUTA):
-        with open(ARCHIVO_ULTIMA_RUTA, 'r', encoding='utf-8') as f:
-            return f.read().strip()
-    return ''
 
 def procesar_archivo(ruta):
     with open(ruta, 'r', encoding='utf-8') as f:
@@ -45,19 +32,5 @@ def procesar_archivo(ruta):
     print("✅ Sobrenúmeros aplicados sin enlaces ni notas.")
 
 if __name__ == "__main__":
-    ultima_ruta = cargar_ultima_ruta()
-    if ultima_ruta:
-        print(f"Última ruta usada: {ultima_ruta}")
-    ruta = input("Ruta del archivo Markdown (Enter para usar la última): ").strip()
-    if not ruta:
-        if not ultima_ruta:
-            print("⚠️ No hay ruta previa guardada.")
-            exit()
-        ruta = ultima_ruta
-
-    if not os.path.exists(ruta):
-        print("❌ Ruta inválida.")
-        exit()
-
+    ruta = input("Ruta del archivo Markdown: ").strip()
     procesar_archivo(ruta)
-    guardar_ultima_ruta(ruta)

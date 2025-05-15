@@ -20,21 +20,21 @@ PHRASE_PATTERNS = {
 }
 
 # Compilar patrones
-simple_pattern = re.compile(rf"(?<!\*)\b({'|'.join(SIMPLE_WORDS)})\b(?!\*)")
-phrase_wrappers = {phrase: re.compile(rf"(?<!\*)\b{pattern}\b(?!\*)")
+simple_pattern = re.compile(rf"(?<!_)\\b({'|'.join(SIMPLE_WORDS)})\\b(?!_)")
+phrase_wrappers = {phrase: re.compile(rf"(?<!_)\\b{pattern}\\b(?!_)")
                    for phrase, pattern in PHRASE_PATTERNS.items()}
-phrase_spacings = {phrase: re.compile(rf"\*\s*{pattern}\s*\*")
+phrase_spacings = {phrase: re.compile(rf"_\s*{pattern}\s*_")
                    for phrase, pattern in PHRASE_PATTERNS.items()}
 
 def wrap_italics(text):
-    text = simple_pattern.sub(r'*\1*', text)
+    text = simple_pattern.sub(r'_\1_', text)
     for phrase, fixer in phrase_spacings.items():
-        text = fixer.sub(f'*{phrase}*', text)
+        text = fixer.sub(f'_{phrase}_', text)
     for phrase, detector in phrase_wrappers.items():
-        text = detector.sub(f'*{phrase}*', text)
+        text = detector.sub(f'_{phrase}_', text)
     return text
 
-def process_file(file_path, preview=False):
+def process_file(file_path):
     file = Path(file_path)
 
     if not file.exists():
@@ -51,37 +51,28 @@ def process_file(file_path, preview=False):
         if updated_line != line:
             changes.append(f"Línea {i+1}:\n- {line}\n+ {updated_line}\n")
 
-    if preview:
-        print(f"🔍 Vista previa de cambios para {file.name}:")
-        if changes:
-            print("\n".join(changes))
-            return True
-        else:
-            print("ℹ️ No se realizarían cambios.")
-            return False
+    backup_path = file.with_suffix(file.suffix + ".bak")
+    shutil.copyfile(file, backup_path)
+    print(f"✅ Copia de respaldo creada: {backup_path.name}")
+
+    file.write_text("\n".join(updated_lines), encoding='utf-8')
+    print(f"✅ Archivo actualizado: {file.name}")
+
+    if changes:
+        date_str = datetime.now().strftime("%Y-%m-%d")
+        log_path = file.parent / f"format_changes_{date_str}.log"
+        with open(log_path, "a", encoding='utf-8') as log:
+            log.write(f"=== {datetime.now().isoformat()} ===\n")
+            log.write(f"Archivo: {file.name}\n")
+            log.write("\n".join(changes))
+            log.write("\n\n")
+        print(f"📝 {len(changes)} cambio(s) escrito(s) en {log_path.name}")
     else:
-        backup_path = file.with_suffix(file.suffix + ".bak")
-        shutil.copyfile(file, backup_path)
-        print(f"✅ Copia de respaldo creada: {backup_path.name}")
-
-        file.write_text("\n".join(updated_lines), encoding='utf-8')
-        print(f"✅ Archivo actualizado: {file.name}")
-
-        if changes:
-            date_str = datetime.now().strftime("%Y-%m-%d")
-            log_path = file.parent / f"format_changes_{date_str}.log"
-            with open(log_path, "a", encoding='utf-8') as log:
-                log.write(f"=== {datetime.now().isoformat()} ===\n")
-                log.write(f"Archivo: {file.name}\n")
-                log.write("\n".join(changes))
-                log.write("\n\n")
-            print(f"📝 {len(changes)} cambio(s) escrito(s) en {log_path.name}")
-        else:
-            print("ℹ️ No se realizaron cambios.")
-        return False
+        print("ℹ️ No se realizaron cambios.")
+    return True
 
 if __name__ == "__main__":
-    print("📄 Formateador de términos latinos")
+    print("📄 Formateador de términos latinos (Markdown con guiones bajos)")
     if LAST_FILE_PATH.exists():
         last_file = LAST_FILE_PATH.read_text().strip()
         print(f"(Presiona Enter para usar el último archivo: {last_file})")
@@ -99,7 +90,4 @@ if __name__ == "__main__":
     # Guardar el path actual como último usado
     LAST_FILE_PATH.write_text(file_path)
 
-    mode = input("¿Deseas vista previa primero? (s/n): ").strip().lower()
-    preview_mode = mode == 's'
-
-    process_file(file_path, preview=preview_mode)
+    process_file(file_path)
