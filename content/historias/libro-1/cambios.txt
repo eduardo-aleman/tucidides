@@ -1,44 +1,27 @@
-=== 2025-05-15T17:08:30.061199 ===
+=== 2025-05-15T17:26:05.412176 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 24
-- Palabras con superíndice: 26
-- Líneas modificadas: 33
-- Total general: 50
+- Frases latinas corregidas: 3
+- Palabras con superíndice: 9
+- Líneas modificadas: 8
+- Total general: 12
 
 === Conversiones a superíndice ===
-- Médicas534: 1 vez/veces
-- Helánico535: 1 vez/veces
-- atenienses536: 1 vez/veces
-- Cimón537: 1 vez/veces
-- Milcíades538: 1 vez/veces
-- Estrimón539: 1 vez/veces
-- habitantes540: 1 vez/veces
-- Esciro541: 1 vez/veces
-- dólopes542: 1 vez/veces
-- caristios543: 1 vez/veces
-- asedio544: 1 vez/veces
-- establecido545: 1 vez/veces
-- deserción546: 1 vez/veces
-- fijar547: 1 vez/veces
-- experiencia548: 1 vez/veces
-- Panfilia549: 1 vez/veces
-- después550: 1 vez/veces
-- tasios551: 1 vez/veces
-- explotaban552: 1 vez/veces
-- naves553: 1 vez/veces
-- Estrimón554: 1 vez/veces
-- Anfípolis555: 1 vez/veces
-- edonos556: 1 vez/veces
-- Drabesco557: 1 vez/veces
-- tracios558: 1 vez/veces
-- hostil559: 1 vez/veces
+- atenienses560: 1 vez/veces
+- terremoto561: 1 vez/veces
+- hilotas562: 1 vez/veces
+- periecos563: 1 vez/veces
+- Turia564: 1 vez/veces
+- Etea565: 1 vez/veces
+- Itome566: 1 vez/veces
+- esclavitud567: 1 vez/veces
+- minas570: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 24
-- Palabras con superíndice: 26
-- Líneas modificadas: 33
-- Total general: 50
+- Frases latinas corregidas: 3
+- Palabras con superíndice: 9
+- Líneas modificadas: 8
+- Total general: 12
 
 ---
