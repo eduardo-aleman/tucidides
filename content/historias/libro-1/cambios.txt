@@ -1,17 +1,31 @@
-=== 2025-05-15T19:59:29.661013 ===
+=== 2025-05-15T20:16:56.925665 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 1
-- Palabras con superíndice: 0
-- Líneas modificadas: 1
-- Total general: 1
+- Frases latinas corregidas: 6
+- Palabras con superíndice: 13
+- Líneas modificadas: 6
+- Total general: 19
 
+=== Conversiones a superíndice ===
+- Inaro586: 1 vez/veces
+- Egipto587: 1 vez/veces
+- Marea588: 1 vez/veces
+- Faro589: 1 vez/veces
+- Artajerjes590: 1 vez/veces
+- atenienses591: 1 vez/veces
+- Chipre592: 1 vez/veces
+- naves593: 1 vez/veces
+- río594: 1 vez/veces
+- Menfis595: 1 vez/veces
+- Blanco596: 1 vez/veces
+- medos597: 1 vez/veces
+- S0: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 1
-- Palabras con superíndice: 0
-- Líneas modificadas: 1
-- Total general: 1
+- Frases latinas corregidas: 6
+- Palabras con superíndice: 13
+- Líneas modificadas: 6
+- Total general: 19
 
 ---
