@@ -1,34 +1,44 @@
-=== 2025-05-15T15:01:20.849510 ===
+=== 2025-05-15T17:08:30.061199 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 18
-- Palabras con superíndice: 16
-- Líneas modificadas: 38
-- Total general: 34
+- Frases latinas corregidas: 24
+- Palabras con superíndice: 26
+- Líneas modificadas: 33
+- Total general: 50
 
 === Conversiones a superíndice ===
-- carácter518: 1 vez/veces
-- Rey519: 1 vez/veces
-- parentesco520: 1 vez/veces
-- jefes52: 1 vez/veces
-- Pausanias522: 1 vez/veces
-- medos523: 1 vez/veces
-- Dorcis524: 1 vez/veces
-- corrompieran525: 1 vez/veces
-- hegemonía526: 1 vez/veces
-- naves527: 1 vez/veces
-- motivo528: 1 vez/veces
-- helenotamías529: 1 vez/veces
-- tributo530: 1 vez/veces
-- tributo531: 1 vez/veces
-- Delos532: 1 vez/veces
-- asambleas533: 1 vez/veces
+- Médicas534: 1 vez/veces
+- Helánico535: 1 vez/veces
+- atenienses536: 1 vez/veces
+- Cimón537: 1 vez/veces
+- Milcíades538: 1 vez/veces
+- Estrimón539: 1 vez/veces
+- habitantes540: 1 vez/veces
+- Esciro541: 1 vez/veces
+- dólopes542: 1 vez/veces
+- caristios543: 1 vez/veces
+- asedio544: 1 vez/veces
+- establecido545: 1 vez/veces
+- deserción546: 1 vez/veces
+- fijar547: 1 vez/veces
+- experiencia548: 1 vez/veces
+- Panfilia549: 1 vez/veces
+- después550: 1 vez/veces
+- tasios551: 1 vez/veces
+- explotaban552: 1 vez/veces
+- naves553: 1 vez/veces
+- Estrimón554: 1 vez/veces
+- Anfípolis555: 1 vez/veces
+- edonos556: 1 vez/veces
+- Drabesco557: 1 vez/veces
+- tracios558: 1 vez/veces
+- hostil559: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 18
-- Palabras con superíndice: 16
-- Líneas modificadas: 38
-- Total general: 34
+- Frases latinas corregidas: 24
+- Palabras con superíndice: 26
+- Líneas modificadas: 33
+- Total general: 50
 
 ---
