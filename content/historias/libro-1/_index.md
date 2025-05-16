@@ -1083,18 +1083,7 @@ por sus ciudades, abandonaban a los atenienses en campaña.
 
 ## 101. La rebelión de los hilotas. Rendición de Tasos
 
-Entretanto los tasios, vencidos
-en los campos de batalla y sitiados,
-recurrieron a los lacedemonios y les
-pidieron que los ayudasen invadiendo el Ática. [2] Ellos se lo prometieron a escondidas de los atenienses560 y tenían intención de
-cumplir su promesa, pero se lo impidió el terremoto561
-que sobrevino en la época en que los hilotas562 con los periecos563 de Turia564 y de Etea565 se les sublevaron y se
-refugiaron en Itome566. La mayor parte de los hilotas la
-constituían los descendientes de los antiguos mesenios antaño reducidos a la esclavitud567; por eso todos fueron
-designados con el nombre de mesenios. [3] Así, mientras la
-guerra enfrentaba a los lacedemonios con los sublevados de Itome, los tasios, al tercer año sí del asedio, llegaron
-a un acuerdo con los atenienses569 por el que desmantelaban las fortificaciones y entregaban las naves, les era fijado el dinero que debían pagar en el acto y el tributo para
-el futuro, y renunciaban al continente y a las minas570.
+101. Entretanto los tasios, vencidos en los campos de batalla y sitiados, recurrieron a los lacedemonios y les pidieron que los ayudasen invadiendo el Ática. [2] Ellos se lo prometieron a escondidas de los atenienses560 y tenían intención de cumplir su promesa, pero se lo impidió el terremoto561 que sobrevino en la época en que los hilotas562 con los periecos563 de Turia564 y de Etea565 se les sublevaron y se refugiaron en Itome566. La mayor parte de los hilotas la constituían los descendientes de los antiguos mesenios antaño reducidos a la esclavitud567; por eso todos fueron designados con el nombre de mesenios. [3] Así, mientras la guerra enfrentaba a los lacedemonios con los sublevados de Itome, los tasios, al tercer año sí del asedio, llegaron a un acuerdo con los atenienses569 por el que desmantelaban las fortificaciones y entregaban las naves, les era fijado el dinero que debían pagar en el acto y el tributo para el futuro, y renunciaban al continente y a las minas570.
 
 ### Notas de Juan José Torres Esbarranch
 
