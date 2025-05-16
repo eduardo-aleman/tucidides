@@ -20,6 +20,7 @@
 - **American Journal of Archaeology** — 1 vez/veces — líneas: 245
 - **American Journal of Philology** — 2 vez/veces — líneas: 291, 318
 - **anastrophḗ** — 1 vez/veces — líneas: 613
+- **Anbū-heŷ** — 1 vez/veces — líneas: 1168
 - **Annali della Scuola Normale Superiore di Pisa** — 1 vez/veces — líneas: 201
 - **Annual of the British School at Athens** — 1 vez/veces — líneas: 260
 - **Annual of the British School of Athens** — 1 vez/veces — líneas: 318
@@ -39,7 +40,7 @@
 - **Argoliká** — 1 vez/veces — líneas: 264
 - **arkhḗ** — 1 vez/veces — líneas: 669
 - **Arqueología** — 4 vez/veces — líneas: 152, 199, 199, 201
-- **Arístides** — 2 vez/veces — líneas: 1039, 1040
+- **Arístides** — 3 vez/veces — líneas: 1039, 1040, 1189
 - **ateíchiston** — 1 vez/veces — líneas: 719
 - **Athenian Propertied Families** — 1 vez/veces — líneas: 357
 - **Athens and Corcyra. Strategy and Tactics in the Peloponnesian War** — 1 vez/veces — líneas: 465
@@ -77,6 +78,7 @@
 - **dekátōi** — 2 vez/veces — líneas: 1138, 1138
 - **Destino** — 1 vez/veces — líneas: 369
 - **Dialogues d'histoire ancienne** — 1 vez/veces — líneas: 240
+- **Die Fragmente der Griechischen Historiker** — 1 vez/veces — líneas: 1158
 - **Die Fragmente der griechischen Historiker [FGrHist]** — 1 vez/veces — líneas: 148
 - **Die griechische Geschichtsschreibung** — 1 vez/veces — líneas: 356
 - **Die Pelasger** — 1 vez/veces — líneas: 228
@@ -109,7 +111,7 @@
 - **eunomía** — 2 vez/veces — líneas: 331, 333
 - **eupsychía** — 1 vez/veces — líneas: 864
 - **fear, profit** — 1 vez/veces — líneas: 821
-- **FGrHist** — 8 vez/veces — líneas: 233, 234, 264, 304, 310, 310, 412, 945
+- **FGrHist** — 9 vez/veces — líneas: 233, 234, 264, 304, 310, 310, 412, 945, 1165
 - **Fontes Hispaniae Antiquae** — 2 vez/veces — líneas: 311, 312
 - **Gerión** — 2 vez/veces — líneas: 261, 362
 - **gerousía** — 1 vez/veces — líneas: 870
@@ -153,7 +155,7 @@
 - **IG** — 1 vez/veces — líneas: 1094
 - **Ilíada** — 14 vez/veces — líneas: 228, 231, 232, 270, 272, 273, 281, 282, 284, 287, 288, 288, 292, 302
 - **Indogermanisches etymologisches Wörterbuch I** — 1 vez/veces — líneas: 155
-- **infra** — 12 vez/veces — líneas: 1124, 1124, 1124, 1126, 1138, 1140, 1140, 1141, 1141, 1141, 1144, 1147
+- **infra** — 17 vez/veces — líneas: 1124, 1124, 1124, 1126, 1138, 1140, 1140, 1141, 1141, 1141, 1144, 1147, 1162, 1163, 1164, 1165, 1192
 - **Inscriptiones Graecae** — 1 vez/veces — líneas: 625
 - **isonomía** — 1 vez/veces — líneas: 824
 - **isonomía, isēgoría** — 1 vez/veces — líneas: 816
@@ -183,10 +185,11 @@
 - **Le Storie di Tucidide** — 1 vez/veces — líneas: 1138
 - **Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide** — 1 vez/veces — líneas: 389
 - **leitmotiv** — 1 vez/veces — líneas: 240
+- **Leukòn Teîchos** — 1 vez/veces — líneas: 1168
 - **Leyes** — 4 vez/veces — líneas: 233, 234, 240, 261
 - **Licurgo** — 2 vez/veces — líneas: 333, 901
 - **Lipostrátion** — 1 vez/veces — líneas: 1083
-- **Lisístrata** — 1 vez/veces — líneas: 1125
+- **Lisístrata** — 2 vez/veces — líneas: 1125, 1192
 - **Litterae Humaniores** — 1 vez/veces — líneas: 369
 - **límnē** — 1 vez/veces — líneas: 580
 - **lógoi** — 1 vez/veces — líneas: 365
@@ -265,13 +268,15 @@
 - **schistós chitṓn** — 1 vez/veces — líneas: 245
 - **Ships and Seamanship in the Ancient World** — 1 vez/veces — líneas: 300
 - **SO** — 1 vez/veces — líneas: 1081
+- **Sobre la Puz** — 1 vez/veces — líneas: 1165
 - **spondaí** — 1 vez/veces — líneas: 387
 - **Storie dello storico Tucidide** — 1 vez/veces — líneas: 1057
 - **Stromateis** — 1 vez/veces — líneas: 313
 - **Studi Italiani di Filología Classica** — 1 vez/veces — líneas: 361
 - **Studia Thucydidea** — 1 vez/veces — líneas: 454
 - **Suplicantes** — 1 vez/veces — líneas: 781
-- **supra** — 8 vez/veces — líneas: 1125, 1127, 1138, 1139, 1142, 1143, 1147, 1147
+- **supra** — 13 vez/veces — líneas: 1125, 1127, 1138, 1139, 1142, 1143, 1147, 1147, 1164, 1183, 1192, 1193, 1203
+- **Sylloge Inscriptionum Graecarum** — 1 vez/veces — líneas: 1186
 - **Symbolae Osloenses** — 1 vez/veces — líneas: 1081
 - **symbolaí** — 1 vez/veces — líneas: 823
 - **symbólaiai díkai** — 1 vez/veces — líneas: 825
@@ -331,6 +336,7 @@
 - **tò pistòn tês kath' hymâs autoùs politeías kaì homilías** — 1 vez/veces — líneas: 755
 - **tḗn mén alēthestátēn próphasin** — 1 vez/veces — líneas: 389
 - **Untersuchungen zur Archäologie des Thukydides** — 1 vez/veces — líneas: 154
+- **Vida y hazañas de Alejandro** — 1 vez/veces — líneas: 1168
 - **Vidas de los diez oradores** — 1 vez/veces — líneas: 625
 - **xénos** — 1 vez/veces — líneas: 155
 - **Yale Classical Studies** — 1 vez/veces — líneas: 855

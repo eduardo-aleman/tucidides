@@ -1167,18 +1167,40 @@ de Corinto, junto a la actual Alepochōri.
 595. La ciudad más importante del Bajo Egipto, situada junto al Nilo, un poco más arriba del punto donde se inicia el delta, cerca del actual El Cairo.
 596. Este *Leukòn Teîchos*, «Muro Blanco» (*Anbū-heŷ*) o «Fortaleza Blanca», era, según el escoliasta, uno de los tres recintos amurallados de Menfis y estaba construido en mármol; de ahí su nombre. Cf. HERÓDOTO, III 14, 1; 91, 3; DIODORO, XI 74, 4; PSEUDO-CALÍSTENES, *Vida y hazañas de Alejandro* I 34, donde se recuerda su fama de inexpugnable.
 597. Aquí se distingue entre persas y medos, frente a otros pasajes en que este último término, al que debían de estar acostumbrados los griegos, tiene un carácter general, para designar a la población del Imperio persa, que antes hahia sido meda.
+598. Tucídides interrumpe aquí el relato de la campaña de Egipto para reemprenderlo luego en 109, 1.
 
 <!-- ḗ ṓ ỳ -->
 
 ## 105-106. Guerras contra Corinto, Epidauro y Egina
 
+105. Por otra parte los atenienses, que habían desembarcado en Halias<sup>598</sup>, se enfrentaron en una batalla a los corintios y los epidaurios<sup>600</sup>, y vencieron los corintios<sup>601</sup>. Más tarde se libró una batalla naval entre los atenienses y una flota peloponesia a la altura de Cecrifalia<sup>602</sup>, y vencieron los atenienses<sup>603</sup>. [2] A continuación, habiendo estallado una guerra entre los atenienses y los eginetas, tuvo lugar una gran batalla naval cerca de Egina<sup>604</sup> entre atenienses y eginetas, con la asistencia de los aliados de cada bando; vencieron los atenienses y, después de apresar setenta naves de los eginetas, desembarcaron en la isla y pusieron sitio a la ciudad<sup>605</sup>, bajo el mando de Leócrates<sup>606</sup> , hijo de Estrebo. [3] Luego los peloponesios, queriendo ayudar a los eginetas, hicieron pasar a Egina trescientos hoplitas que antes habían combatido como tropas auxiliares de los corintios y los epidaurios; mientras tanto, los corintios con sus aliados ocuparon las alturas de la Gerania<sup>607</sup> y bajaron al territorio de Mégara, creyendo que los atenienses no estarían en condiciones de socorrer a los megareos al estar ausente gran parte de su ejército en Egina y en Egipto; o que, si los socorrían, tendrían que retirarse de Egina. [4] Los atenienses, sin embargo, no movieron el ejército de Egina, sino que los más veteranos y los más jóvenes<sup>608</sup> de entre las fuerzas que quedaban en la ciudad acudieron a Mégara bajo el mando de Mirónides<sup>609</sup>. [5] Y tras una batalla indecisa contra los corintios, los dos ejércitos se separaron, y unos y otros pensaron que no habían llevado la peor parte en la acción. [6] Los atenienses, que, a pesar de todo, fueron superiores, después de retirarse los corintios, erigieron un trofeo; pero los corintios; cubiertos de reproches por los viejos que habían quedado en la ciudad, se prepararon y, unos doce días después, volvieron y se pusieron a erigir a su vez un trofeo como si ellos también hubieran vencido<sup>610</sup>. Entonces los atenien- ses efectuaron una salida desde Mégara, mataron a los que estaban erigiendo el trofeo y, trabando combate con los demás, los vencieron.
+
+106. Los corintios, vencidos, se retiraron, y una parte considerable de ellos, acosada y extraviada, cayó en una propiedad privada, que estaba cercada por un gran foso y no tenía salida. Los atenienses, al darse cuenta, bloquearon la entrada con los hoplitas y, disponiendo en derredor la infantería ligera, apedrearon a todos los que habían entrado, lo que fue un duro golpe para los corintios. Entonces el grueso de su ejército se retiró hacia su patria<sup>611</sup>.
+
 ### Notas de Juan José Torres Esbarranch
+
+599. Ciudad costera situada en el extremo sur de la Argólide.
+600. Cf. _supra_, I 27, 2.
+601. En 458 a. C. , de acuerdo con la cronología de Gomme; según R. K. Unz, en verano del 459. Según DIODORO, XI 78, 1, la victoria fue ateniense.
+602. Isla del Golfo Sarónico, situada entre Egina y Epidauro. Es la actual Angistri.
+603. Con esta victoria o con la del párrafo siguiente se ha relacionado una inscripción (W. DITTENBERGER, *Sylloge Inscriptionum Graecarum*, 3. ª ed. , Leipzig, 1915-24, 73).
+604. Tanto esta batalla naval de Egina como la de Cecrifalia se sitúan, de acuerdo con las hipótesis de Gomme, en el 458. Según la cronología propuesta por R. K. Unz (art. cit. , 83), la de Cecrifalia, como la de Halias, se fecharía durante el verano del 459, y la de Egina, a fines del período estival.
+605. La capital de la isla, del mismo nombre.
+606. Probablemente el mismo Leócrates, que había sido estratego en Platea, unos veinte años antes (en el 479), junto a Mirónides y Aristides (cf.  PLUTARCO, *Arístides* 20, 1).
+607. Cordillera entre Mégara y Corinto. Su ocupación por los peloponesios constituía una amenaza para Mégara, sobre todo para las comunicaciones con Pegas, su puerto en el Golfo de Corinto.
+608. No se trata de los más viejos y los más jóvenes entre los que quedaban. Es una expresión habitual para referirse a las tropas de reserva, normalmente destinadas a la vigilancia de las murallas. Eran los hombres entre 50 y 59 años y los jóvenes de 18 y 19.
+609. Uno de los más famosos generales atenienses, muy admirado en Atenas, como lo demuestra ARISTÓFANES (*Lisístrata* 801-804; Asambleístas 303-305). Fue estratego en Platea (cf. _supra_, n. 606) y luego en Enófita (cf. _infra_, I 108, 2-3; IV 95, 3).
+610. Pasaje que demuestra la importancia que se daba a la erección el trofeo (cf. _supra_, I 30, 1, n. 216). Para levantar el trofeo, los corintios se expusieron gravemente, como confirma el capítulo siguiente.
+611. Como en los casos de Halias, Cecrifalia y Egina, todos estos episodios de Mégara debieron de tener lugar en el 458 a. C. , o en el 459, a fines del verano, según la cronología de R. K. UNZ.
+
 
 <!-- ḗ ṓ ỳ -->
 
 ## 107. Expedición lacedemonia a Grecia Central
 
 ### Notas de Juan José Torres Esbarranch
+
+612. Cf. _supra_, I 69, 1, n. 389.
 
 <!-- ḗ ṓ ỳ -->
 
