@@ -58,8 +58,7 @@
 - **borrón y cuenta nueva** — 1 vez/veces — líneas: 153
 - **boulḗ** — 1 vez/veces — líneas: 673
 - **bradytḗs** — 1 vez/veces — líneas: 864
-- **Bulletin de Correspondance Hellénique** — 1 vez/veces — líneas: 463
-- **Bulletin de correspondance héllenique** — 1 vez/veces — líneas: 236
+- **Bulletin de Correspondance Hellénique** — 2 vez/veces — líneas: 236, 463
 - **bárbaroi** — 1 vez/veces — líneas: 232
 - **bárbaros** — 1 vez/veces — líneas: 155
 - **Bárbaros** — 1 vez/veces — líneas: 155
@@ -73,7 +72,7 @@
 - **compañía de Pitana** — 1 vez/veces — líneas: 348
 - **Constitución de los atenienses** — 4 vez/veces — líneas: 328, 356, 950, 950
 - **Contributi dell'Istituto di Storia Antica** — 1 vez/veces — líneas: 228
-- **Das ptolemäische Aegypten** — 1 vez/veces — líneas: 300
+- **Das ptolemäische Ägypten"** — 1 vez/veces — líneas: 300
 - **dekátōi** — 2 vez/veces — líneas: 1139, 1139
 - **Destino** — 1 vez/veces — líneas: 370
 - **Dialogues d'histoire ancienne** — 1 vez/veces — líneas: 240
@@ -178,8 +177,7 @@
 - **kýklos** — 1 vez/veces — líneas: 238
 - **L'Antiquité Classique** — 1 vez/veces — líneas: 913
 - **La campagne avec Thucydide** — 1 vez/veces — líneas: 370
-- **La Guerra du Péloponnèse** — 1 vez/veces — líneas: 961
-- **La Guerre du Péloponnèse** — 1 vez/veces — líneas: 1139
+- **La Guerre du Péloponnèse** — 2 vez/veces — líneas: 961, 1139
 - **La tyrannie dans la Grèce Antique** — 1 vez/veces — líneas: 307
 - **Le Storie di Tucidide** — 1 vez/veces — líneas: 1139
 - **Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide** — 1 vez/veces — líneas: 390
@@ -262,7 +260,7 @@
 - **Ricerche sulla coíonizzazione greca (Annali della Scuola Normale Superiore di Pisa** — 1 vez/veces — líneas: 422
 - **Rivista di Filologia e d'Istruzione Classica** — 1 vez/veces — líneas: 626
 - **Rivista di Filosofia e Scienze affini** — 1 vez/veces — líneas: 822
-- **Rivista Storica dell' Antichita** — 1 vez/veces — líneas: 856
+- **Rivista Storica dell' Antichità** — 1 vez/veces — líneas: 856
 - **Scaptēsýlē** — 1 vez/veces — líneas: 1090
 - **Scaptḗhýlē** — 1 vez/veces — líneas: 1090
 - **schistós chitṓn** — 1 vez/veces — líneas: 245
@@ -289,23 +287,22 @@
 - **Temístocles** — 5 vez/veces — líneas: 812, 945, 946, 959, 965
 - **Teseo** — 1 vez/veces — líneas: 1079
 - **Th** — 1 vez/veces — líneas: 372
-- **The Alhenian Tribute Lists** — 2 vez/veces — líneas: 1039, 1040
+- **The Alhenian Tribute Lists** — 1 vez/veces — líneas: 1040
 - **The American Historical Review** — 1 vez/veces — líneas: 856
 - **The Archidamian War** — 1 vez/veces — líneas: 829
 - **The Athenian Empire** — 1 vez/veces — líneas: 913
 - **The Athenian Half-Century** — 1 vez/veces — líneas: 1082
-- **The Athenian Tribute Lists** — 1 vez/veces — líneas: 1082
+- **The Athenian Tribute Lists** — 2 vez/veces — líneas: 1039, 1082
 - **The Athenian Trireme, The history and reconstruction of an ancient Greek warship** — 1 vez/veces — líneas: 300
 - **The Classical Journal** — 1 vez/veces — líneas: 825
 - **The Classical Quarterly** — 8 vez/veces — líneas: 154, 203, 300, 549, 581, 824, 1058, 1082
 - **The Classical Review** — 2 vez/veces — líneas: 314, 546
-- **The Delfic Oracle** — 1 vez/veces — líneas: 422
+- **The Delphic Oracle** — 1 vez/veces — líneas: 422
 - **The English Works** — 1 vez/veces — líneas: 368
 - **The Mariner's Mirror** — 1 vez/veces — líneas: 300
 - **The Origin of Ostracism** — 1 vez/veces — líneas: 957
 - **The Origins of the Peloponnesian War** — 1 vez/veces — líneas: 913
-- **The oubreak of the Peloponnesian war** — 1 vez/veces — líneas: 366
-- **The Outbreak of the Peloponnesian War** — 1 vez/veces — líneas: 913
+- **The Outbreak of the Peloponnesian War** — 2 vez/veces — líneas: 366, 913
 - **The Stones of Athens** — 1 vez/veces — líneas: 358
 - **The Structure of Thucydides History** — 1 vez/veces — líneas: 370
 - **Thoukydídou Xyngraphḗ** — 1 vez/veces — líneas: 1139
