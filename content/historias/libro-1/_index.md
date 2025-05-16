@@ -1129,94 +1129,142 @@ por sus ciudades, abandonaban a los atenienses en campaña.
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 104. Los atenienses en Egipto
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 105-106. Guerras contra Corinto, Epidauro y Egina
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 107. Expedición lacedemonia a Grecia Central
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 108. Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 109-110. Derrota de los atenienses en Egipto
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 111. Los atenienses en Tesalia, en el Peloponeso y en Acarnania
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 112. Tregua de cinco años con Esparta. Expedición a Chipre. Muerte de Cimón. Victoria de Salamina de Chipre. Guerra Sagrada
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 113. Batalla de Coronea. Derrota ateniense en Grecia Central
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 114. Sublevación de Eubea y de Mégara
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 115-117. La Paz de Treinta años. La Guerra de Samos
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 118. Fin de la «Pentecontecia». Embajada lacedemonia a Delfos
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 119-125. Asamblea de la Liga del Peloponeso en Esparta
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 120-124. Discurso de los corintios
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 125. Se decide la guerra
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 126-139. Reclamaciones y pretextos
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 126-127. Primera embajada lacedemonia a Atenas. El sacrilegio de los Aicmeónidas
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 128-134. Réplica ateniense. El sacrilegio del Ténaro. Traición de Pausanias
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 135-138. El caso de Temístocles
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 139-145. La Asamblea de Atenas
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 139. Nuevas embajadas lacedemonias a Atenas. El ultimátum. La Asamblea
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 140-144. Discurso de Pericles
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ## 145. Respuesta de Atenas
 
 ### Notas de Juan José Torres Esbarranch
 
+<!-- ḗ ṓ ỳ -->
+
 ## 146. Acaba el relato de las causas y antecedentes de la Guerra del Peloponeso
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
