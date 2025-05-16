@@ -1,31 +1,34 @@
-=== 2025-05-15T20:34:50.804559 ===
+=== 2025-05-15T20:51:44.836362 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 6
-- Palabras con superíndice: 13
-- Líneas modificadas: 12
-- Total general: 19
+- Frases latinas corregidas: 19
+- Palabras con superíndice: 16
+- Líneas modificadas: 13
+- Total general: 35
 
 === Conversiones a superíndice ===
-- Halias598: 1 vez/veces
-- epidaurios600: 1 vez/veces
-- corintios601: 1 vez/veces
-- Cecrifalia602: 1 vez/veces
-- atenienses603: 1 vez/veces
-- Egina604: 1 vez/veces
-- ciudad605: 1 vez/veces
-- Leócrates606: 1 vez/veces
-- Gerania607: 1 vez/veces
-- jóvenes608: 1 vez/veces
-- Mirónides609: 1 vez/veces
-- vencido610: 1 vez/veces
-- patria611: 1 vez/veces
+- época612: 1 vez/veces
+- Pireo613: 1 vez/veces
+- focenses614: 1 vez/veces
+- Dóride615: 1 vez/veces
+- Eríneo616: 1 vez/veces
+- Nicomedes617: 1 vez/veces
+- Cleómbroto618: 1 vez/veces
+- Plistoanacte619: 1 vez/veces
+- aliados620: 1 vez/veces
+- Crisa621: 1 vez/veces
+- Pegas622: 1 vez/veces
+- Gerania623: 1 vez/veces
+- secreto624: 1 vez/veces
+- fuerzas625: 1 vez/veces
+- democracia626: 1 vez/veces
+- alianza627: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 6
-- Palabras con superíndice: 13
-- Líneas modificadas: 12
-- Total general: 19
+- Frases latinas corregidas: 19
+- Palabras con superíndice: 16
+- Líneas modificadas: 13
+- Total general: 35
 
 ---
