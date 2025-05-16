@@ -1,65 +1,64 @@
 # Lista de cursivas con frecuencia y localización
 
-- **&' = tetártōi** — 1 vez/veces — líneas: 1138
-- **_infra_** — 251 vez/veces — líneas: 148, 150, 153, 153, 157, 199, 200, 202, 204, 206, 206, 207, 233, 233, 234, 235, 236, 239, 240, 240, 242, 248, 254, 258, 259, 264, 271, 274, 285, 286, 286, 289, 296, 297, 297, 297, 298, 300, 300, 300, 301, 306, 309, 317, 325, 328, 331, 334, 338, 338, 341, 342, 343, 344, 361, 363, 380, 381, 381, 382, 382, 383, 383, 383, 383, 383, 384, 386, 387, 387, 389, 389, 389, 390, 414, 416, 419, 421, 421, 423, 427, 428, 430, 431, 434, 434, 438, 440, 446, 447, 447, 448, 448, 453, 456, 457, 459, 459, 460, 465, 465, 467, 468, 477, 495, 496, 496, 496, 498, 499, 504, 504, 505, 511, 512, 535, 539, 544, 545, 545, 548, 548, 548, 562, 563, 564, 565, 580, 580, 589, 589, 608, 609, 609, 609, 609, 613, 613, 615, 615, 617, 623, 625, 625, 625, 627, 656, 669, 670, 671, 672, 718, 720, 720, 722, 722, 727, 736, 736, 736, 737, 738, 738, 738, 739, 756, 759, 760, 760, 761, 763, 766, 769, 770, 772, 773, 776, 779, 781, 781, 782, 784, 785, 787, 805, 806, 814, 815, 816, 816, 816, 816, 816, 816, 817, 817, 817, 822, 826, 827, 828, 828, 847, 847, 852, 853, 853, 855, 867, 870, 878, 902, 903, 904, 912, 942, 949, 956, 965, 973, 974, 1008, 1010, 1018, 1023, 1034, 1035, 1035, 1035, 1035, 1035, 1035, 1036, 1039, 1039, 1039, 1040, 1057, 1076, 1076, 1079, 1081, 1081, 1081, 1081, 1089, 1089, 1092, 1092, 1094, 1113
-- **_supra_** — 150 vez/veces — líneas: 232, 256, 261, 262, 265, 271, 274, 278, 280, 288, 289, 293, 294, 303, 308, 313, 319, 323, 327, 330, 332, 334, 356, 361, 361, 364, 368, 379, 420, 422, 423, 435, 437, 440, 444, 447, 450, 457, 461, 464, 478, 497, 500, 503, 504, 505, 506, 509, 510, 532, 534, 536, 537, 537, 543, 544, 545, 545, 545, 546, 546, 548, 549, 560, 561, 574, 576, 580, 608, 614, 615, 616, 619, 619, 620, 621, 624, 625, 625, 625, 627, 643, 645, 654, 657, 657, 657, 719, 720, 723, 725, 726, 728, 728, 739, 757, 761, 761, 770, 783, 806, 810, 812, 819, 821, 822, 823, 825, 846, 848, 850, 855, 857, 860, 861, 866, 868, 879, 880, 880, 902, 903, 904, 912, 912, 942, 943, 950, 952, 963, 1006, 1009, 1019, 1020, 1021, 1025, 1035, 1038, 1039, 1055, 1056, 1057, 1058, 1082, 1084, 1088, 1091, 1092, 1092, 1106
-- **A Commentary on Herodotus** — 1 vez/veces — líneas: 1057
-- **A historical commentary on Thucydides** — 2 vez/veces — líneas: 156, 542
+- **&' = tetártōi** — 1 vez/veces — líneas: 1139
+- **_infra_** — 1 vez/veces — líneas: 204
+- **A Commentary on Herodotus** — 1 vez/veces — líneas: 1058
+- **A historical commentary on Thucydides** — 2 vez/veces — líneas: 156, 543
 - **A History of Sparta** — 1 vez/veces — líneas: 278
 - **A History of the Persian Empire** — 1 vez/veces — líneas: 305
-- **A selection of Greek historical inscriptions** — 1 vez/veces — líneas: 672
-- **A Selection of Greek Historical Inscriptions** — 1 vez/veces — líneas: 824
-- **A selection of Greek historical inscriptions to the end of the fifth century b. C. ** — 1 vez/veces — líneas: 562
+- **A selection of Greek historical inscriptions** — 1 vez/veces — líneas: 673
+- **A Selection of Greek Historical Inscriptions** — 1 vez/veces — líneas: 825
+- **A selection of Greek historical inscriptions to the end of the fifth century b. C. ** — 1 vez/veces — líneas: 563
 - **Acme** — 1 vez/veces — líneas: 240
-- **agṓnisma** — 1 vez/veces — líneas: 371
-- **aidṓs** — 1 vez/veces — líneas: 864
-- **aitíai** — 5 vez/veces — líneas: 389, 390, 390, 771, 912
-- **aitíai en este caso** — 1 vez/veces — líneas: 389
-- **akontistaí** — 1 vez/veces — líneas: 612
+- **agṓnisma** — 1 vez/veces — líneas: 372
+- **aidṓs** — 1 vez/veces — líneas: 865
+- **aitíai** — 5 vez/veces — líneas: 390, 391, 391, 772, 913
+- **aitíai en este caso** — 1 vez/veces — líneas: 390
+- **akontistaí** — 1 vez/veces — líneas: 613
 - **akoḗ** — 1 vez/veces — líneas: 235
 - **American Journal of Archaeology** — 1 vez/veces — líneas: 245
 - **American Journal of Philology** — 2 vez/veces — líneas: 291, 318
-- **anastrophḗ** — 1 vez/veces — líneas: 613
-- **Anbū-heŷ** — 1 vez/veces — líneas: 1168
+- **anastrophḗ** — 1 vez/veces — líneas: 614
+- **Anbū-heŷ** — 1 vez/veces — líneas: 1169
 - **Annali della Scuola Normale Superiore di Pisa** — 1 vez/veces — líneas: 201
 - **Annual of the British School at Athens** — 1 vez/veces — líneas: 260
 - **Annual of the British School of Athens** — 1 vez/veces — líneas: 318
-- **anokōchḗ** — 1 vez/veces — líneas: 541
-- **Antiquitates Romanae** — 1 vez/veces — líneas: 956
-- **aparchaí** — 1 vez/veces — líneas: 1038
+- **anokōchḗ** — 1 vez/veces — líneas: 542
+- **Antiquitates Romanae** — 1 vez/veces — líneas: 957
+- **aparchaí** — 1 vez/veces — líneas: 1039
 - **aphneiós** — 1 vez/veces — líneas: 302
-- **apistotérous es toùs állous** — 1 vez/veces — líneas: 755
-- **Apistotérous es toùs állous ḗn ti légōmen** — 1 vez/veces — líneas: 755
-- **apoikía** — 1 vez/veces — líneas: 414
-- **apragmosýnē** — 1 vez/veces — líneas: 495
-- **apélla** — 2 vez/veces — líneas: 736, 870
-- **Archaiologikòn Deltíon** — 1 vez/veces — líneas: 418
-- **archḗ** — 1 vez/veces — líneas: 1034
-- **aretês dóxa** — 1 vez/veces — líneas: 498
-- **Aretḗ** — 1 vez/veces — líneas: 498
+- **apistotérous es toùs állous** — 1 vez/veces — líneas: 756
+- **Apistotérous es toùs állous ḗn ti légōmen** — 1 vez/veces — líneas: 756
+- **apoikía** — 1 vez/veces — líneas: 415
+- **apragmosýnē** — 1 vez/veces — líneas: 496
+- **apélla** — 2 vez/veces — líneas: 737, 871
+- **Archaiologikòn Deltíon** — 1 vez/veces — líneas: 419
+- **archḗ** — 1 vez/veces — líneas: 1035
+- **aretês dóxa** — 1 vez/veces — líneas: 499
+- **Aretḗ** — 1 vez/veces — líneas: 499
 - **Argoliká** — 1 vez/veces — líneas: 264
-- **arkhḗ** — 1 vez/veces — líneas: 669
+- **arkhḗ** — 1 vez/veces — líneas: 670
 - **Arqueología** — 4 vez/veces — líneas: 152, 199, 199, 201
-- **Arístides** — 3 vez/veces — líneas: 1039, 1040, 1189
-- **ateíchiston** — 1 vez/veces — líneas: 719
+- **Arístides** — 3 vez/veces — líneas: 1040, 1041, 1190
+- **ateíchiston** — 1 vez/veces — líneas: 720
 - **Athenian Propertied Families** — 1 vez/veces — líneas: 357
-- **Athens and Corcyra. Strategy and Tactics in the Peloponnesian War** — 1 vez/veces — líneas: 465
-- **Athēnaíōn dè tò kolnón** — 1 vez/veces — líneas: 923
-- **ATL** — 6 vez/veces — líneas: 1081, 1081, 1086, 1087, 1091, 1094
+- **Athens and Corcyra. Strategy and Tactics in the Peloponnesian War** — 1 vez/veces — líneas: 466
+- **Athēnaíōn dè tò kolnón** — 1 vez/veces — líneas: 924
+- **ATL** — 8 vez/veces — líneas: 1082, 1082, 1087, 1088, 1092, 1095, 1209, 1214
 - **Atthis. The Local Chronicles of Ancient Athens** — 1 vez/veces — líneas: 356
-- **Atthís** — 1 vez/veces — líneas: 1056
-- **Attikḗ syngraphḗ** — 1 vez/veces — líneas: 1056
-- **Aves** — 2 vez/veces — líneas: 775, 961
-- **aírein** — 1 vez/veces — líneas: 609
-- **aíschynē** — 1 vez/veces — líneas: 864
+- **Atthís** — 1 vez/veces — líneas: 1057
+- **Attikḗ syngraphḗ** — 1 vez/veces — líneas: 1057
+- **Aves** — 2 vez/veces — líneas: 776, 962
+- **aírein** — 1 vez/veces — líneas: 610
+- **aíschynē** — 1 vez/veces — líneas: 865
 - **barbara** — 1 vez/veces — líneas: 155
 - **barbaróphōnoi** — 1 vez/veces — líneas: 232
-- **batalla** — 1 vez/veces — líneas: 593
+- **batalla** — 1 vez/veces — líneas: 594
 - **Beiträge zur Erklärung des Thukydides** — 1 vez/veces — líneas: 277
 - **borrón y cuenta nueva** — 1 vez/veces — líneas: 153
-- **boulḗ** — 1 vez/veces — líneas: 672
-- **bradytḗs** — 1 vez/veces — líneas: 863
-- **Bulletin de Correspondance Hellénique** — 1 vez/veces — líneas: 462
+- **boulḗ** — 1 vez/veces — líneas: 673
+- **bradytḗs** — 1 vez/veces — líneas: 864
+- **Bulletin de Correspondance Hellénique** — 1 vez/veces — líneas: 463
 - **Bulletin de correspondance héllenique** — 1 vez/veces — líneas: 236
 - **bárbaroi** — 1 vez/veces — líneas: 232
 - **bárbaros** — 1 vez/veces — líneas: 155
@@ -67,287 +66,288 @@
 - **Caballeros** — 1 vez/veces — líneas: 246
 - **Cantos Ciprios** — 2 vez/veces — líneas: 287, 288
 - **cheirodōtós chitṓn** — 1 vez/veces — líneas: 245
-- **Cimón** — 12 vez/veces — líneas: 240, 319, 1057, 1077, 1078, 1079, 1086, 1090, 1105, 1114, 1125, 1125
+- **Cimón** — 12 vez/veces — líneas: 240, 319, 1058, 1078, 1079, 1080, 1087, 1091, 1106, 1115, 1126, 1126
 - **Ciropedia** — 1 vez/veces — líneas: 324
-- **Civilization on trial = La civilización puesta a prueba** — 1 vez/veces — líneas: 369
-- **Classical Philology** — 4 vez/veces — líneas: 328, 786, 809, 912
+- **Civilization on trial = La civilización puesta a prueba** — 1 vez/veces — líneas: 370
+- **Classical Philology** — 4 vez/veces — líneas: 328, 787, 810, 913
 - **compañía de Pitana** — 1 vez/veces — líneas: 348
-- **Constitución de los atenienses** — 4 vez/veces — líneas: 328, 356, 949, 949
+- **Constitución de los atenienses** — 4 vez/veces — líneas: 328, 356, 950, 950
 - **Contributi dell'Istituto di Storia Antica** — 1 vez/veces — líneas: 228
 - **Das ptolemäische Aegypten** — 1 vez/veces — líneas: 300
-- **dekátōi** — 2 vez/veces — líneas: 1138, 1138
-- **Destino** — 1 vez/veces — líneas: 369
+- **dekátōi** — 2 vez/veces — líneas: 1139, 1139
+- **Destino** — 1 vez/veces — líneas: 370
 - **Dialogues d'histoire ancienne** — 1 vez/veces — líneas: 240
-- **Die Fragmente der Griechischen Historiker** — 1 vez/veces — líneas: 1158
+- **Die Fragmente der Griechischen Historiker** — 1 vez/veces — líneas: 1159
 - **Die Fragmente der griechischen Historiker [FGrHist]** — 1 vez/veces — líneas: 148
 - **Die griechische Geschichtsschreibung** — 1 vez/veces — líneas: 356
 - **Die Pelasger** — 1 vez/veces — líneas: 228
-- **dikē** — 1 vez/veces — líneas: 452
+- **dikē** — 1 vez/veces — líneas: 453
 - **Discursos** — 1 vez/veces — líneas: 310
 - **Diálogo sobre el amor** — 1 vez/veces — líneas: 321
 - **diázōma** — 2 vez/veces — líneas: 250, 252
-- **diékplous** — 1 vez/veces — líneas: 613
-- **Drakonti** — 1 vez/veces — líneas: 625
-- **Dyrrachium** — 1 vez/veces — líneas: 410
+- **diékplous** — 1 vez/veces — líneas: 614
+- **Drakonti** — 1 vez/veces — líneas: 626
+- **Dyrrachium** — 1 vez/veces — líneas: 411
 - **Dêlon dè: tò gàr éryma tôi stratopédōi ouk àn eteichísanto** — 1 vez/veces — líneas: 287
-- **dêmos** — 1 vez/veces — líneas: 816
-- **dēmosíāi** — 1 vez/veces — líneas: 728
-- **edoulṓthé** — 1 vez/veces — líneas: 1082
-- **El viajero y su sombra** — 1 vez/veces — líneas: 371
-- **elassoúmenoi** — 3 vez/veces — líneas: 825, 825, 825
-- **Electra** — 1 vez/veces — líneas: 502
-- **elessoúmenoi** — 1 vez/veces — líneas: 825
-- **Ennéa Hodoí** — 1 vez/veces — líneas: 1092
+- **dêmos** — 1 vez/veces — líneas: 817
+- **dēmosíāi** — 1 vez/veces — líneas: 729
+- **edoulṓthé** — 1 vez/veces — líneas: 1083
+- **El viajero y su sombra** — 1 vez/veces — líneas: 372
+- **elassoúmenoi** — 3 vez/veces — líneas: 826, 826, 826
+- **Electra** — 1 vez/veces — líneas: 503
+- **elessoúmenoi** — 1 vez/veces — líneas: 826
+- **Ennéa Hodoí** — 1 vez/veces — líneas: 1093
 - **eníkōn** — 2 vez/veces — líneas: 311, 312
-- **epibátai** — 2 vez/veces — líneas: 448, 610
-- **epidemiurgos** — 1 vez/veces — líneas: 661
-- **epimachía** — 1 vez/veces — líneas: 559
-- **episkeuázo** — 1 vez/veces — líneas: 457
-- **epì tês ekeínou archês hês kat᾽ eniautòn Athēnaíois êrxe** — 1 vez/veces — líneas: 956
-- **epì tòn en toîs Sybótois liména** — 1 vez/veces — líneas: 625
+- **epibátai** — 2 vez/veces — líneas: 449, 611
+- **epidemiurgos** — 1 vez/veces — líneas: 662
+- **epimachía** — 1 vez/veces — líneas: 560
+- **episkeuázo** — 1 vez/veces — líneas: 458
+- **epì tês ekeínou archês hês kat᾽ eniautòn Athēnaíois êrxe** — 1 vez/veces — líneas: 957
+- **epì tòn en toîs Sybótois liména** — 1 vez/veces — líneas: 626
 - **Eranos** — 1 vez/veces — líneas: 287
 - **Eretria** — 1 vez/veces — líneas: 321
-- **euboulía** — 1 vez/veces — líneas: 863
+- **euboulía** — 1 vez/veces — líneas: 864
 - **eunomía** — 2 vez/veces — líneas: 331, 333
-- **eupsychía** — 1 vez/veces — líneas: 864
-- **fear, profit** — 1 vez/veces — líneas: 821
-- **FGrHist** — 9 vez/veces — líneas: 233, 234, 264, 304, 310, 310, 412, 945, 1165
+- **eupsychía** — 1 vez/veces — líneas: 865
+- **fear, profit** — 1 vez/veces — líneas: 822
+- **FGrHist** — 8 vez/veces — líneas: 234, 264, 304, 310, 310, 413, 946, 1166
 - **Fontes Hispaniae Antiquae** — 2 vez/veces — líneas: 311, 312
-- **Gerión** — 2 vez/veces — líneas: 261, 362
-- **gerousía** — 1 vez/veces — líneas: 870
-- **glykỳs apeírōi pólemos** — 1 vez/veces — líneas: 847
-- **Glykỳs Limēn** — 1 vez/veces — líneas: 465
+- **Gerión** — 2 vez/veces — líneas: 261, 363
+- **gerousía** — 1 vez/veces — líneas: 871
+- **glykỳs apeírōi pólemos** — 1 vez/veces — líneas: 848
+- **Glykỳs Limēn** — 1 vez/veces — líneas: 466
 - **Gnomon** — 1 vez/veces — líneas: 154
-- **Gourlá** — 1 vez/veces — líneas: 577
+- **Gourlá** — 1 vez/veces — líneas: 578
 - **Greek Oared Ships** — 1 vez/veces — líneas: 300
-- **GrHist** — 1 vez/veces — líneas: 563
-- **géra** — 1 vez/veces — líneas: 424
-- **Hagios Iōannēs** — 1 vez/veces — líneas: 465
-- **hai d'es tò phaneròn legómenai aitíai** — 1 vez/veces — líneas: 389
-- **hairéo** — 1 vez/veces — líneas: 1106
+- **GrHist** — 1 vez/veces — líneas: 564
+- **géra** — 1 vez/veces — líneas: 425
+- **Hagios Iōannēs** — 1 vez/veces — líneas: 466
+- **hai d'es tò phaneròn legómenai aitíai** — 1 vez/veces — líneas: 390
+- **hairéo** — 1 vez/veces — líneas: 1107
 - **Harvard Studies in Classical Philology** — 1 vez/veces — líneas: 287
-- **hegèmonía** — 1 vez/veces — líneas: 1034
-- **helenotamías** — 1 vez/veces — líneas: 1038
+- **hegèmonía** — 1 vez/veces — líneas: 1035
+- **helenotamías** — 1 vez/veces — líneas: 1039
 - **Hellás** — 2 vez/veces — líneas: 208, 208
-- **Helénicas** — 2 vez/veces — líneas: 1037, 1124
+- **Helénicas** — 2 vez/veces — líneas: 1038, 1125
 - **Hermes** — 1 vez/veces — líneas: 287
-- **heílōtes** — 1 vez/veces — líneas: 1106
-- **heîlon** — 1 vez/veces — líneas: 1106
-- **hikanoì toùs metastántas blápsai** — 1 vez/veces — líneas: 508
+- **heílōtes** — 1 vez/veces — líneas: 1107
+- **heîlon** — 1 vez/veces — líneas: 1107
+- **hikanoì toùs metastántas blápsai** — 1 vez/veces — líneas: 509
 - **Himno a Apolo** — 1 vez/veces — líneas: 241
 - **Hiparco** — 1 vez/veces — líneas: 356
-- **Histoire et raison chez** — 1 vez/veces — líneas: 367
-- **Historia** — 18 vez/veces — líneas: 151, 239, 258, 318, 356, 365, 369, 369, 371, 385, 956, 956, 1057, 1057, 1081, 1089, 1138, 1140
+- **Histoire et raison chez** — 1 vez/veces — líneas: 368
+- **Historia** — 18 vez/veces — líneas: 151, 239, 258, 318, 356, 366, 370, 370, 372, 386, 957, 957, 1058, 1058, 1082, 1090, 1139, 1141
 - **Historia de la guerra del Peloponeso** — 1 vez/veces — líneas: 12
 - **Historia del Imperio Romano después de Marco Aurelio** — 1 vez/veces — líneas: 361
 - **Historia natural** — 1 vez/veces — líneas: 299
-- **ho legómenos díkaios** — 1 vez/veces — líneas: 949
+- **ho legómenos díkaios** — 1 vez/veces — líneas: 950
 - **ho Mēdikòs pólemos** — 1 vez/veces — líneas: 314
-- **ho Mēdikǒn pólemos** — 1 vez/veces — líneas: 545
-- **hoi pélas** — 1 vez/veces — líneas: 494
+- **ho Mēdikǒn pólemos** — 1 vez/veces — líneas: 546
+- **hoi pélas** — 1 vez/veces — líneas: 495
 - **Homaichmía** — 1 vez/veces — líneas: 340
-- **honour** — 1 vez/veces — líneas: 821
-- **hypérkeitai dè toútou kólpou Kíchyros, hē próteron Ephýra, pólis Thesprōtôn** — 1 vez/veces — líneas: 576
-- **héktõi** — 1 vez/veces — líneas: 1138
-- **hēgemónes** — 1 vez/veces — líneas: 1021
+- **honour** — 1 vez/veces — líneas: 822
+- **hypérkeitai dè toútou kólpou Kíchyros, hē próteron Ephýra, pólis Thesprōtôn** — 1 vez/veces — líneas: 577
+- **héktõi** — 1 vez/veces — líneas: 1139
+- **hēgemónes** — 1 vez/veces — líneas: 1022
 - **I Focei dall'Anatolia all'Oceano** — 1 vez/veces — líneas: 310
-- **idíāi** — 1 vez/veces — líneas: 728
-- **IG** — 1 vez/veces — líneas: 1094
+- **idíāi** — 1 vez/veces — líneas: 729
+- **IG** — 1 vez/veces — líneas: 1095
 - **Ilíada** — 14 vez/veces — líneas: 228, 231, 232, 270, 272, 273, 281, 282, 284, 287, 288, 288, 292, 302
 - **Indogermanisches etymologisches Wörterbuch I** — 1 vez/veces — líneas: 155
-- **infra** — 17 vez/veces — líneas: 1124, 1124, 1124, 1126, 1138, 1140, 1140, 1141, 1141, 1141, 1144, 1147, 1162, 1163, 1164, 1165, 1192
-- **Inscriptiones Graecae** — 1 vez/veces — líneas: 625
-- **isonomía** — 1 vez/veces — líneas: 824
-- **isonomía, isēgoría** — 1 vez/veces — líneas: 816
-- **iò bradỳ kaì méllon** — 1 vez/veces — líneas: 863
+- **infra** — 271 vez/veces — líneas: 148, 150, 153, 153, 157, 199, 200, 202, 206, 206, 207, 233, 234, 235, 236, 239, 240, 240, 242, 248, 254, 258, 259, 264, 271, 274, 285, 286, 286, 289, 296, 297, 297, 297, 298, 300, 300, 300, 301, 306, 309, 317, 325, 328, 331, 334, 338, 338, 341, 342, 343, 344, 361, 364, 381, 382, 382, 383, 383, 384, 384, 384, 384, 384, 385, 387, 388, 388, 390, 390, 390, 391, 415, 417, 420, 422, 422, 424, 428, 429, 431, 432, 435, 435, 439, 441, 447, 448, 448, 449, 449, 454, 457, 458, 460, 460, 461, 466, 466, 468, 469, 478, 496, 497, 497, 497, 499, 500, 505, 505, 506, 512, 513, 536, 540, 545, 546, 546, 549, 549, 549, 563, 564, 565, 566, 581, 581, 590, 590, 609, 610, 610, 610, 610, 614, 614, 616, 616, 618, 624, 626, 626, 626, 628, 657, 670, 671, 672, 673, 719, 721, 721, 723, 723, 728, 737, 737, 737, 738, 739, 739, 739, 740, 757, 760, 761, 761, 762, 764, 767, 770, 771, 773, 774, 777, 780, 782, 782, 783, 785, 786, 788, 806, 807, 815, 816, 817, 817, 817, 817, 817, 817, 818, 818, 818, 823, 827, 828, 829, 829, 848, 848, 853, 854, 854, 856, 868, 871, 879, 903, 904, 905, 913, 943, 950, 957, 966, 974, 975, 1009, 1011, 1019, 1024, 1035, 1036, 1036, 1036, 1036, 1036, 1036, 1037, 1040, 1040, 1040, 1041, 1058, 1077, 1077, 1080, 1082, 1082, 1082, 1082, 1090, 1090, 1093, 1093, 1095, 1114, 1125, 1125, 1125, 1127, 1139, 1141, 1141, 1142, 1142, 1142, 1145, 1148, 1163, 1164, 1165, 1166, 1193, 1209, 1213, 1213, 1215, 1221
+- **Inscriptiones Graecae** — 1 vez/veces — líneas: 626
+- **isonomía** — 1 vez/veces — líneas: 825
+- **isonomía, isēgoría** — 1 vez/veces — líneas: 817
+- **iò bradỳ kaì méllon** — 1 vez/veces — líneas: 864
 - **Journal of Hellenic Studies** — 5 vez/veces — líneas: 300, 300, 300, 300, 300
-- **Journal of the History of Ideas** — 1 vez/veces — líneas: 821
-- **Kai tàs állas episkeuásantes** — 1 vez/veces — líneas: 457
-- **kai tēn arkhēn kynkateskeúazen** — 1 vez/veces — líneas: 959
+- **Journal of the History of Ideas** — 1 vez/veces — líneas: 822
+- **Kai tàs állas episkeuásantes** — 1 vez/veces — líneas: 458
+- **kai tēn arkhēn kynkateskeúazen** — 1 vez/veces — líneas: 960
 - **Karchēdoníous eníkōn naumachoûntes** — 2 vez/veces — líneas: 311, 312
-- **kataspâsthai** — 1 vez/veces — líneas: 609
-- **katēgoría** — 1 vez/veces — líneas: 771
-- **Kelḗtion** — 1 vez/veces — líneas: 626
-- **Klio** — 1 vez/veces — líneas: 1095
-- **koinonía** — 1 vez/veces — líneas: 816
-- **krēnídes** — 1 vez/veces — líneas: 1094
-- **ktêma es aieí** — 2 vez/veces — líneas: 150, 371
-- **Kyllénen tò Eleiõn epíneion** — 1 vez/veces — líneas: 462
-- **Kíchyros** — 1 vez/veces — líneas: 576
+- **kataspâsthai** — 1 vez/veces — líneas: 610
+- **katēgoría** — 1 vez/veces — líneas: 772
+- **Kelḗtion** — 1 vez/veces — líneas: 627
+- **Klio** — 1 vez/veces — líneas: 1096
+- **koinonía** — 1 vez/veces — líneas: 817
+- **krēnídes** — 1 vez/veces — líneas: 1095
+- **ktêma es aieí** — 2 vez/veces — líneas: 150, 372
+- **Kyllénen tò Eleiõn epíneion** — 1 vez/veces — líneas: 463
+- **Kíchyros** — 1 vez/veces — líneas: 577
 - **Kínēsis** — 1 vez/veces — líneas: 154
 - **kínēsis** — 1 vez/veces — líneas: 199
 - **kýklos** — 1 vez/veces — líneas: 238
-- **L'Antiquité Classique** — 1 vez/veces — líneas: 912
-- **La campagne avec Thucydide** — 1 vez/veces — líneas: 369
-- **La Guerra du Péloponnèse** — 1 vez/veces — líneas: 960
-- **La Guerre du Péloponnèse** — 1 vez/veces — líneas: 1138
+- **L'Antiquité Classique** — 1 vez/veces — líneas: 913
+- **La campagne avec Thucydide** — 1 vez/veces — líneas: 370
+- **La Guerra du Péloponnèse** — 1 vez/veces — líneas: 961
+- **La Guerre du Péloponnèse** — 1 vez/veces — líneas: 1139
 - **La tyrannie dans la Grèce Antique** — 1 vez/veces — líneas: 307
-- **Le Storie di Tucidide** — 1 vez/veces — líneas: 1138
-- **Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide** — 1 vez/veces — líneas: 389
+- **Le Storie di Tucidide** — 1 vez/veces — líneas: 1139
+- **Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide** — 1 vez/veces — líneas: 390
 - **leitmotiv** — 1 vez/veces — líneas: 240
-- **Leukòn Teîchos** — 1 vez/veces — líneas: 1168
-- **Leyes** — 4 vez/veces — líneas: 233, 234, 240, 261
-- **Licurgo** — 2 vez/veces — líneas: 333, 901
-- **Lipostrátion** — 1 vez/veces — líneas: 1083
-- **Lisístrata** — 2 vez/veces — líneas: 1125, 1192
-- **Litterae Humaniores** — 1 vez/veces — líneas: 369
-- **límnē** — 1 vez/veces — líneas: 580
-- **lógoi** — 1 vez/veces — líneas: 365
+- **Leukòn Teîchos** — 1 vez/veces — líneas: 1169
+- **Leyes** — 3 vez/veces — líneas: 234, 240, 261
+- **Licurgo** — 2 vez/veces — líneas: 333, 902
+- **Lipostrátion** — 1 vez/veces — líneas: 1084
+- **Lisístrata** — 2 vez/veces — líneas: 1126, 1193
+- **Litterae Humaniores** — 1 vez/veces — líneas: 370
+- **límnē** — 1 vez/veces — líneas: 581
+- **lógoi** — 1 vez/veces — líneas: 366
 - **Marmor Parium** — 1 vez/veces — líneas: 356
 - **Marseille grecque, Marsella** — 1 vez/veces — líneas: 310
 - **Massalían oikízontes** — 2 vez/veces — líneas: 311, 312
 - **Medea** — 1 vez/veces — líneas: 204
-- **Metriíi esthêti** — 1 vez/veces — líneas: 249
-- **Mnemosyne** — 3 vez/veces — líneas: 300, 365, 457
+- **Metríāi esthêti** — 1 vez/veces — líneas: 249
+- **Mnemosyne** — 3 vez/veces — líneas: 300, 366, 458
 - **modus vivendi** — 1 vez/veces — líneas: 240
 - **muchas** — 1 vez/veces — líneas: 175
-- **médismós** — 1 vez/veces — líneas: 1023
-- **Mélanges Desrousseaux** — 1 vez/veces — líneas: 861
+- **médismós** — 1 vez/veces — líneas: 1024
+- **Mélanges Desrousseaux** — 1 vez/veces — líneas: 862
 - **Mêdoi** — 1 vez/veces — líneas: 314
-- **mêtis** — 1 vez/veces — líneas: 956
-- **neōstì basileúonta** — 1 vez/veces — líneas: 1081
-- **Neōteropoioí** — 1 vez/veces — líneas: 772
+- **mêtis** — 1 vez/veces — líneas: 957
+- **neōstì basileúonta** — 1 vez/veces — líneas: 1082
+- **Neōteropoioí** — 1 vez/veces — líneas: 773
 - **non licet omnibus adire Corinthum** — 1 vez/veces — líneas: 302
 - **Nubes** — 1 vez/veces — líneas: 246
 - **némō** — 1 vez/veces — líneas: 343
 - **nómos** — 1 vez/veces — líneas: 343
-- **nŷn éti** — 1 vez/veces — líneas: 960
-- **Odisea** — 3 vez/veces — líneas: 241, 428, 429
-- **oikistḗs** — 3 vez/veces — líneas: 414, 414, 421
+- **nŷn éti** — 1 vez/veces — líneas: 961
+- **Odisea** — 3 vez/veces — líneas: 241, 429, 430
+- **oikistḗs** — 3 vez/veces — líneas: 415, 415, 422
 - **oikízontes** — 4 vez/veces — líneas: 311, 311, 312, 312
 - **Olímpicas** — 1 vez/veces — líneas: 302
-- **op. cit. ** — 25 vez/veces — líneas: 313, 361, 361, 361, 370, 371, 389, 454, 454, 545, 547, 580, 615, 625, 671, 673, 723, 728, 779, 1039, 1081, 1081, 1086, 1086, 1138
-- **ostraka** — 1 vez/veces — líneas: 956
-- **paráplous** — 1 vez/veces — líneas: 511
-- **Peloponnesian Warre** — 1 vez/veces — líneas: 371
-- **Peloponnesos** — 1 vez/veces — líneas: 462
+- **op. cit.** — 14 vez/veces — líneas: 361, 361, 372, 455, 455, 546, 548, 616, 626, 672, 674, 724, 729, 780
+- **op. cit. ** — 11 vez/veces — líneas: 313, 362, 371, 390, 581, 1040, 1082, 1082, 1087, 1087, 1139
+- **ostraka** — 1 vez/veces — líneas: 957
+- **paráplous** — 1 vez/veces — líneas: 512
+- **Peloponnesian Warre** — 1 vez/veces — líneas: 372
+- **Peloponnesos** — 1 vez/veces — líneas: 463
 - **Pentecontecia** — 4 vez/veces — líneas: 152, 157, 199, 338
-- **Pericles** — 2 vez/veces — líneas: 240, 562
-- **Periegesis** — 1 vez/veces — líneas: 580
-- **periónti tôi thérei** — 1 vez/veces — líneas: 463
-- **periēgḗseis** — 2 vez/veces — líneas: 580, 580
-- **periḗgēsis** — 1 vez/veces — líneas: 411
-- **Persas** — 1 vez/veces — líneas: 809
-- **períoikoi** — 1 vez/veces — líneas: 1107
+- **Pericles** — 2 vez/veces — líneas: 240, 563
+- **Periegesis** — 1 vez/veces — líneas: 581
+- **periónti tôi thérei** — 1 vez/veces — líneas: 464
+- **periēgḗseis** — 2 vez/veces — líneas: 581, 581
+- **periḗgēsis** — 1 vez/veces — líneas: 412
+- **Persas** — 1 vez/veces — líneas: 810
+- **períoikoi** — 1 vez/veces — líneas: 1108
 - **phainomêrídas** — 1 vez/veces — líneas: 245
 - **Philologus** — 1 vez/veces — líneas: 356
-- **Phoenix** — 4 vez/veces — líneas: 365, 855, 1036, 1036
-- **phoros** — 1 vez/veces — líneas: 1039
-- **phóras** — 1 vez/veces — líneas: 1038
-- **phóros** — 2 vez/veces — líneas: 1035, 1038
+- **Phoenix** — 4 vez/veces — líneas: 366, 856, 1037, 1037
+- **phoros** — 1 vez/veces — líneas: 1040
+- **phóras** — 1 vez/veces — líneas: 1039
+- **phóros** — 2 vez/veces — líneas: 1036, 1039
 - **Phōkaês te Massalían oikízontes Karchēdoníous eníkōn naumachoûntes** — 2 vez/veces — líneas: 311, 312
 - **Pictorial Dictionary of Ancient Athens** — 1 vez/veces — líneas: 358
 - **Piracy in the Ancient World** — 1 vez/veces — líneas: 240
 - **Poetae Melici Graeci** — 1 vez/veces — líneas: 356
-- **Poiesis. Structure and Thought** — 1 vez/veces — líneas: 367
-- **poiḗsantes** — 1 vez/veces — líneas: 825
-- **poiḗsantes tàs kríseis** — 1 vez/veces — líneas: 825
-- **poleis** — 1 vez/veces — líneas: 494
-- **polis en dexiái espléonti es ton lónion kólpon** — 1 vez/veces — líneas: 411
-- **Política** — 4 vez/veces — líneas: 233, 234, 240, 782
+- **Poiesis. Structure and Thought** — 1 vez/veces — líneas: 368
+- **poiḗsantes** — 1 vez/veces — líneas: 826
+- **poiḗsantes tàs kríseis** — 1 vez/veces — líneas: 826
+- **poleis** — 1 vez/veces — líneas: 495
+- **polis en dexiái espléonti es ton lónion kólpon** — 1 vez/veces — líneas: 412
+- **Política** — 3 vez/veces — líneas: 234, 240, 783
 - **Problèmes de la guerre et Grèce ancienne** — 1 vez/veces — líneas: 313
 - **Proemio** — 1 vez/veces — líneas: 148
-- **próphasis** — 4 vez/veces — líneas: 389, 389, 389, 390
-- **próschēma** — 2 vez/veces — líneas: 1036, 1036
-- **próteron** — 1 vez/veces — líneas: 548
-- **psiloí** — 1 vez/veces — líneas: 448
+- **próphasis** — 4 vez/veces — líneas: 390, 390, 390, 391
+- **próschēma** — 2 vez/veces — líneas: 1037, 1037
+- **próteron** — 1 vez/veces — líneas: 549
+- **psiloí** — 1 vez/veces — líneas: 449
 - **póleis** — 2 vez/veces — líneas: 320, 338
 - **pólis** — 1 vez/veces — líneas: 155
-- **Pēgaí** — 1 vez/veces — líneas: 1145
-- **Quaderni di Storia** — 1 vez/veces — líneas: 961
-- **recentiores** — 1 vez/veces — líneas: 809
+- **Pēgaí** — 1 vez/veces — líneas: 1146
+- **Quaderni di Storia** — 1 vez/veces — líneas: 962
+- **recentiores** — 1 vez/veces — líneas: 810
 - **República** — 1 vez/veces — líneas: 250
-- **Revue des Études Grecques** — 2 vez/veces — líneas: 369, 454
+- **Revue des Études Grecques** — 2 vez/veces — líneas: 370, 455
 - **Revue Internationale des Droits de l'Antiquité** — 1 vez/veces — líneas: 343
-- **Ricerche sulla coíonizzazione greca (Annali della Scuola Normale Superiore di Pisa** — 1 vez/veces — líneas: 421
-- **Rivista di Filologia e d'Istruzione Classica** — 1 vez/veces — líneas: 625
-- **Rivista di Filosofia e Scienze affini** — 1 vez/veces — líneas: 821
-- **Rivista Storica dell' Antichita** — 1 vez/veces — líneas: 855
-- **Scaptēsýlē** — 1 vez/veces — líneas: 1089
-- **Scaptḗhýlē** — 1 vez/veces — líneas: 1089
+- **Ricerche sulla coíonizzazione greca (Annali della Scuola Normale Superiore di Pisa** — 1 vez/veces — líneas: 422
+- **Rivista di Filologia e d'Istruzione Classica** — 1 vez/veces — líneas: 626
+- **Rivista di Filosofia e Scienze affini** — 1 vez/veces — líneas: 822
+- **Rivista Storica dell' Antichita** — 1 vez/veces — líneas: 856
+- **Scaptēsýlē** — 1 vez/veces — líneas: 1090
+- **Scaptḗhýlē** — 1 vez/veces — líneas: 1090
 - **schistós chitṓn** — 1 vez/veces — líneas: 245
 - **Ships and Seamanship in the Ancient World** — 1 vez/veces — líneas: 300
-- **SO** — 1 vez/veces — líneas: 1081
-- **Sobre la Puz** — 1 vez/veces — líneas: 1165
-- **spondaí** — 1 vez/veces — líneas: 387
-- **Storie dello storico Tucidide** — 1 vez/veces — líneas: 1057
+- **SO** — 1 vez/veces — líneas: 1082
+- **Sobre la Puz** — 1 vez/veces — líneas: 1166
+- **spondaí** — 1 vez/veces — líneas: 388
+- **Storie dello storico Tucidide** — 1 vez/veces — líneas: 1058
 - **Stromateis** — 1 vez/veces — líneas: 313
 - **Studi Italiani di Filología Classica** — 1 vez/veces — líneas: 361
-- **Studia Thucydidea** — 1 vez/veces — líneas: 454
-- **Suplicantes** — 1 vez/veces — líneas: 781
-- **supra** — 13 vez/veces — líneas: 1125, 1127, 1138, 1139, 1142, 1143, 1147, 1147, 1164, 1183, 1192, 1193, 1203
-- **Sylloge Inscriptionum Graecarum** — 1 vez/veces — líneas: 1186
-- **Symbolae Osloenses** — 1 vez/veces — líneas: 1081
-- **symbolaí** — 1 vez/veces — líneas: 823
-- **symbólaiai díkai** — 1 vez/veces — líneas: 825
-- **symbólaiai díkai, symbolimaîai, díkai, díkai apò symbolôn** — 1 vez/veces — líneas: 823
-- **symmachía** — 5 vez/veces — líneas: 340, 507, 559, 1036, 1038
-- **sýmbola** — 1 vez/veces — líneas: 823
-- **sýnodoi** — 1 vez/veces — líneas: 1041
-- **sēmeîa** — 1 vez/veces — líneas: 609
-- **sōphrosýnē** — 2 vez/veces — líneas: 495, 864
-- **Temístocles** — 5 vez/veces — líneas: 811, 944, 945, 958, 964
-- **Teseo** — 1 vez/veces — líneas: 1078
-- **Th** — 1 vez/veces — líneas: 371
-- **The Alhenian Tribute Lists** — 2 vez/veces — líneas: 1038, 1039
-- **The American Historical Review** — 1 vez/veces — líneas: 855
-- **The Archidamian War** — 1 vez/veces — líneas: 828
-- **The Athenian Empire** — 1 vez/veces — líneas: 912
-- **The Athenian Half-Century** — 1 vez/veces — líneas: 1081
-- **The Athenian Tribute Lists** — 1 vez/veces — líneas: 1081
+- **Studia Thucydidea** — 1 vez/veces — líneas: 455
+- **Suplicantes** — 1 vez/veces — líneas: 782
+- **supra** — 176 vez/veces — líneas: 232, 256, 261, 262, 265, 271, 274, 278, 280, 288, 289, 293, 294, 303, 308, 313, 319, 323, 327, 330, 332, 334, 356, 361, 362, 365, 369, 380, 421, 423, 424, 436, 438, 441, 445, 448, 451, 458, 462, 465, 479, 498, 501, 504, 505, 506, 507, 510, 511, 533, 535, 537, 538, 538, 544, 545, 546, 546, 546, 547, 547, 549, 550, 561, 562, 575, 577, 581, 609, 615, 616, 617, 620, 620, 621, 622, 625, 626, 626, 626, 628, 644, 646, 655, 658, 658, 658, 720, 721, 724, 726, 727, 729, 729, 740, 758, 762, 762, 771, 784, 807, 811, 813, 820, 822, 823, 824, 826, 847, 849, 851, 856, 858, 861, 862, 867, 869, 880, 881, 881, 903, 904, 905, 913, 913, 943, 944, 951, 953, 964, 1007, 1010, 1020, 1021, 1022, 1026, 1036, 1039, 1040, 1056, 1057, 1058, 1059, 1083, 1085, 1089, 1092, 1093, 1093, 1107, 1126, 1128, 1139, 1140, 1143, 1144, 1148, 1148, 1165, 1184, 1193, 1194, 1206, 1207, 1207, 1208, 1208, 1209, 1211, 1212, 1216, 1217, 1218, 1219, 1219, 1221
+- **Sylloge Inscriptionum Graecarum** — 1 vez/veces — líneas: 1187
+- **Symbolae Osloenses** — 2 vez/veces — líneas: 957, 1082
+- **symbolaí** — 1 vez/veces — líneas: 824
+- **symbólaiai díkai** — 1 vez/veces — líneas: 826
+- **symbólaiai díkai, symbolimaîai, díkai, díkai apò symbolôn** — 1 vez/veces — líneas: 824
+- **symmachía** — 5 vez/veces — líneas: 340, 508, 560, 1037, 1039
+- **sýmbola** — 1 vez/veces — líneas: 824
+- **sýnodoi** — 1 vez/veces — líneas: 1042
+- **sēmeîa** — 1 vez/veces — líneas: 610
+- **sōphrosýnē** — 2 vez/veces — líneas: 496, 865
+- **Temístocles** — 5 vez/veces — líneas: 812, 945, 946, 959, 965
+- **Teseo** — 1 vez/veces — líneas: 1079
+- **Th** — 1 vez/veces — líneas: 372
+- **The Alhenian Tribute Lists** — 2 vez/veces — líneas: 1039, 1040
+- **The American Historical Review** — 1 vez/veces — líneas: 856
+- **The Archidamian War** — 1 vez/veces — líneas: 829
+- **The Athenian Empire** — 1 vez/veces — líneas: 913
+- **The Athenian Half-Century** — 1 vez/veces — líneas: 1082
+- **The Athenian Tribute Lists** — 1 vez/veces — líneas: 1082
 - **The Athenian Trireme, The history and reconstruction of an ancient Greek warship** — 1 vez/veces — líneas: 300
-- **The Classical Journal** — 1 vez/veces — líneas: 824
-- **The Classical Quarterly** — 8 vez/veces — líneas: 154, 203, 300, 548, 580, 823, 1057, 1081
-- **The Classical Review** — 2 vez/veces — líneas: 314, 545
-- **The Delfic Oracle** — 1 vez/veces — líneas: 421
-- **The English Works** — 1 vez/veces — líneas: 367
+- **The Classical Journal** — 1 vez/veces — líneas: 825
+- **The Classical Quarterly** — 8 vez/veces — líneas: 154, 203, 300, 549, 581, 824, 1058, 1082
+- **The Classical Review** — 2 vez/veces — líneas: 314, 546
+- **The Delfic Oracle** — 1 vez/veces — líneas: 422
+- **The English Works** — 1 vez/veces — líneas: 368
 - **The Mariner's Mirror** — 1 vez/veces — líneas: 300
-- **The Origin of Ostracism** — 1 vez/veces — líneas: 956
-- **The Origins of the Peloponnesian War** — 1 vez/veces — líneas: 912
-- **The oubreak of the Peloponnesian war** — 1 vez/veces — líneas: 365
-- **The Outbreak of the Peloponnesian War** — 1 vez/veces — líneas: 912
+- **The Origin of Ostracism** — 1 vez/veces — líneas: 957
+- **The Origins of the Peloponnesian War** — 1 vez/veces — líneas: 913
+- **The oubreak of the Peloponnesian war** — 1 vez/veces — líneas: 366
+- **The Outbreak of the Peloponnesian War** — 1 vez/veces — líneas: 913
 - **The Stones of Athens** — 1 vez/veces — líneas: 358
-- **The Structure of Thucydides History** — 1 vez/veces — líneas: 369
-- **Thoukydídou Xyngraphḗ** — 1 vez/veces — líneas: 1138
+- **The Structure of Thucydides History** — 1 vez/veces — líneas: 370
+- **Thoukydídou Xyngraphḗ** — 1 vez/veces — líneas: 1139
 - **Thoukydídēs Olórou** — 1 vez/veces — líneas: 148
-- **Thucydides** — 2 vez/veces — líneas: 277, 545
-- **Thucydides and the World War** — 1 vez/veces — líneas: 369
-- **Thucydides on the nature of Power** — 1 vez/veces — líneas: 369
-- **Thucydides the artful reporter** — 1 vez/veces — líneas: 365
-- **Thucydides' Dates** — 1 vez/veces — líneas: 1081
+- **Thucydides** — 2 vez/veces — líneas: 277, 546
+- **Thucydides and the World War** — 1 vez/veces — líneas: 370
+- **Thucydides on the nature of Power** — 1 vez/veces — líneas: 370
+- **Thucydides the artful reporter** — 1 vez/veces — líneas: 366
+- **Thucydides' Dates** — 1 vez/veces — líneas: 1082
 - **Thukydides** — 1 vez/veces — líneas: 310
-- **topoi** — 1 vez/veces — líneas: 365
-- **toxótai** — 1 vez/veces — líneas: 611
-- **Transactions of the American Philological Society** — 1 vez/veces — líneas: 370
+- **topoi** — 1 vez/veces — líneas: 366
+- **toxótai** — 1 vez/veces — líneas: 612
+- **Transactions of the American Philological Society** — 1 vez/veces — líneas: 371
 - **triḗrēs** — 1 vez/veces — líneas: 313
-- **tropaion** — 1 vez/veces — líneas: 459
-- **Trophalē** — 1 vez/veces — líneas: 580
+- **tropaîon** — 1 vez/veces — líneas: 460
+- **Trophalē** — 1 vez/veces — líneas: 581
 - **Tucídides** — 1 vez/veces — líneas: 299
 - **Tucídides: Historia, ética y política** — 1 vez/veces — líneas: 150
 - **Tà Mēdiká** — 1 vez/veces — líneas: 314
-- **tà Mēdiká** — 4 vez/veces — líneas: 314, 314, 545, 545
-- **Tà oikeîa** — 1 vez/veces — líneas: 547
+- **tà Mēdiká** — 4 vez/veces — líneas: 314, 314, 546, 546
+- **Tà oikeîa** — 1 vez/veces — líneas: 548
 - **tà prò autôn** — 2 vez/veces — líneas: 157, 199
 - **tà éti palaítera** — 1 vez/veces — líneas: 157
 - **téttiges** — 1 vez/veces — líneas: 246
-- **tò eúkosmon** — 1 vez/veces — líneas: 863
-- **tò Medikón** — 1 vez/veces — líneas: 545
-- **tò Mēdikón** — 2 vez/veces — líneas: 314, 380
-- **tò pistòn tês kath' hymâs autoùs politeías kaì homilías** — 1 vez/veces — líneas: 755
-- **tḗn mén alēthestátēn próphasin** — 1 vez/veces — líneas: 389
+- **tò eúkosmon** — 1 vez/veces — líneas: 864
+- **tò Medikón** — 1 vez/veces — líneas: 546
+- **tò Mēdikón** — 2 vez/veces — líneas: 314, 381
+- **tò pistòn tês kath' hymâs autoùs politeías kaì homilías** — 1 vez/veces — líneas: 756
+- **tḗn mén alēthestátēn próphasin** — 1 vez/veces — líneas: 390
 - **Untersuchungen zur Archäologie des Thukydides** — 1 vez/veces — líneas: 154
-- **Vida y hazañas de Alejandro** — 1 vez/veces — líneas: 1168
-- **Vidas de los diez oradores** — 1 vez/veces — líneas: 625
+- **Vida y hazañas de Alejandro** — 1 vez/veces — líneas: 1169
+- **Vidas de los diez oradores** — 1 vez/veces — líneas: 626
 - **xénos** — 1 vez/veces — líneas: 155
-- **Yale Classical Studies** — 1 vez/veces — líneas: 855
-- **Zeitschrift für Papyrologie und Epigraphik** — 1 vez/veces — líneas: 673
+- **Yale Classical Studies** — 1 vez/veces — líneas: 856
+- **Zeitschrift für Papyrologie und Epigraphik** — 1 vez/veces — líneas: 674
 - **«bar-bar»** — 1 vez/veces — líneas: 155
-- **«Perché gli uomini in sostanza sono sempre gli stessi ed hanno le medessime passioni: cosi quando le eircunstanze sono identiche, le medessime ragioni portano i medessimi efetti, e quindi gli stessi fatti debbono suggerire le stesse rególe di condotta»** — 1 vez/veces — líneas: 370
-- **ágraphos pólis** — 1 vez/veces — líneas: 542
-- **échthra** — 1 vez/veces — líneas: 771
-- **éphoroi** — 1 vez/veces — líneas: 870
-- **érga** — 1 vez/veces — líneas: 365
+- **«Perché gli uomini in sostanza sono sempre gli stessi ed hanno le medessime passioni: cosi quando le eircunstanze sono identiche, le medessime ragioni portano i medessimi efetti, e quindi gli stessi fatti debbono suggerire le stesse rególe di condotta»** — 1 vez/veces — líneas: 371
+- **ágraphos pólis** — 1 vez/veces — líneas: 543
+- **échthra** — 1 vez/veces — líneas: 772
+- **éphoroi** — 1 vez/veces — líneas: 871
+- **érga** — 1 vez/veces — líneas: 366
 - **éryma** — 1 vez/veces — líneas: 287
-- **Ēleíōn epíneion** — 1 vez/veces — líneas: 462
+- **Ēleíōn epíneion** — 1 vez/veces — líneas: 463
 - **ōbaí** — 2 vez/veces — líneas: 278, 361
-- **Ἀρχαιολογικὴ Ἐφημερίς** — 1 vez/veces — líneas: 673
+- **Ἀρχαιολογικὴ Ἐφημερίς** — 1 vez/veces — líneas: 674
