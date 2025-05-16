@@ -1165,7 +1165,7 @@ de Corinto, junto a la actual Alepochōri.
 593. Esta cifra de Tucídides es confirmada por DIODORO, XI 74, 3, y por ISÓCRATES, *Sobre la Puz* 86, mientras que en otros pasajes del mismo DIODORO (XI 71, S, y XIII 25, 2) se habla de trescientas, número sin duda exagerado, y CTESIAS (F. JACOBY, *FGrHist* 688, F 14 [36]) habla tan sólo de cuarenta naves enviadas a Egipto. Cf. _infra_, I 110, 1, n. 655.
 594. Después de la batalla de Papremis (cf. HERÓDOTO, III 12, 4; DIODORO, XI 74, 1-4), en la que fueron derrotadas las fuerzas persas de Egipto, cuyo jefe Aquémenes, hermano de Jerjes, pereció en el combate.
 595. La ciudad más importante del Bajo Egipto, situada junto al Nilo, un poco más arriba del punto donde se inicia el delta, cerca del actual El Cairo.
-596. Este *Leukòn Teîchos*, «Muro Blanco» (*Anbū-heŷ*) o «Fortaleza Blanca», era, según el escoliasta, uno de los tres recintos amurallados de Menfis y estaba construido en mármol; de ahí su nombre. Cf. HERÓDOTO, III 14, 1; 91, 3; DIODORO, XI 74, 4; PSEUDO-CALISTENES, *Vida y hazañas de Alejandro* I 34, donde se recuerda su fama de inexpugnable.
+596. Este *Leukòn Teîchos*, «Muro Blanco» (*Anbū-heŷ*) o «Fortaleza Blanca», era, según el escoliasta, uno de los tres recintos amurallados de Menfis y estaba construido en mármol; de ahí su nombre. Cf. HERÓDOTO, III 14, 1; 91, 3; DIODORO, XI 74, 4; PSEUDO-CALÍSTENES, *Vida y hazañas de Alejandro* I 34, donde se recuerda su fama de inexpugnable.
 597. Aquí se distingue entre persas y medos, frente a otros pasajes en que este último término, al que debían de estar acostumbrados los griegos, tiene un carácter general, para designar a la población del Imperio persa, que antes hahia sido meda.
 
 <!-- ḗ ṓ ỳ -->
