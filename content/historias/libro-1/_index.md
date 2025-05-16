@@ -893,7 +893,7 @@ los aliados<sup>472</sup> y someter la cuestión a votación, a fin de
 tomar en común la decisión de emprender la guerra, si eran de esta opinión. [5] Después de llegar a este resultado,
 los aliados regresaron a su patria, y también lo hicieron
 los embajadores de los atenienses, una vez que hubieron negociado los asuntos que habían motivado su viaje. [6] Esta
-decisión de la asamblea, de que el tratado había sido violado, fue tomada en el año catorce473 desde el comienzo
+decisión de la asamblea, de que el tratado había sido violado, fue tomada en el año catorce<sup>473</sup> desde el comienzo
 de la tregua de treinta años que se había acordado después de los sucesos de Eubea<sup>474</sup>.
 
 ### Notas de Juan José Torres Esbarranch
@@ -1097,7 +1097,7 @@ M[Melesias I] --> J
 
 ## 101. La rebelión de los hilotas. Rendición de Tasos
 
-101. Entretanto los tasios, vencidos en los campos de batalla y sitiados, recurrieron a los lacedemonios y les pidieron que los ayudasen invadiendo el Ática. [2] Ellos se lo prometieron a escondidas de los atenienses<sup>560</sup> y tenían intención de cumplir su promesa, pero se lo impidió el terremoto<sup>561</sup> que sobrevino en la época en que los hilotas<sup>562</sup> con los periecos<sup>563</sup> de Turia<sup>564</sup> y de Etea<sup>565</sup> se les sublevaron y se refugiaron en Itome<sup>566</sup>. La mayor parte de los hilotas la constituían los descendientes de los antiguos mesenios antaño reducidos a la esclavitud<sup>567</sup>; por eso todos fueron designados con el nombre de mesenios. [3] Así, mientras la guerra enfrentaba a los lacedemonios con los sublevados de Itome, los tasios, al tercer año sí del asedio, llegaron a un acuerdo con los atenienses569 por el que desmantelaban las fortificaciones y entregaban las naves, les era fijado el dinero que debían pagar en el acto y el tributo para el futuro, y renunciaban al continente y a las minas<sup>570</sup>.
+101. Entretanto los tasios, vencidos en los campos de batalla y sitiados, recurrieron a los lacedemonios y les pidieron que los ayudasen invadiendo el Ática. [2] Ellos se lo prometieron a escondidas de los atenienses<sup>560</sup> y tenían intención de cumplir su promesa, pero se lo impidió el terremoto<sup>561</sup> que sobrevino en la época en que los hilotas<sup>562</sup> con los periecos<sup>563</sup> de Turia<sup>564</sup> y de Etea<sup>565</sup> se les sublevaron y se refugiaron en Itome<sup>566</sup>. La mayor parte de los hilotas la constituían los descendientes de los antiguos mesenios antaño reducidos a la esclavitud<sup>567</sup>; por eso todos fueron designados con el nombre de mesenios. [3] Así, mientras la guerra enfrentaba a los lacedemonios con los sublevados de Itome, los tasios, al tercer año<sup>568</sup> sí del asedio, llegaron a un acuerdo con los atenienses<sup>569</sup> por el que desmantelaban las fortificaciones y entregaban las naves, les era fijado el dinero que debían pagar en el acto y el tributo para el futuro, y renunciaban al continente y a las minas<sup>570</sup>.
 
 ### Notas de Juan José Torres Esbarranch
 
@@ -1205,7 +1205,7 @@ de Corinto, junto a la actual Alepochōri.
 612. Cf. _supra_, I 69, 1, n. 389.
 613. Sobre la construcción de las murallas de Temístocles, cf. _supra_, I 93, 1-8. Estas murallas fueron completadas con los Muros Largos, que unían Atenas a sus puertos cerrando una zona fortificada entre éstos y la ciudad. Así se garantizaba el acceso al mar, el campo de batalla que Atenas prefería, y el abastecimiento de la ciudad. Sobre el modelo ateniense se construyeron los Muros Largos de Mégara (cf. _supra_, I 103, 4, n. 584).
 614. Habitantes de la Fócide, región situada al noroeste de Beocia y al norte del Golfo de Corinto. Por el norte limita con el territorio de los locros opuntios y por el noroeste con la Dóride. Al este tiene la Lócride Ozolia (cf. _supra_, I 5, 3, n. 36). No deben ser confundidos con los foceos, habitantes de Focea (cf. _supra_, I 13, 6, n. 106).
-635. Región montañosa, al noroeste de la Fócide, que era considerada la tierra originaria de los dorios (cf. HERóDOTO, VIII 31; _supra_, I 12, 3; 18, I). Cf. _infra_. II 92, 3. Esta expedición contra la Dóride se sitúa en el 458, de acuerdo con Gomme; según *ATL*, tuvo lugar en verano del 459 y, para R. K. Unz, a fines del 459 a. C.
+635. Región montañosa, al noroeste de la Fócide, que era considerada la tierra originaria de los dorios (cf. HERÓDOTO, VIII 31; _supra_, I 12, 3; 18, I). Cf. _infra_. II 92, 3. Esta expedición contra la Dóride se sitúa en el 458, de acuerdo con Gomme; según *ATL*, tuvo lugar en verano del 459 y, para R. K. Unz, a fines del 459 a. C.
 616. Son tres ciudades de la Dóride. De Citinio se vuelve a hablar en III 95, 1; 102, 1.
 617. Era hermano de Pausanias (cf. _supra_, I 94-96, 1; n. 512), que había muerto hacia el 470. Era regente en nombre del hijo de Pausanias.
 618. Cf. _supra_, I 94, 1, n. 512.
