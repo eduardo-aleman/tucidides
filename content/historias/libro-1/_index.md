@@ -1081,16 +1081,44 @@ por sus ciudades, abandonaban a los atenienses en campaña.
 558. Los otros tracios ayudarían a los edonos. Según Heródoto, sin embargo, fueron derrotados sólo por los edonos; el texto de Tucídides supone una corrección a HERÓDOTO, IX 75 (cf. PERDRIZET, «Skaptēsýlē», *Klio* X (1910, 13).
 559. Parece que los tracios toleraban los establecimientos costeros como Eyón, pero se oponían a fundaciones de mayor envergadura y a cualquier intento en el interior.
 
-
-<!-- ḗ ṓ ỳ -->
-
 ## 101. La rebelión de los hilotas. Rendición de Tasos
 
+Entretanto los tasios, vencidos
+en los campos de batalla y sitiados,
+recurrieron a los lacedemonios y les
+pidieron que los ayudasen invadiendo el Ática. [2] Ellos se lo prometieron a escondidas de los atenienses560 y tenían intención de
+cumplir su promesa, pero se lo impidió el terremoto561
+que sobrevino en la época en que los hilotas562 con los periecos563 de Turia564 y de Etea565 se les sublevaron y se
+refugiaron en Itome566. La mayor parte de los hilotas la
+constituían los descendientes de los antiguos mesenios antaño reducidos a la esclavitud567; por eso todos fueron
+designados con el nombre de mesenios. [3] Así, mientras la
+guerra enfrentaba a los lacedemonios con los sublevados de Itome, los tasios, al tercer año sí del asedio, llegaron
+a un acuerdo con los atenienses569 por el que desmantelaban las fortificaciones y entregaban las naves, les era fijado el dinero que debían pagar en el acto y el tributo para
+el futuro, y renunciaban al continente y a las minas570.
+
 ### Notas de Juan José Torres Esbarranch
+
+560. Esta respuesta de los lacedemonios a los tasios, que evidencia su intención de intervenir en la política de la Confederación ático-delia, así como la desconfianza que en el capítulo siguiente manifiestan respecto a los atenienses, hacen pensar en lo inevitable de una guerra que ya se estaba gestando.
+561. El «gran terremoto» al que también se alude en I 128, 1: Debió de ocurrir hacia el 464 a. C., y parece que fue de considerable intensidad (cf. DIODORO, XI 63, 1-7; PLUTARCO, *Cimón* 16, 4-5).
+562. Siervos subordinados a los espartiatas, los ciudadanos de pleno derecho. Se suele identificar a los hilotas con los antiguos habitantes de Laconia y Mesenia reducidos a la esclavitud por los conquistadores dorios (cf. supra, I 12, 3; 18, 1), pero también se les considera como un elemento originario de la organización social doria. La palabra *heílōtes* deriva probablemente de la raíz de *heîlon*, del verbo *hairéo*, «coger», lo que está de acuerdo con su condición.
+563. Los periecos (*períoikoi*, «los que habitan alrededor»), a diferencia de los hilotas, eran libres, aunque tenían limitaciones jurídico-politicas que les colocaban por debajo de los espartiatas. Probablemente eran descendientes de poblaciones locales sometidas por los dorios. Vivían en comunidades de organización autónoma en Laconia, en torno a los lugares ocupados por los espartistas, en Cinuria, en la isla de Citera, y en Mesenia. Podían tener propiedades y lotes de tierra, pero su principal actividad era el comercio y la industria. Debian pagar una contribución al Estado y servían en el ejército como hoplitas al lado de los espartiatas; podían incluso desempeñar cargos de importancia y responsabilidad, como vemos en VIII 22, 4, donde el perieco Diníadas aparece al mando de una flota peloponesia.
+$64 Municipio de Mesenia, al este del río Pamiso y a escasa distan-
+cia del Golfo de Mesenia (cf. ESTRABÓN, VIII 4, 5; PAUSANIAS, IV 31,
+1-2).
+565. Parece que estaba en Laconia, pero su situación exacta es des- conocida.
+566. Monte de posición estratégica en el centro de Mesenia, al oeste del río Pamiso; era una auténtica fortaleza natural. En la primera guerra mesenia (hacia 735.715 a. C.) ya había sido ocupado y defendido por los mesenios antes de someterse a Esparta. Cf. PAUSANIAS, IV 9, 1-2.
+567. Mesenia, tradicionalmente sometida a Esparta (cf. nota anterior), no recuperó su autonomía hasta el siglo IV, cuando, con la ayuda de Tebas, se liberó, reconstruyendo incluso la ciudad de Mesene, su capital junto al Itome.
+568. Probablemente en el 463-462 a. C.
+569. Cf. infra, I 108, 4.
+570. En favor de los atenienses, según PLUTARCO, *Cimón* 14, 2.
+
+<!-- ḗ ṓ ỳ -->
 
 ## 102. Diferencias entre Esparta y Atenas. El incidente de Itome
 
 ### Notas de Juan José Torres Esbarranch
+
+<!-- ḗ ṓ ỳ -->
 
 ### Notas de Juan José Torres Esbarranch
 
