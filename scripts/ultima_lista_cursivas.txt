@@ -1,7 +1,8 @@
 # Lista de cursivas con frecuencia y localización
 
-- **_infra_** — 219 vez/veces — líneas: 148, 150, 153, 153, 157, 199, 200, 202, 204, 206, 206, 207, 233, 233, 234, 235, 236, 239, 240, 240, 242, 248, 254, 258, 259, 264, 271, 274, 285, 286, 286, 289, 296, 297, 297, 297, 298, 300, 300, 300, 301, 306, 309, 317, 325, 328, 331, 334, 338, 338, 341, 342, 343, 344, 361, 363, 380, 381, 381, 382, 382, 383, 383, 383, 383, 383, 384, 386, 387, 387, 389, 389, 389, 390, 414, 416, 419, 421, 421, 423, 427, 428, 430, 431, 434, 434, 438, 440, 446, 447, 447, 448, 448, 453, 456, 457, 459, 459, 460, 465, 465, 467, 468, 477, 495, 496, 496, 496, 498, 499, 504, 504, 505, 511, 512, 535, 539, 544, 545, 545, 548, 548, 548, 562, 563, 564, 565, 580, 580, 589, 589, 608, 609, 609, 609, 609, 613, 613, 615, 615, 617, 623, 625, 625, 625, 627, 656, 669, 670, 671, 672, 718, 720, 720, 722, 722, 727, 736, 736, 736, 737, 738, 738, 738, 739, 756, 759, 760, 760, 761, 763, 766, 769, 770, 772, 773, 776, 779, 781, 781, 782, 784, 785, 787, 805, 806, 814, 815, 816, 816, 816, 816, 816, 816, 817, 817, 817, 822, 826, 827, 828, 828, 847, 847, 852, 853, 853, 855, 867, 870, 878, 902, 903, 904, 912, 942, 949, 956, 965
-- **_supra_** — 130 vez/veces — líneas: 232, 256, 261, 262, 265, 271, 274, 278, 280, 288, 289, 293, 294, 303, 308, 313, 319, 323, 327, 330, 332, 334, 356, 361, 361, 364, 368, 379, 420, 422, 423, 435, 437, 440, 444, 447, 450, 457, 461, 464, 478, 497, 500, 503, 504, 505, 506, 509, 510, 532, 534, 536, 537, 537, 543, 544, 545, 545, 545, 546, 546, 548, 549, 560, 561, 574, 576, 580, 608, 614, 615, 616, 619, 619, 620, 621, 624, 625, 625, 625, 627, 643, 645, 654, 657, 657, 657, 719, 720, 723, 725, 726, 728, 728, 739, 757, 761, 761, 770, 783, 806, 810, 812, 819, 821, 822, 823, 825, 846, 848, 850, 855, 857, 860, 861, 866, 868, 879, 880, 880, 902, 903, 904, 912, 912, 942, 943, 950, 952, 963
+- **&' = tetártōi** — 1 vez/veces — líneas: 1138
+- **_infra_** — 251 vez/veces — líneas: 148, 150, 153, 153, 157, 199, 200, 202, 204, 206, 206, 207, 233, 233, 234, 235, 236, 239, 240, 240, 242, 248, 254, 258, 259, 264, 271, 274, 285, 286, 286, 289, 296, 297, 297, 297, 298, 300, 300, 300, 301, 306, 309, 317, 325, 328, 331, 334, 338, 338, 341, 342, 343, 344, 361, 363, 380, 381, 381, 382, 382, 383, 383, 383, 383, 383, 384, 386, 387, 387, 389, 389, 389, 390, 414, 416, 419, 421, 421, 423, 427, 428, 430, 431, 434, 434, 438, 440, 446, 447, 447, 448, 448, 453, 456, 457, 459, 459, 460, 465, 465, 467, 468, 477, 495, 496, 496, 496, 498, 499, 504, 504, 505, 511, 512, 535, 539, 544, 545, 545, 548, 548, 548, 562, 563, 564, 565, 580, 580, 589, 589, 608, 609, 609, 609, 609, 613, 613, 615, 615, 617, 623, 625, 625, 625, 627, 656, 669, 670, 671, 672, 718, 720, 720, 722, 722, 727, 736, 736, 736, 737, 738, 738, 738, 739, 756, 759, 760, 760, 761, 763, 766, 769, 770, 772, 773, 776, 779, 781, 781, 782, 784, 785, 787, 805, 806, 814, 815, 816, 816, 816, 816, 816, 816, 817, 817, 817, 822, 826, 827, 828, 828, 847, 847, 852, 853, 853, 855, 867, 870, 878, 902, 903, 904, 912, 942, 949, 956, 965, 973, 974, 1008, 1010, 1018, 1023, 1034, 1035, 1035, 1035, 1035, 1035, 1035, 1036, 1039, 1039, 1039, 1040, 1057, 1076, 1076, 1079, 1081, 1081, 1081, 1081, 1089, 1089, 1092, 1092, 1094, 1113
+- **_supra_** — 150 vez/veces — líneas: 232, 256, 261, 262, 265, 271, 274, 278, 280, 288, 289, 293, 294, 303, 308, 313, 319, 323, 327, 330, 332, 334, 356, 361, 361, 364, 368, 379, 420, 422, 423, 435, 437, 440, 444, 447, 450, 457, 461, 464, 478, 497, 500, 503, 504, 505, 506, 509, 510, 532, 534, 536, 537, 537, 543, 544, 545, 545, 545, 546, 546, 548, 549, 560, 561, 574, 576, 580, 608, 614, 615, 616, 619, 619, 620, 621, 624, 625, 625, 625, 627, 643, 645, 654, 657, 657, 657, 719, 720, 723, 725, 726, 728, 728, 739, 757, 761, 761, 770, 783, 806, 810, 812, 819, 821, 822, 823, 825, 846, 848, 850, 855, 857, 860, 861, 866, 868, 879, 880, 880, 902, 903, 904, 912, 912, 942, 943, 950, 952, 963, 1006, 1009, 1019, 1020, 1021, 1025, 1035, 1038, 1039, 1055, 1056, 1057, 1058, 1082, 1084, 1088, 1091, 1092, 1092, 1106
 - **A Commentary on Herodotus** — 1 vez/veces — líneas: 1057
 - **A historical commentary on Thucydides** — 2 vez/veces — líneas: 156, 542
 - **A History of Sparta** — 1 vez/veces — líneas: 278
@@ -43,7 +44,7 @@
 - **Athenian Propertied Families** — 1 vez/veces — líneas: 357
 - **Athens and Corcyra. Strategy and Tactics in the Peloponnesian War** — 1 vez/veces — líneas: 465
 - **Athēnaíōn dè tò kolnón** — 1 vez/veces — líneas: 923
-- **ATL** — 6 vez/veces — líneas: 1081, 1081, 1088, 1089, 1093, 1096
+- **ATL** — 6 vez/veces — líneas: 1081, 1081, 1086, 1087, 1091, 1094
 - **Atthis. The Local Chronicles of Ancient Athens** — 1 vez/veces — líneas: 356
 - **Atthís** — 1 vez/veces — líneas: 1056
 - **Attikḗ syngraphḗ** — 1 vez/veces — líneas: 1056
@@ -65,7 +66,7 @@
 - **Caballeros** — 1 vez/veces — líneas: 246
 - **Cantos Ciprios** — 2 vez/veces — líneas: 287, 288
 - **cheirodōtós chitṓn** — 1 vez/veces — líneas: 245
-- **Cimón** — 10 vez/veces — líneas: 240, 319, 1057, 1077, 1078, 1079, 1088, 1092, 1107, 1116
+- **Cimón** — 12 vez/veces — líneas: 240, 319, 1057, 1077, 1078, 1079, 1086, 1090, 1105, 1114, 1125, 1125
 - **Ciropedia** — 1 vez/veces — líneas: 324
 - **Civilization on trial = La civilización puesta a prueba** — 1 vez/veces — líneas: 369
 - **Classical Philology** — 4 vez/veces — líneas: 328, 786, 809, 912
@@ -73,6 +74,7 @@
 - **Constitución de los atenienses** — 4 vez/veces — líneas: 328, 356, 949, 949
 - **Contributi dell'Istituto di Storia Antica** — 1 vez/veces — líneas: 228
 - **Das ptolemäische Aegypten** — 1 vez/veces — líneas: 300
+- **dekátōi** — 2 vez/veces — líneas: 1138, 1138
 - **Destino** — 1 vez/veces — líneas: 369
 - **Dialogues d'histoire ancienne** — 1 vez/veces — líneas: 240
 - **Die Fragmente der griechischen Historiker [FGrHist]** — 1 vez/veces — líneas: 148
@@ -93,7 +95,7 @@
 - **elassoúmenoi** — 3 vez/veces — líneas: 825, 825, 825
 - **Electra** — 1 vez/veces — líneas: 502
 - **elessoúmenoi** — 1 vez/veces — líneas: 825
-- **Ennéa Hodoí** — 1 vez/veces — líneas: 1094
+- **Ennéa Hodoí** — 1 vez/veces — líneas: 1092
 - **eníkōn** — 2 vez/veces — líneas: 311, 312
 - **epibátai** — 2 vez/veces — líneas: 448, 610
 - **epidemiurgos** — 1 vez/veces — líneas: 661
@@ -120,20 +122,20 @@
 - **géra** — 1 vez/veces — líneas: 424
 - **Hagios Iōannēs** — 1 vez/veces — líneas: 465
 - **hai d'es tò phaneròn legómenai aitíai** — 1 vez/veces — líneas: 389
-- **hairéo** — 1 vez/veces — líneas: 1108
+- **hairéo** — 1 vez/veces — líneas: 1106
 - **Harvard Studies in Classical Philology** — 1 vez/veces — líneas: 287
 - **hegèmonía** — 1 vez/veces — líneas: 1034
 - **helenotamías** — 1 vez/veces — líneas: 1038
 - **Hellás** — 2 vez/veces — líneas: 208, 208
-- **Helénicas** — 1 vez/veces — líneas: 1037
+- **Helénicas** — 2 vez/veces — líneas: 1037, 1124
 - **Hermes** — 1 vez/veces — líneas: 287
-- **heílōtes** — 1 vez/veces — líneas: 1108
-- **heîlon** — 1 vez/veces — líneas: 1108
+- **heílōtes** — 1 vez/veces — líneas: 1106
+- **heîlon** — 1 vez/veces — líneas: 1106
 - **hikanoì toùs metastántas blápsai** — 1 vez/veces — líneas: 508
 - **Himno a Apolo** — 1 vez/veces — líneas: 241
 - **Hiparco** — 1 vez/veces — líneas: 356
 - **Histoire et raison chez** — 1 vez/veces — líneas: 367
-- **Historia** — 16 vez/veces — líneas: 151, 239, 258, 318, 356, 365, 369, 369, 371, 385, 956, 956, 1057, 1057, 1081, 1091
+- **Historia** — 18 vez/veces — líneas: 151, 239, 258, 318, 356, 365, 369, 369, 371, 385, 956, 956, 1057, 1057, 1081, 1089, 1138, 1140
 - **Historia de la guerra del Peloponeso** — 1 vez/veces — líneas: 12
 - **Historia del Imperio Romano después de Marco Aurelio** — 1 vez/veces — líneas: 361
 - **Historia natural** — 1 vez/veces — líneas: 299
@@ -144,13 +146,14 @@
 - **Homaichmía** — 1 vez/veces — líneas: 340
 - **honour** — 1 vez/veces — líneas: 821
 - **hypérkeitai dè toútou kólpou Kíchyros, hē próteron Ephýra, pólis Thesprōtôn** — 1 vez/veces — líneas: 576
+- **héktõi** — 1 vez/veces — líneas: 1138
 - **hēgemónes** — 1 vez/veces — líneas: 1021
 - **I Focei dall'Anatolia all'Oceano** — 1 vez/veces — líneas: 310
 - **idíāi** — 1 vez/veces — líneas: 728
-- **IG** — 1 vez/veces — líneas: 1096
+- **IG** — 1 vez/veces — líneas: 1094
 - **Ilíada** — 14 vez/veces — líneas: 228, 231, 232, 270, 272, 273, 281, 282, 284, 287, 288, 288, 292, 302
 - **Indogermanisches etymologisches Wörterbuch I** — 1 vez/veces — líneas: 155
-- **infra** — 32 vez/veces — líneas: 973, 974, 1008, 1010, 1018, 1023, 1034, 1035, 1035, 1035, 1035, 1035, 1035, 1036, 1039, 1039, 1039, 1040, 1057, 1076, 1076, 1079, 1081, 1081, 1081, 1081, 1091, 1091, 1094, 1094, 1096, 1115
+- **infra** — 12 vez/veces — líneas: 1124, 1124, 1124, 1126, 1138, 1140, 1140, 1141, 1141, 1141, 1144, 1147
 - **Inscriptiones Graecae** — 1 vez/veces — líneas: 625
 - **isonomía** — 1 vez/veces — líneas: 824
 - **isonomía, isēgoría** — 1 vez/veces — líneas: 816
@@ -163,9 +166,9 @@
 - **kataspâsthai** — 1 vez/veces — líneas: 609
 - **katēgoría** — 1 vez/veces — líneas: 771
 - **Kelḗtion** — 1 vez/veces — líneas: 626
-- **Klio** — 1 vez/veces — líneas: 1097
+- **Klio** — 1 vez/veces — líneas: 1095
 - **koinonía** — 1 vez/veces — líneas: 816
-- **krēnídes** — 1 vez/veces — líneas: 1096
+- **krēnídes** — 1 vez/veces — líneas: 1094
 - **ktêma es aieí** — 2 vez/veces — líneas: 150, 371
 - **Kyllénen tò Eleiõn epíneion** — 1 vez/veces — líneas: 462
 - **Kíchyros** — 1 vez/veces — líneas: 576
@@ -175,12 +178,15 @@
 - **L'Antiquité Classique** — 1 vez/veces — líneas: 912
 - **La campagne avec Thucydide** — 1 vez/veces — líneas: 369
 - **La Guerra du Péloponnèse** — 1 vez/veces — líneas: 960
+- **La Guerre du Péloponnèse** — 1 vez/veces — líneas: 1138
 - **La tyrannie dans la Grèce Antique** — 1 vez/veces — líneas: 307
+- **Le Storie di Tucidide** — 1 vez/veces — líneas: 1138
 - **Le vocabulaire de l'analyse psychologique dans l'oeuvre de Thucydide** — 1 vez/veces — líneas: 389
 - **leitmotiv** — 1 vez/veces — líneas: 240
 - **Leyes** — 4 vez/veces — líneas: 233, 234, 240, 261
 - **Licurgo** — 2 vez/veces — líneas: 333, 901
 - **Lipostrátion** — 1 vez/veces — líneas: 1083
+- **Lisístrata** — 1 vez/veces — líneas: 1125
 - **Litterae Humaniores** — 1 vez/veces — líneas: 369
 - **límnē** — 1 vez/veces — líneas: 580
 - **lógoi** — 1 vez/veces — líneas: 365
@@ -207,8 +213,7 @@
 - **oikistḗs** — 3 vez/veces — líneas: 414, 414, 421
 - **oikízontes** — 4 vez/veces — líneas: 311, 311, 312, 312
 - **Olímpicas** — 1 vez/veces — líneas: 302
-- **op. cit.** — 11 vez/veces — líneas: 313, 361, 370, 371, 389, 580, 1039, 1081, 1081, 1088, 1088
-- **op. cit. ** — 13 vez/veces — líneas: 361, 361, 454, 454, 545, 547, 615, 625, 671, 673, 723, 728, 779
+- **op. cit. ** — 25 vez/veces — líneas: 313, 361, 361, 361, 370, 371, 389, 454, 454, 545, 547, 580, 615, 625, 671, 673, 723, 728, 779, 1039, 1081, 1081, 1086, 1086, 1138
 - **ostraka** — 1 vez/veces — líneas: 956
 - **paráplous** — 1 vez/veces — líneas: 511
 - **Peloponnesian Warre** — 1 vez/veces — líneas: 371
@@ -220,7 +225,7 @@
 - **periēgḗseis** — 2 vez/veces — líneas: 580, 580
 - **periḗgēsis** — 1 vez/veces — líneas: 411
 - **Persas** — 1 vez/veces — líneas: 809
-- **períoikoi** — 1 vez/veces — líneas: 1109
+- **períoikoi** — 1 vez/veces — líneas: 1107
 - **phainomêrídas** — 1 vez/veces — líneas: 245
 - **Philologus** — 1 vez/veces — líneas: 356
 - **Phoenix** — 4 vez/veces — líneas: 365, 855, 1036, 1036
@@ -245,6 +250,7 @@
 - **psiloí** — 1 vez/veces — líneas: 448
 - **póleis** — 2 vez/veces — líneas: 320, 338
 - **pólis** — 1 vez/veces — líneas: 155
+- **Pēgaí** — 1 vez/veces — líneas: 1145
 - **Quaderni di Storia** — 1 vez/veces — líneas: 961
 - **recentiores** — 1 vez/veces — líneas: 809
 - **República** — 1 vez/veces — líneas: 250
@@ -254,8 +260,8 @@
 - **Rivista di Filologia e d'Istruzione Classica** — 1 vez/veces — líneas: 625
 - **Rivista di Filosofia e Scienze affini** — 1 vez/veces — líneas: 821
 - **Rivista Storica dell' Antichita** — 1 vez/veces — líneas: 855
-- **Scaptēsýlē** — 1 vez/veces — líneas: 1091
-- **Scaptḗhýlē** — 1 vez/veces — líneas: 1091
+- **Scaptēsýlē** — 1 vez/veces — líneas: 1089
+- **Scaptḗhýlē** — 1 vez/veces — líneas: 1089
 - **schistós chitṓn** — 1 vez/veces — líneas: 245
 - **Ships and Seamanship in the Ancient World** — 1 vez/veces — líneas: 300
 - **SO** — 1 vez/veces — líneas: 1081
@@ -265,7 +271,7 @@
 - **Studi Italiani di Filología Classica** — 1 vez/veces — líneas: 361
 - **Studia Thucydidea** — 1 vez/veces — líneas: 454
 - **Suplicantes** — 1 vez/veces — líneas: 781
-- **supra** — 20 vez/veces — líneas: 1006, 1009, 1019, 1020, 1021, 1025, 1035, 1038, 1039, 1055, 1056, 1057, 1058, 1082, 1086, 1090, 1093, 1094, 1094, 1108
+- **supra** — 8 vez/veces — líneas: 1125, 1127, 1138, 1139, 1142, 1143, 1147, 1147
 - **Symbolae Osloenses** — 1 vez/veces — líneas: 1081
 - **symbolaí** — 1 vez/veces — líneas: 823
 - **symbólaiai díkai** — 1 vez/veces — líneas: 825
@@ -297,6 +303,7 @@
 - **The Outbreak of the Peloponnesian War** — 1 vez/veces — líneas: 912
 - **The Stones of Athens** — 1 vez/veces — líneas: 358
 - **The Structure of Thucydides History** — 1 vez/veces — líneas: 369
+- **Thoukydídou Xyngraphḗ** — 1 vez/veces — líneas: 1138
 - **Thoukydídēs Olórou** — 1 vez/veces — líneas: 148
 - **Thucydides** — 2 vez/veces — líneas: 277, 545
 - **Thucydides and the World War** — 1 vez/veces — líneas: 369

@@ -1,27 +1,17 @@
-=== 2025-05-15T17:26:05.412176 ===
+=== 2025-05-15T19:59:29.661013 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 3
-- Palabras con superíndice: 9
-- Líneas modificadas: 8
-- Total general: 12
+- Frases latinas corregidas: 1
+- Palabras con superíndice: 0
+- Líneas modificadas: 1
+- Total general: 1
 
-=== Conversiones a superíndice ===
-- atenienses560: 1 vez/veces
-- terremoto561: 1 vez/veces
-- hilotas562: 1 vez/veces
-- periecos563: 1 vez/veces
-- Turia564: 1 vez/veces
-- Etea565: 1 vez/veces
-- Itome566: 1 vez/veces
-- esclavitud567: 1 vez/veces
-- minas570: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 3
-- Palabras con superíndice: 9
-- Líneas modificadas: 8
-- Total general: 12
+- Frases latinas corregidas: 1
+- Palabras con superíndice: 0
+- Líneas modificadas: 1
+- Total general: 1
 
 ---
