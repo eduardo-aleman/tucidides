@@ -123,7 +123,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Calicrates**: I 29, 2,
 **Calirroe**: II 15, 5,
 **Cambises**: I 13, 6; 14, 2.
-**Caones**: IT 68, 9; 80, I; 80, 5;
+**Caones**: II 68, 9; 80, I; 80, 5;
 **Cércino**: II 23, 2.
 **Caria**: I 116, I; 116, 3; I 9, 4;
 **Carios**: I 4; 8, I; II 9, 4.
@@ -152,7 +152,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Calicrates**: I 29, 2,
 **Calirroe**: II 15, 5,
 **Cambises**: I 13, 6; 14, 2.
-**Caones**: IT 68, 9; 80, I; 80, 5;
+**Caones**: II 68, 9; 80, I; 80, 5;
 **Cércino**: II 23, 2.
 **Caria**: I 116, I; 116, 3; I 9, 4;
 **Carios**: I 4; 8, I; II 9, 4.
@@ -344,7 +344,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 ## G
 
 **Gerania**: I 105, 3; 107, 3; 108, 2.
-**Getas**: IT 96, I; 98, 4.
+**Getas**: II 96, I; 98, 4.
 **Gigono**: I 61, 5.
 **Girton**: I 22, 3.
 **Glaucén**: I 51, 4.
@@ -520,7 +520,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Orestes**: I 111, I. Pélope: I 9, 2.
 **Oropios**: II 23, 3. \Pelopidas: I 9, 2.
 **Oropo**: II 23, 3. : Peloponesio, Peloponesios: I I,
-**Oscio**: IT 96, 4, I; 9, 2; 12, 4; 23, 4: 36, 2-3;
+**Oscio**: II 96, 4, I; 9, 2; 12, 4; 23, 4: 36, 2-3;
 **Ozolos**: cf. Locros ozolos. 40, 5; 41, 2; 44, I-2; 53, 4;
 
 ## P
@@ -620,7 +620,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Sibota (islas)**: I 47, I; 54; I.
 **Sibota (puerto)**: I 50, 3; 52, I;
 **Sicilia**: I 12, 4; 14, 2; 17; 18,
-**Sicién**: IT 111, 2; II 80, 3.
+**Sicién**: II 111, 2; II 80, 3.
 **Sicionios**: I 28, I; 108, 5; 111,
 **Sinecias**: II 15, 2.
 **Sintos**: II 98, I-2.
