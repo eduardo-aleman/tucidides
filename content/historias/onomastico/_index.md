@@ -12,6 +12,7 @@ sidebar:
 draft: false
 description: "Índice alfabético de nombres mencionados en los libros primero y segundo, con referencias detalladas por libro y sección según la edición que usamos en este sitio."
 weight: 3
+draft: true
 ---
 Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torres Esbarranch. Libros I-II. España, Gredos, 1990.
 
@@ -129,7 +130,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Carios**: I 4; 8, I; II 9, 4.
 **Caristios**: I 98, 3.
 **Cartagineses**: I 13, 6.
-**Catalogo de las Naves**: I 10, 4.
+**Catálogo de las Naves**: I 10, 4.
 **Cauno**: I 116, 3.
 **Céadas**: I 134, 4,
 **Cecrifalia**: I 105, I.
@@ -158,7 +159,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Carios**: I 4; 8, I; II 9, 4.
 **Caristios**: I 98, 3.
 **Cartagineses**: I 13, 6.
-**Catalogo de las Naves**: I 10, 4.
+**Catálogo de las Naves**: I 10, 4.
 **Cauno**: I 116, 3.
 **Céadas**: I 134, 4,
 **Cecrifalia**: I 105, I.
@@ -178,7 +179,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Cirene**: I 110, I. I-3; 27, I-2; 28, 4-5; 29, I;
 **Ciro (hijo de Dario II)**: I 65, 29, 4-5; 30, I-3; 31, I; 31, 3;
 **Cirro**: II 100, 4. 3; 48, I; 48, 4; 49, 5-7; 50,
-**Citerén**: It 75, 2. I; 50, 3; 50, 5; 51, I-2; 52,
+**Citerén**: II 75, 2. I; 50, 3; 50, 5; 51, I-2; 52,
 **Citinio**: I 107, 2. I; 54, I-2; 55, I-2; 56, 2; 57,
 **Citio**: I 112, 3-4. 2; 57, 4; 58, I; 60, I; 66; 67,
 **Cleémbroto**: I 94, I; 107, 2; II 2; 67, 5; 72, I; 103, 4; 105,
@@ -294,7 +295,7 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Etolios**: I 5, 3.
 **Eubea**: I 23, 4; 87, 6; 98, 3; 114,
 **Eufamidas**: II 33, I.
-**EBumaco**: II 33, I:
+**Ebumaco**: II 33, I:
 **Eumolpo**: II 15, L.
 **Euribato**: I 47, I.
 **Eurimaco**: II 2, 3; 5, 7.
@@ -514,20 +515,22 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Onetéridas**: II 2, I. 115, I.
 **Opunte**: II 32. Pela: II 99, 4; 100, 4.
 **Opuntios**: cf. Locros opuntios, Pelargico: II 17, I.
-**Orcémeno (de Beocia)**: I 113, Pelasgos: I 3, 2.
+**Orcémeno (de Beocia)**: I 113. 
+**Pelasgo**s: I 3, 2.
 **Oredo**: II 80, 6. Peleneos: II 9, 3.
 **Orestas**: II 80, 6. Pélico: I 29, 2.
 **Orestes**: I 111, I. Pélope: I 9, 2.
-**Oropios**: II 23, 3. \Pelopidas: I 9, 2.
+**Oropios**: II 23, 3. 
+**Pelopidas**: I 9, 2.
 **Oropo**: II 23, 3. : Peloponesio, Peloponesios: I I,
-**Oscio**: II 96, 4, I; 9, 2; 12, 4; 23, 4: 36, 2-3;
-**Ozolos**: cf. Locros ozolos. 40, 5; 41, 2; 44, I-2; 53, 4;
+**Oscio**: II 96, 4, I; 9, 2; 12, 4; 23, 4: 36, 2-3.
+**Ozolos**: cf. Locros ozolos. 40, 5; 41, 2; 44, I-2; 53, 4.
 
 ## P
 
 **Pelene**: Ii 9, 2.
 **Palene**: I 56, 2; 64, I-3. 68, 4; 80, 3; 97, I; 105, I;
-**Paleos**: I 27, 2; II 30, 2. 105, 3; 109, 2; 112, I; 114,
+**Paleos**: I 27, 2; II 30, 2. 105, 3; 109, 2; 112, I; 114.
 **Palereos**: II 30, I. I-2; 115, I; 140, I; 141, 3;
 **Panateneas**: I 20, 2. 141, 6; 143, 3; 143, 5; D1;
 **Pandion**: II 29, 3. 9, 2; II, I; 12, 5; 13, I; 13,
@@ -536,17 +539,17 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Pangeo**: II 99, 3. 2; 54, 5; 58, I; 56, I; 56, 3;
 **Panormo (de Acaya)**: II 86, I; 56, 6; 57, I; $9, I; 65, 12-13;-
 **Paralo**: II 55, I. I; 76, 4; 77, I; 78, I; 80, 5;
-**Paraveos**: II 80, 6. 81, 2-3; 83, 5; 84, 5; 86, ft;
-**Parnes**: II 23, I. 86, 4; 86, 6; 87, I; 88, I; 89,
-**Patras**: II 83, 3; 84, 3; 84, 5. 10; 90, I; 90, 4-5; 91, I; 91,
-**Pausanias (hijo de Cle6mbroto)**: 4; 92, I; 92, 5; 93, I; 94, 3;
-**Peloponeso**: I 2, 3; 10, 2; 12,
+**Paraveos**: II 80, 6. 
+**Parnes**: II 23, I. 
+**Patras**: II 83, 3; 84, 3; 84, 5. 
+**Pausanias (hijo de Cleómbroto)**: 4; 92, I; 92, 5; 93, I; 94, 3.
+**Peloponeso**: I 2, 3; 10, 2; 12.
 **Peonia**: II 96, 3; 99, 4.
 **Peonios**: II 96, 3; 98, I-2.
-**Pérdicas**: I 56, 2; 57, 2; 57, 6;
-**Pericles**: I 141, 2; 114, I; 114,
+**Pérdicas**: I 56, 2; 57, 2; 57, 6.
+**Pericles**: I 141, 2; 114, I; 114.
 **Periecos**: I 101, 2.
-**Persa, Persas**: I 13, 6; 14, 2; 89,
+**Persa, Persas**: I 13, 6; 14, 2; 89.
 **Perseidas**: 9, 2.
 **Pidna**: I 61, 2-3; 137, I-2.
 **Pieres**: II 99, 3.
@@ -554,26 +557,26 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Pindo**: II 102, 2.
 **Pirasia**: IJ 22, 3.
 **Piraso**: II 22, 3.
-**Pireo**: I 93, 3; 93, 5; 93, 7; 107,
+**Pireo**: I 93, 3; 93, 5; 93, 7; 107.
 **Pisistrato**: I 20, 2.
 **Pisutnes**: I 115, 4-5.
 **Pitana**: I 20, 3.
 **Pitangelo**: II 2, I.
 **Pites**: II 29, I.
 **Pitio**: cf. Apolo Pitio.
-**Pitodoro**: Ii 2, L.
-**Piatea**: I 130, I; II 2, I; 2, 3;
-**Plateo, Plateos**: II 2, 2; 3, I-2;
+**Pitodoro**: II 2, 1.
+**Piatea**: I 130, I; II 2, I; 2, 3.
+**Plateo, Plateos**: II 2, 2; 3, I-2.
 **Plistarco**: I 132, I.
-**Plistoanacte**: I 107, 2; 114, 2;
+**Plistoanacte**: I 107, 2; 114, 2.
 **Policrates**: I 13, 6.
 **Poélide**: II 67, I.
-**Polimedes**: II 22,. 3.
+**Polimedes**: II 22, 3.
 **Polis**: I 15, 6.
-**Ponto Euxino**: II 96, I; 97, I;
+**Ponto Euxino**: II 96, I; 97, I.
 **Posidén**: I 128, I; II 84, 4.
-**Potidea**: I 57, 4: 59, I; 60, I;
-**Potideatas**: I 56, 2; 57, 6; 58,
+**Potidea**: I 57, 4: 59, I; 60, I.
+**Potideatas**: I 56, 2; 57, 6; 58.
 **Prasias (de Laconia)**: II 56, 6.
 **Pratodamo**: II 67, I.
 **Priene**: I 115, 2.
@@ -590,15 +593,15 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Queronea**: I 113, I.
 **Quersoneso**: I II, I.
 **Quimerio**: I 30, 3; 46, 3-4; 48, I.
-**Quios**: I 19; 116, I-2; 117, 2;
+**Quios**: I 19; 116, I-2; 117, 2.
 **Quiotas**: II 9, 4-5.
 
 ## R
 
 **Ranfias**: I 139, 3.
 **Renea**: I 13, 6.
-**Rio (de Acaya)**: II, 86, 3-4; 92,
-**Rio (de Molicrio)**: II 84, 4; 86,
+**Rio (de Acaya)**: II, 86, 3-4; 92.
+**Rio (de Molicrio)**: II 84, 4; 86.
 **Ritos**: II 19, 2.
 **Rodope**: II 96, I-2; 96, 4; 98, 4.
 
@@ -607,24 +610,24 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Senofonte**: II 70, I; 79, I.
 **Sabilinto**: II 80, 6.
 **Sadoco**: II 29, 5; 67, 2.
-**Salamina (batalla)**: I 73, 4; 137,
+**Salamina (batalla)**: I 73, 4; 137.
 **Salamina (de Chipre)**: I 112, 4.
 **Salamina (isla)**: II 93, 4; 94, I-4.
 **Sameos**: II 30, 2.
-**Samio, Samios**: I 13, 3; 40, 5:
-**Samos**: I 13, 3; 13, 6; 115, 2-4;
+**Samio, Samios**: I 13, 3; 40, 5.
+**Samos**: I 13, 3; 13, 6; 115, 2-4.
 **Sardes**: I 115, 4.
 **Sermilios**: I 65, 2.
 **Sesto**: I 89, 2.
 **Seutes**: II 97, 3; 101, 5-6.
 **Sibota (islas)**: I 47, I; 54; I.
-**Sibota (puerto)**: I 50, 3; 52, I;
-**Sicilia**: I 12, 4; 14, 2; 17; 18,
+**Sibota (puerto)**: I 50, 3; 52, I.
+**Sicilia**: I 12, 4; 14, 2; 17; 18.
 **Sicién**: II 111, 2; II 80, 3.
-**Sicionios**: I 28, I; 108, 5; 111,
+**Sicionios**: I 28, I; 108, 5; 111.
 **Sinecias**: II 15, 2.
 **Sintos**: II 98, I-2.
-**Sitalces**: II 29, I-2; 29, 4-5; 29,
+**Sitalces**: II 29, I-2; 29, 4-5; 29.
 **Sócrates**: II 23, 2.
 **Solio**: II 30, I.
 
@@ -635,24 +638,24 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Tasios**: I 100, 2; 101, I; 101, 3.
 **Tasos**: I 100, 2.
 **Taulantios**: I 24, I.
-**Teagenes (de Mégara)**: I 126, 3;
-**Tebanos**: I 27, 2; II 2, I-3; 3,
+**Teagenes (de Mégara)**: I 126, 3.
+**Tebanos**: I 27, 2; II 2, I-3; 3.
 **Tebas**: I 90, 2; II 5, 2.
 **Télide**: II 25, 2.
 **Teménidas**: II 99, 3.
-**Temistocles**: I 14, 3; 74, I; 90,
+**Temistocles**: I 14, 3; 74, I; 90.
 **Ténaro**: I 128, I; 133.
 **Tedlito**: II 102, I.
 **Tera**: II 9, 4.
 **Tereo**: II 29, 3.
-**Teres**: EI 29, I-3; 29, 7; 67, I;
+**Teres**: EI 29, I-3; 29, 7; 67, I.
 **Terme**: I 61, 2; II 29, 6,
 **Termépilas**: II 101, 2.
 **Tesalia**: I 2, 3; 111, I.
-**Tesalio, Tesalios**: I 12, 3; 102,
+**Tesalio, Tesalios**: I 12, 3; 102.
 **Tésalo**: I 20, 2.
 **Teseo**: II 15, I-2.
-**Tesproétide**: I 30, 3; 46, 3-4; 50,
+**Tesproétide**: I 30, 3; 46, 3-4; 50.
 **Tesprotos**: II 80, 5.
 **Tiamis**: I 46, 4.
 **Tierra**: II 15, 4.
@@ -661,27 +664,27 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 **Timanor**: II 29, 2.
 **Timantes**: I 29, 2.
 **Timécrates (corintio)**: II 33, I.
-**Timecrates (lacedemonio)**: II 85,
+**Timécrates (lacedemonio)**: II 85.
 **Timoéxeno**: II 33, I.
 **Tindareo**: I 9, I.
 **Tirea**: II 27, 2.
 **Tlepdlemo**: I 117, 2.
-**Tolmeo (padre de Télmides)**: I
+**Tolmeo (padre de Télmides)**: I.
 **Tolmides (ateniense)**: I 108, 5;
-**Tracia**: I 56, 2; 57, 5; 59, I; 60,
-**Tracio, Tracios**: I 100, 3; II 29,
+**Tracia**: I 56, 2; 57, 5; 59, I; 60.
+**Tracio, Tracios**: I 100, 3; II 29.
 **Tragia**: I 116, I.
 **Trecén**: I 115, I; II 56, 5.
 **Trecenios**: I 27, 2.
 **Treres**: II 96, 4.
-**Tria**: I 114, 2; II 19, 2; 20, 3;
+**Tria**: I 114, 2; II 19, 2; 20, 3.
 **Tribalos**: II 96, 4.
 **Tráde**: I 131, I.
 **Tronio**: II 26, 2.
-**Troya**: I 3, I; 3, 3-4; 8, 4; II,
+**Troya**: I 3, I; 3, 3-4; 8, 4; II.
 **Troyanos**: I II, I.
 **Tucídides (un ateniense)**: I 117, 2.
-**Tucídides (el historiador)**: I I,
+**Tucídides (el historiador)**: I I.
 **Turia**: I 101, 2.
 
 ## Y
@@ -691,8 +694,11 @@ Tucídides. _Historia de la guerra del Peloponeso_. Edición de Juan José Torre
 ## Z
 
 **Zacintios**: II 9, 4; 66, I.
-**Zacinto**: I 47, 2: 117, 3; 66, I; Zeus Miliquio: I 126, 6.
+**Zacinto**: I 47, 2: 117, 3; 66, I.
+**Zeus Miliquio**: I 126, 6.
 **Zeus Olímpico**: II 15, 4.
-**Zeus**: I 126, 4-5. Zeuxidamo: II 19, I; 47, 2; 71,
-**Zeus Itometa**: I 103, 2. I
-**Zeus Liberador**: II 71, 2. Zopiro: I 109, 3.
+**Zeus**: I 126, 4-5. 
+**Zeuxidamo**: II 19, I; 47, 2; 71.
+**Zeus Itometa**: I 103, 2. I.
+**Zeus Liberador**: II 71, 2. 
+**Zopiro**: I 109, 3.
