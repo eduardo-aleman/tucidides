@@ -989,6 +989,7 @@ Anaxándridas (560–520)
  └── Cleómenes
 ```
 -->
+
 <div class="mermaid">
 graph TD
  A[Anaxándridas 560–520]
