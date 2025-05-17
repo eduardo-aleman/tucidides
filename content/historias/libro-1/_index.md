@@ -511,25 +511,24 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 18. Sobre la colonización de Asia Menor, cf. *infra*, I 12, 4, y HERÓDOTO, I 142-148. Sobre el origen ateniense de los jonios de las Cícladas y de Asia Menor, cf. *infra*, VII 57, 4, y HERÓDOTO, I 146-147; V 97, 2; VII 51, 2; VIII 46, 2-3; IX 106, 3. La propaganda política insistía en el liderazgo de Atenas sobre los jonios.
 19. Acontecimiento que se toma con frecuencia como punto de referencia. Según las principales fuentes cronológicas, su fecha fue el 1184 a. C. (cf. *infra*, I 12, 3, n. 83). Tucídides la colocaba en torno al 1200, o hacia mediados del siglo XIII a. C. , según otros.
 20. *Hellás*, «Hélade». *Hellás* fue, originariamente, una zona de Tesalia, próxima a Ftía, que se hallaba bajo el dominio de Aquiles. Cf. Ilíada IX 395.
-21. Deucalión era un héroe, hijo de Prometeo, que se casó con Pirra, hija de Epimeteo y de Pandora, la primera mujer. Deucalión y Pirra fueron los únicos supervivientes del diluvio con el que Zeus decidió castigar a los hombres. Por consejo de Prometeo, construyeron un arca en la que flotaron durante nueve días y nueve noches salvándose del diluvio. Se establecieron luego en Tesalia, donde reinaron sobre los primeros hombres que, tras el diluvio, surgieron de las piedras —los huesos de la Tierra— que Deucalión y Pirra lanzaron por orden de Zeus. Uno de sus hijos fue Helén, mítico fundador de los helenos, de cuyos hijos, Doro, Eolo y Juto, descienden los dorios, eolios, jonios y aqueos. (Cf. DIODORO, IV 60, 2; APOLODORO, I 7, 2–3. ) He aquí el árbol genealógico de esta familia mítica:
+21. Deucalión era un héroe, hijo de Prometeo, que se casó con Pirra, hija de Epimeteo y de Pandora, la primera mujer. Deucalión y Pirra fueron los únicos supervivientes del diluvio con el que Zeus decidió castigar a los hombres. Por consejo de Prometeo, construyeron un arca en la que flotaron durante nueve días y nueve noches salvándose del diluvio. Se establecieron luego en Tesalia, donde reinaron sobre los primeros hombres que, tras el diluvio, surgieron de las piedras —los huesos de la Tierra— que Deucalión y Pirra lanzaron por orden de Zeus. Uno de sus hijos fue Helén, mítico fundador de los helenos, de cuyos hijos, Doro, Eolo y Juto, descienden los dorios, eolios, jonios y aqueos. (Cf. DIODORO, IV 60, 2; APOLODORO, I 7, 2–3.) He aquí el árbol genealógico de esta familia mítica:
 
- <div class="mermaid">
- graph TD
- A[Deucalión = Pirra]
- A --> B[Helén = Orseida]
- A --> C[Melancia]
- A --> D[Anfictión]
- A --> E[Protogenia]
- B --> F[Doro]
- B --> G[Juto - Creúsa]
- B --> H[Eolo]
- G --> I[Diomede]
- G --> J[Aqueo]
- G --> K[Ión]
- </div>
+    <div class="mermaid">
+    graph TD
+      A[Deucalión = Pirra]
+      A --> B[Helén = Orseida]
+      A --> C[Melancia]
+      A --> D[Anfictión]
+      A --> E[Protogenia]
+      B --> F[Doro]
+      B --> G[Juto - Creúsa]
+      B --> H[Eolo]
+      G --> I[Diomede]
+      G --> J[Aqueo]
+      G --> K[Ión]
+    </div>
 
- En la interpretación del mito que nos ofrece Tucídides es de destacar la idea de que el nombre de helenos se difundió debido a la fuerza de Helén y sus hijos. Un nombre se difundía igual que se extendían los dominios, debido a la fuerza. No se dan pruebas. Solo está la afirmación de que la difusión del nombre debió de producirse porque Helén y sus hijos se hicieron poderosos. El poderío de Helén se infiere de la difusión de su nombre, y subyace la idea de la fuerza como elemento determinante de la historia.
-
+    En la interpretación del mito que nos ofrece Tucídides es de destacar la idea de que el nombre de helenos se difundió debido a la fuerza de Helén y sus hijos. Un nombre se difundía igual que se extendían los dominios, debido a la fuerza. No se dan pruebas. Solo está la afirmación de que la difusión del nombre debió de producirse porque Helén y sus hijos se hicieron poderosos. El poderío de Helén se infiere de la difusión de su nombre, y subyace la idea de la fuerza como elemento determinante de la historia.
 22. Con los nombres de pelasgos, léleges y carios se conocía a los primitivos habitantes de las tierras que luego fueron ocupadas por los griegos o helenos. Estos pueblos, antes de la llegada de los griegos, se extenderían por toda Grecia, y los pelasgos, en concreto, según los testimonios de Homero (cf. *Ilíada* II 681-684 y 840-843) y de Heródoto, estarían situados preferentemente en las regiones septentrionales, de donde se verían obligados a emigrar al producirse las invasiones de los grupos indoeuropeos. Heródoto (I 56-58) los consideraba autóctonos e indicaba que su lengua no era griega; los pueblos autóctonos pelásgicos, como era el caso de los atenienses, que luego se convirtieron en griegos, cambiaron sin duda de lengua (cf. HERÓDOTO, I 57, 2-3; VIII 44). Una vez instalados los helenos y ya helenizada la población autóctona ateniense, los pelasgos no asimilados quedarían como grupos marginales; tal sería el caso de los que se instalaron en Lemnos tras ser expulsados del Ática por los atenienses, pelasgos que realizarían incursiones contra el Ática y sobre los que se organizaría una campaña propagandística a mediados del siglo V a. C. para justificar la toma de Lemnos por Milcíades (cf. HERÓDOTO, VI 137-140; E. LUPPINO, «I Pelasgi e la propaganda política del V secolo a. C. », *Contributi dell'Istituto di Storia Antica* I [1972], 71-77). De todas formas, el planteamiento de Heródoto del problema pelásgico es, por lo menos, algo complicado (cf. HERÓDOTO, I 56-58; 146, 1; II 51-52; VI 137-140; VII 94-95; VIII 44). Su identificación histórica no es segura, y ya Éforo en el siglo IV a. C. señalaba que los nombres de estos pueblos eran términos imprecisos que servían para designar a distintos grupos que habitaban en la cuenca del Egeo cuando llegaron los griegos. Tucídides no profundiza en el complejo problema de los pelasgos y se limita a considerarlos como la población más numerosa y extendida de la Grecia prehelénica. Sobre esta cuestión, cf. F. LOCHNER VON HÜTTENBACH, *Die Pelasger*, Múnich, 1960, y la reseña de G. NEUMANN, *Gnomon* 34 (1962), 370-374.
 23. Región situada al sudeste de Tesalia, en la que se encontraba Ftía, la patria de Aquiles.
 24. Cf. HERÓDOTO, II 53. Según Heródoto, Homero y Hesíodo fueron contemporáneos y vivieron a mediados del siglo IX a. C.
