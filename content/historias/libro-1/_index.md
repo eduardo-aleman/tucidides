@@ -1249,15 +1249,15 @@ de Corinto, junto a la actual Alepochōri.
 
 ## 109-110. Derrota de los atenienses en Egipto
 
-Entretanto los atenienses y sus
-aliados que se encontraban en Egipto<sup>644</sup> permanecían todavía allí,
-afrontando una guerra de muy diversa suerte<sup>645</sup>. [2] Al principio los atenienses se hicieron los dueños de Egipto, y el Rey<sup>6</sup>
+Entretanto los atenienses y sus aliados que se encontraban en Egipto<sup>644</sup> permanecían todavía allí, afrontando una guerra de muy diversa suerte<sup>645</sup>. [2] Al principio los atenienses se hicieron los dueños de Egipto, y el Rey<sup>646</sup>...
 
 ### Notas de Juan José Torres Esbarranch
 
 644. Cf. *supra*, I 104, 2.
 645. Según el escoliasta, batallas navales y terrestres, victorias y derrotas.
 646. Cf. *supra*, nn. 132 y 590.
+
+...
 
 <!-- ḗ ṓ ỳ -->
 
