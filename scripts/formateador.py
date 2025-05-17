@@ -20,8 +20,13 @@ PHRASE_PATTERNS = {
 }
 
 simple_pattern = re.compile(rf"(?<!\*)\b({'|'.join(SIMPLE_WORDS)})\b([.,;:]?)(?!\*)")
-phrase_wrappers = {p: re.compile(rf"(?<!\*)\b{ptn}\b(?!\*)") for p, ptn in PHRASE_PATTERNS.items()}
-phrase_spacings = {p: re.compile(rf"\*\s*{ptn}\s*\*") for p, ptn in PHRASE_PATTERNS.items()}
+phrase_wrappers = {
+    p: re.compile(rf"(?<!\*)\b{ptn}\b([ \t]*[.,;:])?(?!\*)")
+    for p, ptn in PHRASE_PATTERNS.items()
+}
+phrase_spacings = {
+    p: re.compile(rf"\*\s*{ptn}\s*\*") for p, ptn in PHRASE_PATTERNS.items()
+}
 inline_number_pattern = re.compile(r'([A-Za-zÁÉÍÓÚÜüáéíóúñÑ]+)(\d{1,4})([.,;:]?)')
 after_punctuation_pattern = re.compile(r'([»”’\)\]])(\d{1,4})([.,;:]?)')
 
@@ -48,7 +53,7 @@ def procesar_texto(texto):
         if ya_en_cursiva(texto, start, end):
             return match.group(0)
         frase_counter[palabra] += 1
-        return f'*{palabra}*{punct}'
+        return f'*{palabra}*{punct or ""}'
 
     texto = simple_pattern.sub(reemplazar_simple, texto)
 
@@ -58,13 +63,19 @@ def procesar_texto(texto):
         texto = fixer.sub(f'*{frase}*', texto)
 
     for frase, detector in phrase_wrappers.items():
-        def reemplazar_frase(match):
-            start, end = match.span()
-            if ya_en_cursiva(texto, start, end):
-                return match.group(0)
-            frase_counter[frase] += 1
-            return f'*{frase}*'
-        texto = detector.sub(reemplazar_frase, texto)
+        def make_reemplazo(f):
+            def reemplazar_frase(match):
+                raw_punct = match.group(1) or ''
+                punct = raw_punct.strip()
+                start, end = match.span(0)
+                palabra_fin = end - len(raw_punct)
+                if ya_en_cursiva(texto, start, palabra_fin):
+                    return match.group(0)
+                frase_counter[f] += 1
+                return f'*{f}{punct}*'
+            return reemplazar_frase
+
+        texto = detector.sub(make_reemplazo(frase), texto)
 
     def reemplazar_palabra_numero(match):
         palabra, numero, puntuacion = match.groups()
