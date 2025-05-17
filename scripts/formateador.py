@@ -19,9 +19,9 @@ PHRASE_PATTERNS = {
     "e.g.": r"e\.g\."
 }
 
-simple_pattern = re.compile(rf"(?<!_)\b({'|'.join(SIMPLE_WORDS)})\b([.,;:]?)(?!_)")
-phrase_wrappers = {p: re.compile(rf"(?<!_)\b{ptn}\b(?!_)") for p, ptn in PHRASE_PATTERNS.items()}
-phrase_spacings = {p: re.compile(rf"_\s*{ptn}\s*_") for p, ptn in PHRASE_PATTERNS.items()}
+simple_pattern = re.compile(rf"(?<!\*)\b({'|'.join(SIMPLE_WORDS)})\b([.,;:]?)(?!\*)")
+phrase_wrappers = {p: re.compile(rf"(?<!\*)\b{ptn}\b(?!\*)") for p, ptn in PHRASE_PATTERNS.items()}
+phrase_spacings = {p: re.compile(rf"\*\s*{ptn}\s*\*") for p, ptn in PHRASE_PATTERNS.items()}
 inline_number_pattern = re.compile(r'([A-Za-zÁÉÍÓÚÜüáéíóúñÑ]+)(\d{1,4})([.,;:]?)')
 after_punctuation_pattern = re.compile(r'([»”’\)\]])(\d{1,4})([.,;:]?)')
 
@@ -38,23 +38,33 @@ def excluir_fecha(texto, pos):
     contexto = texto[max(0, pos - 100):pos].lower()
     return bool(re.search(r'\b(año|años)\s*(\d{1,4})?\b', contexto))
 
+def ya_en_cursiva(texto, start, end):
+    return texto[max(0, start - 1)] == '*' and texto[min(len(texto) - 1, end)] == '*'
+
 def procesar_texto(texto):
     def reemplazar_simple(match):
         palabra, punct = match.groups()
+        start, end = match.span(1)
+        if ya_en_cursiva(texto, start, end):
+            return match.group(0)
         frase_counter[palabra] += 1
-        return f'_{palabra}_{punct}'
+        return f'*{palabra}*{punct}'
 
     texto = simple_pattern.sub(reemplazar_simple, texto)
 
     for frase, fixer in phrase_spacings.items():
         if fixer.search(texto):
             frase_counter[frase] += 1
-        texto = fixer.sub(f'_{frase}_', texto)
+        texto = fixer.sub(f'*{frase}*', texto)
 
     for frase, detector in phrase_wrappers.items():
-        if detector.search(texto):
+        def reemplazar_frase(match):
+            start, end = match.span()
+            if ya_en_cursiva(texto, start, end):
+                return match.group(0)
             frase_counter[frase] += 1
-        texto = detector.sub(f'_{frase}_', texto)
+            return f'*{frase}*'
+        texto = detector.sub(reemplazar_frase, texto)
 
     def reemplazar_palabra_numero(match):
         palabra, numero, puntuacion = match.groups()
@@ -133,10 +143,17 @@ def process_file(file_path):
         log.write(f"=== {datetime.now().isoformat()} ===\n")
         log.write(f"Archivo: {file.name}\n\n")
         log.write(generar_resumen_total(lineas_modificadas) + "\n\n")
+
+        if frase_counter:
+            log.write("=== Frases latinas corregidas ===\n")
+            for frase, cuenta in frase_counter.most_common():
+                log.write(f"- *{frase}*: {cuenta} vez/veces\n")
+
         if superscript_counter:
-            log.write("=== Conversiones a superíndice ===\n")
+            log.write("\n=== Conversiones a superíndice ===\n")
             for entrada, cuenta in superscript_counter.most_common():
                 log.write(f"- {entrada}: {cuenta} vez/veces\n")
+
         log.write("\n" + generar_resumen_total(lineas_modificadas) + "\n")
         log.write("\n---\n")
 

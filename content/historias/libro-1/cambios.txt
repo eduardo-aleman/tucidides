@@ -1,34 +1,38 @@
-=== 2025-05-15T20:51:44.836362 ===
+=== 2025-05-16T18:24:43.411158 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 19
-- Palabras con superíndice: 16
-- Líneas modificadas: 13
-- Total general: 35
+- Frases latinas corregidas: 21
+- Palabras con superíndice: 15
+- Líneas modificadas: 42
+- Total general: 36
+
+=== Frases latinas corregidas ===
+- *supra*: 14 vez/veces
+- *infra*: 6 vez/veces
+- *op. cit.*: 1 vez/veces
 
 === Conversiones a superíndice ===
-- época612: 1 vez/veces
-- Pireo613: 1 vez/veces
-- focenses614: 1 vez/veces
-- Dóride615: 1 vez/veces
-- Eríneo616: 1 vez/veces
-- Nicomedes617: 1 vez/veces
-- Cleómbroto618: 1 vez/veces
-- Plistoanacte619: 1 vez/veces
-- aliados620: 1 vez/veces
-- Crisa621: 1 vez/veces
-- Pegas622: 1 vez/veces
-- Gerania623: 1 vez/veces
-- secreto624: 1 vez/veces
-- fuerzas625: 1 vez/veces
-- democracia626: 1 vez/veces
-- alianza627: 1 vez/veces
+- Tanagra628: 1 vez/veces
+- árboles630: 1 vez/veces
+- istmo631: 1 vez/veces
+- batalla632: 1 vez/veces
+- Mirónides633: 1 vez/veces
+- Enófita634: 1 vez/veces
+- Beocia635: 1 vez/veces
+- Fócide636: 1 vez/veces
+- opuntios637: 1 vez/veces
+- Largos638: 1 vez/veces
+- atenienses639: 1 vez/veces
+- Tólmides640: 1 vez/veces
+- lacedemonios641: 1 vez/veces
+- corintios642: 1 vez/veces
+- sicionios643: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 19
-- Palabras con superíndice: 16
-- Líneas modificadas: 13
-- Total general: 35
+- Frases latinas corregidas: 21
+- Palabras con superíndice: 15
+- Líneas modificadas: 42
+- Total general: 36
 
 ---
