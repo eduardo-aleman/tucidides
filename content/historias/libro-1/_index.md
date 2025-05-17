@@ -1224,7 +1224,15 @@ de Corinto, junto a la actual Alepochōri.
 
 ## 108. Batallas de Tanagra y de Enófita. Expediciones atenienses. Atenas acaba sus Muros Largos
 
+La batalla se libró en Tanagra628 de Beocia; vencieron los lacedemonios y sus aliados, pero la matanza fue grande en ambos bandos 629. Luego los lacedemonios penetraron en la Megáride, y, después de talar los árboles630, volvieron a su patria a través
+
+
 ### Notas de Juan José Torres Esbarranch
+
+628. Ciudad situada al sudeste de Beocia, cerca de la frontera con el Ática y no lejos del mar. La batalla de Tanagra tuvo lugar hacia junio del 457, según los cálculos de A. W. GOMME; en junio del 458, según *ATL*, y en primavera del 458, de acuerdo con la cronología de R. K. Unz.
+629. Se atribuyó la victoria a los lacedemonios seguramente por la circunstancia de que quedaran dueños del campo de batalla (cf. supra, I 30, 1, n. 216). Los hechos, sin embargo, demuestran que el resultado debió de ser equilibrado. Esparta no intentó la invasión del Ática, como esperaban los elementos filoespartanos (cf. supra, I 107, 4, n. 624), y Atenas tuvo capacidad para reaccionar rápidamente (108, 2-3). La tradición ateniense, además, pretendía que el resultado había sido indeciso (cf. PLATÓN, *Menéxeno* 242a; DIODORO, XI 80). Sobre esta batalla existen dos documentos epigráficos: ef. R. MEIGGS, D. LEWIS, *A selection of Greek historical inscriptions to the end of the fifth century b. C.*, Oxford, 1969, 35 y 36 (cf. PAUSANIAS, I 29, 7-9; V 10, 4).
+630. Se refiere probablemente a olivos y vides, lo que obviamente suponía un daño muy serio.
+631. Sin duda, los atenienses, ante la situación de peligro para su territorio, se habían preocupado de Mégara y del istmo.
 
 <!-- ḗ ṓ ỳ -->
 
