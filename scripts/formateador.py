@@ -11,7 +11,6 @@ frase_counter = Counter()
 
 SIMPLE_WORDS = ["infra", "supra", "ibid", "passim", "circa"]
 PHRASE_PATTERNS = {
-    "op. cit.": r"op\. cit\.",
     "et al.": r"et al\.",
     "s.v.": r"s\.v\.",
     "loc. cit.": r"loc\. cit\.",

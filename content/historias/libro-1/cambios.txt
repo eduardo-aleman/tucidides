@@ -1,33 +1,20 @@
-=== 2025-05-16T19:48:00.384471 ===
+=== 2025-05-17T14:04:53.413005 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 10
-- Palabras con superíndice: 10
-- Líneas modificadas: 35
-- Total general: 20
+- Frases latinas corregidas: 30
+- Palabras con superíndice: 0
+- Líneas modificadas: 142
+- Total general: 30
 
 === Frases latinas corregidas ===
-- *supra*: 7 vez/veces
-- *infra*: 2 vez/veces
-- *op. cit.*: 1 vez/veces
-
-=== Conversiones a superíndice ===
-- Megabazo647: 1 vez/veces
-- Egipto648: 1 vez/veces
-- Megabizo649: 1 vez/veces
-- Zópiro650: 1 vez/veces
-- ejército651: 1 vez/veces
-- Prosopitis652: 1 vez/veces
-- pereció655: 1 vez/veces
-- empalado657: 1 vez/veces
-- Mendes658: 1 vez/veces
-- Egipto659: 1 vez/veces
+- *supra*: 16 vez/veces
+- *infra*: 14 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 10
-- Palabras con superíndice: 10
-- Líneas modificadas: 35
-- Total general: 20
+- Frases latinas corregidas: 30
+- Palabras con superíndice: 0
+- Líneas modificadas: 142
+- Total general: 30
 
 ---
