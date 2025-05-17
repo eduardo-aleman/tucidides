@@ -793,6 +793,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 281. Islas pequeñas situadas en el canal entre el sur de Corcira y la Tesprotia, muy cerca de la costa continental (cf. *infra*, I 54, 1). Actualmente conservan en su conjunto el nombre antiguo, y separadamente la occidental recibe el nombre de Mavron Oros o el de Síbota, y la oriental el de Hagios Nikólaos; están deshabitadas y por su extremo sur están casi unidas formando entre ellas una bahía, que podía servir de refugio para una flota; hay otro fondeadero al este de Hagios Nikólaos, y en el continente, al sudeste de las islas, está Puerto Mourtzo, con el que se puede identificar el puerto de Síbota, que también aparece en este relato (cf. *infra*, I 50, 3; 52, 1; 54, 1-2). La batalla naval que se narrará a continuación tuvo lugar entre las islas de Síbota y Leucimna, promontorio de Corcira.
 
 <!-- MISSING -->
+<!-- ḗ ṓ ỳ -->
 
 286. Las naves atenienses estaban situadas en el flanco derecho, a continuación del ala derecha de los corcireos, precisamente el ala que protegía Corcira, lo que era en realidad la misión de los navíos atenienses. Estaban allí como una fuerza de reserva para un eventual apoyo. Las naves corcireas se distribuyeron en tres divisiones constituyendo ellas solas el centro y las dos alas de la escuadra. Frente al ala derecha corcirea y a los navíos atenienses se situaron los corintios con las naves más marineras.
 287. La distribución por el lado corintio, con la separación de aliados y corintios, lleva a pensar en una formación desequilibrada: 39 barcos en el ala derecha, 21 en el centro, y 90 en la izquierda (cf. *supra*, 46, 1; *infra*, I 49, 6). Parece improbable y, puesto que dice que los corintios ocupaban el ala izquierda «con las naves más marineras», puede fácilmente pensarse que el resto de las naves corintias estaban en el centro con los otros aliados en una disposición más equilibrada.
@@ -832,6 +833,7 @@ Tucídides. *Historia de la guerra del Peloponeso*. Edición de Juan José Torr
 330. Los manuscritos dicen: «y otros diez estrategos»; pero se suele pensar en una corrupción del texto, dado que no se tiene noticia de ninguna expedición que fuese dirigida por once estrategos. Sólo había diez. La mayoría de los editores han pensado en una confusión en la cifra, lo que no tiene nada de extraño (aquí se trataría de una entre A = 10 (sistema ático) y 4 = 4 (sistema milesio)). Algunos, sin embargo, para conservar la cifra «diez», han supuesto que entrarían en la cuenta comandantes asimilados a los estrategos sin que realmente lo fueran. Para Steup el mismo carácter inhabitual de la expresión le hace pensar en su autenticidad. Pero generalmente se sustituye el «diez» por el «cuatro».
 
 <!-- MISSING -->
+<!-- ḗ ṓ ỳ -->
 
 
 369. Era una práctica normal en los asedios que los sitiadores levantaran una fortificación frente a la ciudad asediada para bloquearla y para protegerse contra posibles salidas de las tropas sitiadas; incluso podía ser doble si se pensaba en la posibilidad de que la ciudad asediada recibiera ayudas del exterior. Cf. *infra*, II 78, 1-2.
@@ -1173,3 +1175,5 @@ los hechos con los que acaba este capítulo.
 657. No inmediatamente, sino cinco años después, según Ctesias (cf. F. JACOBY, *FGrHist* 688, F 14), y debido a la violación por parte de Artajerjes del tratado acordado por Megabizo, que le había prometido la vida. Esta afrenta del Rey (cf. *supra*, n. 649) motivó al parecer la rebelión de Megabizo en Siria (450 a. C.), hecho que se ha relacionado con la expedición de Cimón a Chipre (cf. capítulo siguiente).
 658. La boca mendesia, que pasaba por Mendes, era uno de los brazos orientales del delta del Nilo. Cf. HERÓDOTO, II 17; PÍNDARO, fr. 201 (Schroeder).
 659. Después de los éxitos en el norte, interesaba minar el poder persa por el sur. De ahí el interés de Atenas por Egipto, que, por otra parte, era un suministrador de grano y un importante mercado. La campaña, sin embargo, concluyó en un fracaso, que nos hace pensar en el desastre de la expedición de Sicilia, de la que Tucídides nos ha dejado un admirable relato en los libros VI y VII. En el mismo año del fracaso de la expedición ateniense a Egipto, en el 454, la caja de la Liga que se guardaba en Delos fue trasladada a Atenas; se temía el avance de la flota persa.
+
+<!-- ḗ ṓ ỳ -->
