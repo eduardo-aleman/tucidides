@@ -10,4 +10,4 @@ weight: 16
 ---
 <br>
 
-<iframe src="/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
+<iframe src="/tucidides/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
