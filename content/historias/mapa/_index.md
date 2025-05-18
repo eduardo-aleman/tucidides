@@ -8,8 +8,6 @@ sidebar:
   open: true
 weight: 16
 ---
+<br>
 
-<iframe src="/mapas/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
-
-
-mapa_interactivo_tucidides_libro_1.html
+<iframe src="/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
