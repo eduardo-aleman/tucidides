@@ -1218,7 +1218,7 @@ de Corinto, junto a la actual Alepochōri.
 664. La ciudad más importante de la Ftiótide, uno de los cuatro distritos en que se dividía Tesalia. Estaba situada en la zona meridional de la llanura tesalia, al sur del río Enipeo, en la ruta que desde Grecia Central se dirigía hacia el norte. Era la patria de Equécrates y Orestes.
 665. Probablemente hacia el 454 a. C., según las cronologías tradicionales, no exentas tampoco de problemas en estos capítulos (109-112). Sobre ello, cf. el reciente artículo de R. K. Unz al que nos hemos referido, donde se plantean algunos problemas respecto a las secuencias cronológicas de dichos capitulos y se sugieren algunas hipótesis que modifican fechas tradicionalmente aceptadas. Según Unz, el relato tucidideo en estas síntesis no sería estrictamente cronológico, sino que, al presentar algunos temas en forma resumida, se producirían anticipaciones; basándose en ello, defiende la vuelta del exilio de Cimón en el año 454, en conexión con el desastre de Egipto, y anticipa algunas fechas importantes (cf. R. K. UNZ, art. cit., *C.Q.* 36 (1986), 76-84) como estas expediciones a Tesalia y a Sición, que serían anteriores en tres años al tratado de cinco años y a la expedición de Cimón a Chipre, que a su vez son anticipados por Unz al 454-453.
 666. Sobre Pegas, cf. *supra*, I 103, 4; 107, 3. Esta flota era, según Plutarco, 19, 2, de cien trirremes; según DIODORO, XI 85, de cincuenta.
-667. Este es el primer pasaje en que Tucidides menciona al gran estadista ateniense que estuvo al frente de la política de Atenas durante más de treinta años. Cf. R. SEALEY, «The Entry of Pericles into History», *Hermes* 84 (1965), 234 ss.
+667. Este es el primer pasaje en que Tucídides menciona al gran estadista ateniense que estuvo al frente de la política de Atenas durante más de treinta años. Cf. R. SEALEY, «The Entry of Pericles into History», *Hermes* 84 (1965), 234 ss.
 668. Jantipo había estado al frente de las tropas atenienses en la batalla de Micale y de las fuerzas que a continuación asediaron y tomaron Sesto (cf. *supra*, I 89, 2; HERÓDOTO, VI 131; VIII 131; IX 114; 115 ss).
 669. En Nemea, según PLUTARCO, 19, 2; pero posiblemente se refiere al curso bajo del río Nemea, que señalaba el límite entre los territorios de Corinto y Sición, puesto que Nemea se encontraba en el interior.
 670. De Acaya, región de la costa norte del Peloponeso que se exten- día por el oeste hasta el territorio de Sición. En el 431, al comienzo de la guerra, los aqueos eran neutrales a excepción de Pelene, que se alineó con los peloponesios. Luego todos se unieron a la Liga del Peloponeso (cf. *infra*, II 9, 2).
@@ -1247,6 +1247,34 @@ de Corinto, junto a la actual Alepochōri.
 693. Eubea se sublevó contra Atenas el año siguiente (cf. *infra*, I 114, 1). Los exiliados debían ser oligarcas y propietarios de terrenos expropiados, cuando, unos años antes, el mismo Tólmides habia establecido una cleruquía en Eubea (cf. DIODORO, XI 88, 3; PAUSANIAS, 1 27, 5).
 694. Localidad situada al sudoeste del lago Copais, al sudeste de Queronca.
 695. Entre éstos se encontraba Tólmides (cf. PLUTARCO, *Pericles* 18, 3; DIODORO, XII 6, 2; PAUSANIAS, I 29, 14).
+696 Excepto Platea, que permaneció aliada a Atenas. Cf. infra, II
+2, 1.
+697. Así acabó el intento ateniense de controlar Beocia, un proyecto ambicioso que fue criticado en la misma Atenas (cf. PLUTARCO, *Pericles* 18, 1-3). En cuanto al término « autónomos», se ha dicho que en este pasaje se refiere a una independencia completa (cf. A. W. GOMME, *op. cit.* I, pág. 340); esto es así si se entiende en relación a Atenas, pero no referido a Tebas, que controlaba la federación beocia (cf. *infra*, I 144, 2, n. 936).
+698. Tucídides, que en el capítulo anterior nos ha dicho que los exiliados de Eubea ayudaban a los beocios, no nos indica los motivos de la sublevación de Eubea. Puede pensarse en los clerucos establecidos por Tólmides con las expropiaciones que ello comportaba (cf. *supra*, I 113, 2, n. 693). De todas formas, el dominio ateniense iba provocando descontentos. El levantamiento debió de producirse después de la primavera del 446 a. C., porque este año las ciudades euboicas pagaron regularmente el tributo (cf. A. W. GOMME, *op. cit.* I, pág. 340).
+699. Mégara se había unido a Atenas separándose de los lacedemonios (cf. *supra*, I 103, 4). Ahora cambiaba de nuevo sus alianzas y ponía en un aprieto a las guarniciones atenienses. Atenas debió de enviar tropas para reconquistar Pegas (cf. *infra*, I 115, 1; IV 21, 3; DIODORO, XII 5, 2). Una inscripción que se relaciona con estos hechos se refiere a una marcha de tropas atenienses desde Pegas hasta el Ática pasando por Beocia (cf. R. MEIGGS, D. LEWES, *op. cit.* 51).
+700. Sobre Nisea, cf. *supra*, I 103, 4, n. 584.
+701. En la costa, al noroeste de Atenas, y en el camino que conducía hacia Mégara.
+702. Al este de Eleusis, en una llanura que llega hasta el monte Egaleo (cf. *infra*, II 19, 2).
+703. Cf. *supra*, I 94, 1, n. 512; 107, 2, n. 619.
+704. A raíz de esta retirada, Plistoanacte fue acusado de haberse dejado sobornar por los atenienses (cf. *infra*, II 21; PLUTARCO, *Pericles* 22, 2-3).
+705. Con 50 trirremes y 5.000 hoplitas, según PLUTARCO, *Pericles* 23, 3. Cf., asimismo, DIODORO, XII 7.
+706. Recuperaron el pleno control de Eubea y pactaron una serie de tratados con sus diversas ciudades, acuerdos que reducían sensiblemente su autonomía (cf. R. MEIGOS, D. LEWIS, *op. cit.* 52; *Inscriptiones Graecae* I<supr>3</sup>, 39 y 40). En el caso de Hestiea establecieron una colonia propia expulsando a sus habitantes, que se refugiaron en Macedonia, según Teopompo (cf. F. JACOBY, *FGrHist* 115, F 387; cf., asimismo, PLUTARCO, *Pericles* 23, 4; DIODORO, XII 22, 1-2).
+707. Hestiea, que luego se llamó Oreo (cf. *infra*, VII 57, 2, y VIII 95, 7), se hallaba en la costa septentrional de Eubea.
+708. La represión de Eubea y el envio de clerucos fue objeto de muchas alusiones en la escena. Cf. ARISTÓFANES, *Nubes* 211-213;* Avispas* 715.
+709. La invasión de Plistoanacte tuvo lugar en el verano del 446; la sumisión de Eubea, en el otoño-comienzos de invierno del 446-445; y a continuación el regreso de Eubea y la conclusión de la paz.
+710. A este tratado de treinta años se alude repetidamente a lo largo del libro I (cf. 23, 4; 35, 2; 44, 1; 45, 3; 67, 4; 78, 4; 87, 6; 144, 2), y puede fecharse con precisión a partir de TUCÍDIDES, I 87, 6, y II 2, 1, pasajes en que se relaciona la fecha de este tratado con el inicio de las hostilidades. Según ello, la paz se estipuló en el invierno del 446-445, concretamente a comienzos del 445.
+711. De aquí se deduce que Atenas todavía controlaba los dos puertos megareos; cf. *supra*, I 114, 1; n. 699.
+712. Cf. *supra*, I 27, n. 200.
+713. Cf. *supra*, I 111, 3, n. 670.
+714. La principal preocupación espartana era indudablemente alejar a los atenienses de las bases peloponesias. Respecto a otras cláusulas del tratado, cf. I 35, 3; 44, 1; 67, 2, 4; 78, 4; 144, 2.
+715. En el 441-440 a. C.
+716. Mileto estaba situada en la costa de Asia Menor, al sudeste de la isla de Samos. Priene estaba al norte de Mileto, en la costa del Golfo Latmiaco, en la zona limítrofe entre el territorio de Mileto y el ocupado por Samos en el continente enfrente de la isla (cf. ESTRABÓN, XIV 1, 20). Sobre esta guerra de Priene, fechada en el 441 a. C., cf. A. W. GOMME, *op. cit.* I, págs. 349-350.
+717. PLUTARCO (*Pericles* 24, 2; 25, 1) se refiere a las habladurías de Atenas según las cuales Aspasia, mitesia de nacimiento, influyó en Pericles para que se decretara la expedición contra Samos.
+718. Son frecuentes los casos en que intereses particulares o partidistas prevalecían sobre los sentimientos patrióticos. Cf. *supra*, I 107, 4; *infra*, II 2, 4-6; 79, 2; etc.
+719. Isla del Egeo septentrional que había sido conquistada y colonizada por Atenas cuando Milciades II reinaba en el Quersoneso (a fines del s. VI y comienzos del V a. C.). Cf. *supra*, I 98, 1; 100, 1; n. 538; HERÓDOTO, VI 136-140.
+720. Cf. *infra*, II 13, 6. Las guarniciones (*phrouraí*) eran un instrumento del Imperio ateniense para controlar las ciudades más problemáticas; eran, en realidad, tropas de ocupación en los territorios de aliados poco seguros.
+721. No se trata de los más poderosos en el nuevo régimen impuesto por Atenas, sino de los ciudadanos más influyentes en general, de los oligarcas que se habían quedado.
+722. Sátrapa de Lidia. Cf. *infra*, III 31, 1; 34, 2.
 
 <!-- MISSING -->
 <!-- ḕ ḗ ṓ ỳ -->
