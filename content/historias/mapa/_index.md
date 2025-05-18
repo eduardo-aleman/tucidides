@@ -9,4 +9,4 @@ sidebar:
 weight: 16
 ---
 
-<iframe src="/mapas/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
+<iframe src="static/mapas/mapa_interactivo_tucidides_libro_1.html" width="100%" height="800" style="border: none;"></iframe>
