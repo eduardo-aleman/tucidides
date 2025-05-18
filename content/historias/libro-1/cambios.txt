@@ -1,20 +1,46 @@
-=== 2025-05-17T14:04:53.413005 ===
+=== 2025-05-18T15:44:49.752727 ===
 Archivo: _index.md
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 30
-- Palabras con superíndice: 0
-- Líneas modificadas: 142
-- Total general: 30
+- Frases latinas corregidas: 2
+- Palabras con superíndice: 24
+- Líneas modificadas: 181
+- Total general: 26
 
 === Frases latinas corregidas ===
-- *supra*: 16 vez/veces
-- *infra*: 14 vez/veces
+- *infra*: 1 vez/veces
+- *supra*: 1 vez/veces
+
+=== Conversiones a superíndice ===
+- acusarlos753: 1 vez/veces
+- reunido754: 1 vez/veces
+- particulares755: 1 vez/veces
+- primeros756: 1 vez/veces
+- tierra757: 1 vez/veces
+- seguridad758: 1 vez/veces
+- oportuno759: 1 vez/veces
+- número760: 1 vez/veces
+- disposición761: 1 vez/veces
+- Olimpia762: 1 vez/veces
+- extranjeros763: 1 vez/veces
+- dinero764: 1 vez/veces
+- naval765: 1 vez/veces
+- desgracia766: 1 vez/veces
+- aliados767: 1 vez/veces
+- territorio768: 1 vez/veces
+- fronteras769: 1 vez/veces
+- Grecia770: 1 vez/veces
+- tirana771: 1 vez/veces
+- inconsciencia772: 1 vez/veces
+- ayuda773: 1 vez/veces
+- primero774: 1 vez/veces
+- jonios775: 1 vez/veces
+- seguirá776: 1 vez/veces
 
 === Total de modificaciones ===
-- Frases latinas corregidas: 30
-- Palabras con superíndice: 0
-- Líneas modificadas: 142
-- Total general: 30
+- Frases latinas corregidas: 2
+- Palabras con superíndice: 24
+- Líneas modificadas: 181
+- Total general: 26
 
 ---
