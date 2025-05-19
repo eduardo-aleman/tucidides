@@ -1378,6 +1378,30 @@ de Corinto, junto a la actual Alepochōri.
 798. Dentro de las tendencias aristocráticas, las diferencias entre Iságoras y Clístenes estribaban en el mayor impulso que este último daba a la evolución «popular» que la sociedad ateniense había experimentado durante la tiranía de los Pisistrátidas (que había acabado hacía poco, en el 510 a. C.). Iságoras era el jefe de la facción aristocrática conservadora y Clístenes de la reformista. Al triunfar Iságoras en las elecciones a arconte del 508-507, Clístenes reaccionó con sus reformas tendentes a modificar las instituciones, en un golpe de Estado «demagógico», lo que provocó la contrarreacción de los sectores más conservadores.
 799. El exilio fue una experiencia repetida en esta importante familia de los Alcmeónidas. Del primer destierro (cf. *supra*, n. 796) regresaron en la misma época de Solón (como resultado de su política de reconciliación): Alcmeón, hijo de Megacles, mandaba las fuerzas atenienses en la Primera Guerra Sagrada hacia el 590 a. C. (cf. PLUTARCO, *Solón* 11, 2), y ya había vencido en las carreras de carros de las Olimpiadas del 592 (cf. HERÓDOTO, VI 125, 5; ISÓCRATES, S*obre el tronco de caballos* XVI 25; *escolio* a PÍNDARO, *Pílica* VII 14). Este Alcmeón, según afirma Heródoto, fue sumamente rico y en su época, debido a su fortuna, debió de generalizarse el nombre de la familia. Hijo suyo fue Megacles II, el que se casó con Agarista, la hija del tirano de Sición, Clístenes (cf. HERÓDOTO, VI 126-131). Este Megacles y su familia también conocieron el exilio tras acentuarse las diferencias entre Megacles y Pisístrato después de la segunda toma del poder por parte del tirano (cf. HERÓDOTO, I 64, 3; V 62, 2; VI 123, 1; P. J. BICKNELL, «The exile of the Alkmeonidai during the Peisistratid tyranny», *Historia* 19 (1970), 129 ss.). Del matrimonio de Megacles y Agarista nació Clístenes el reformador, de cuyo breve destierro, después de caer la tiranía de Pisístrato, ya se ha hablado. Otro hijo de Megacles fue Hipócrates, padre de una segunda Agarista que contrajo matrimonio con Jantipo, matrimonio del que entre 495-490 a. C. nació Pericles. He aquí el árbol genealógico de esta poderosa familia:
 
+```mermaid
+graph TD
+    A[Megacles I 
+    arconte hacia el 635 a.C.]
+    A --> B[Alcmeón
+    akmḗ hacia el 590 a.C.]
+    B --> C[Megacles II
+    akmḗ hacia el 560 a.C.]
+    C --> D[Clístenes 
+    akmḗ hacia el 520 a.C.]
+    D --> E[Megacles III 
+    akmḗ hacia el 490 a.C.]
+    C --> F[Hipócrates]
+    F --> G[Agarista]
+    H[Clístenes de Sición] --> I[Agarista]
+    C --- I
+    G --> J[Pericles]
+    K[Arifrón] --> L[Jantipo]
+    G --- L
+```
+
+800. Esparta se constituía en mantenedora del derecho sagrado, pero en realidad esgrimía un pretexto para desprestigiar a Pericles cuya política temía.
+801. Agarista, sobrina de Clístenes y nieta de Megacles II. Cf. HERÓ- DOTO, VI 130-131; PLUTARCO, *Pericles* 33. Agarista, mientras estaba embarazada, creyó ver en sueños -según nos cuenta Heródoto- que paría un león.
+akmḗ
 
 <!-- MISSING -->
 <!-- ḕ ḗ ṓ ỳ -->
