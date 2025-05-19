@@ -1401,7 +1401,6 @@ graph TD
 
 800. Esparta se constituía en mantenedora del derecho sagrado, pero en realidad esgrimía un pretexto para desprestigiar a Pericles cuya política temía.
 801. Agarista, sobrina de Clístenes y nieta de Megacles II. Cf. HERÓDOTO, VI 130-131; PLUTARCO, *Pericles* 33. Agarista, mientras estaba embarazada, creyó ver en sueños -según nos cuenta Heródoto- que paría un león.
-akmḗ
 
 <!-- MISSING -->
 <!-- ḕ ḗ ṓ ỳ -->
