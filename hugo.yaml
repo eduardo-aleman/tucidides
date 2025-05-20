@@ -12,6 +12,7 @@ markup:
     renderer:
       unsafe: true
 
+
   # enable hextra syntax highlight
   highlight:
     noClasses: false
