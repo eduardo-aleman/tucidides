@@ -12,7 +12,6 @@ markup:
     renderer:
       unsafe: true
 
-
   # enable hextra syntax highlight
   highlight:
     noClasses: false
@@ -49,7 +48,6 @@ params:
     base: "https://github.com/lampsacus/tucidides/edit/main/content"
 
   mermaid: true
-
 
 defaultContentLanguage: es
 languages:
