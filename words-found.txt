@@ -1,0 +1,10 @@
+# Words Found
+
+_List the words you have found below:_
+
+- cspell
+- extract
+- words
+
+---
+*Add more words as you discover them.*
