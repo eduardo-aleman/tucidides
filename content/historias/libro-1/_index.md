@@ -4,7 +4,7 @@ type: docs
 prev:
 next:
 sidebar:
- open: true
+ open: false
 toc: true
 weight: 1
 ---
