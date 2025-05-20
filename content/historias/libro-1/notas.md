@@ -1019,7 +1019,7 @@ graph TD
 912. Cada Estado miembro de la Liga. Esto era lo que temían los corintios. Cf. *supra*, I 120, 1-2. 
 913. Todo el pasaje se refiere a los Estados, no a los individuos. 
 914. Insiste en el argumento de I 141, 4-5.
-915 Cf. *supra*, I 122, 1. 
+915. Cf. *supra*, I 122, 1. 
 916. Piénsese en la fortificación de Atenas por Temístocles (cf. *supra*, I 90 ss.) o en la fundación de Antipolis (cf. *infra*, IV 102). 
 917. *Tḕn mèn gàr chalepòn kaí en eirḕnēi < pròs > pólin antípalon kalaskeuásasthai*. Diversamente interpretado: Levantar o fortificar una ciudad frente a otra de igual fuerza, es decir, una ciudad rival de otra de igual potencia. O que una ciudad de igual poder (como sujeto) se fortifique. Otros entienden: construir una ciudad de igual potencia que la nuestra. De ello se dice que ya es difícil en tiempo de paz. 
 918. Lo que ocurrió después de la toma y fortificación de Decelia por los espartanos. Cf. *infra*, VII 27, 3-5. 
