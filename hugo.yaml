@@ -8,6 +8,7 @@ module:
 
 markup:
   # allow raw html
+  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
@@ -15,6 +16,10 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
+
+    # enable footnotes
+    extensions:
+      footnote: true
 
 menu:
   main:

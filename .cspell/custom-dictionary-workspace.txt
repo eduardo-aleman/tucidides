@@ -60,6 +60,7 @@ Febo
 filoateniense
 focenses
 Gerania
+github
 goldmark
 Góngilo
 Hagnón
@@ -70,7 +71,9 @@ Helesponto
 Hellénique
 Hestiea
 hestieos
+hextra
 Histaspes
+imfing
 Inaro
 indefensión
 Itometa
