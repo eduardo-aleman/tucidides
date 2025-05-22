@@ -216,7 +216,7 @@ weight: 1
 181. Los *géra*, los presentes que las colonias ofrecían como homenaje a las metrópolis.
 182. Probablemente las comunes a Corinto y a sus colonias, celebradas en la metrópoli; no las panhelénicas.
 183. El significado exacto de la expresión griega es discutido; comportaría probablemente un privilegio de los corintios en los ritos sagrados, privilegio que no les era reconocido por los corcireos.
-184. Que los corintios (complemento sobreentendido del comparativo dynatṓieroi); no por encima de todas las ciudades griegas, entre las que se encontraba Atenas, cuya superioridad en el mar será reconocida en seguida por los corintios (cf. *infra*, I 33, 1).
+184. Que los corintios (complemento sobreentendido del comparativo *dynatṓieroi*); no por encima de todas las ciudades griegas, entre las que se encontraba Atenas, cuya superioridad en el mar será reconocida en seguida por los corintios (cf. *infra*, I 33, 1).
 185. Según HOMERO (cf. *Odisea* VI-VIII y XIII), los feacios, que acogieron a Ulises antes de su regreso a Ítaca, habitaban la isla de Esqueria, isla que los antiguos identificaron con Corcira, la actual Corfú. Cf. *infra*, III 70, 4, donde se habla de la existencia en Corcira de un recinto sagrado consagrado a Alcínoo.
 186. Cf. *Odisea* VII 34-36. Las naves de los feacios —decía Homero— eran «tan ligeras como las alas o el pensamiento».
 187. De Ampracia o Ambracia, (actual Arta), ciudad del Epiro meridional, cercana al golfo de su nombre; era una colonia de Corinto. Cf. *infra*, II 80, 3.
