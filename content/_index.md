@@ -31,6 +31,12 @@ Los análisis contemporáneos han expandido el enfoque hacia aspectos más conce
 
 En el ámbito hispánico, la edición de *Historia de la guerra del Peloponeso* a cargo de Juan José Torres Esbarranch, publicada por Gredos en 1990, representa una de las traducciones más autorizadas y filológicamente rigurosas en lengua española. Esta edición de los Libros I y II se distingue tanto por su fidelidad al original griego como por la claridad del aparato crítico y el extenso análisis contextual. Su publicación ha sido fundamental para la recepción moderna de Tucídides en el mundo hispano, abriendo el acceso a lectores y especialistas interesados en una interpretación técnica pero accesible de la obra.
 
+## Transcripción de la obra y conversión en formatos Markdown y HTML
+
+Para convertir el contenido a Markdown y HTML del libro primero de la edición de *Historia de la guerra del Peloponeso* de Juan José Torres Esbarranch, publicada por Gredos en 1990, hemos tenido que transcribir, revisar cuidadosamente y editar múltiples errores provenientes del formato PDF. En este sitio, se presenta, creemos que por primera vez [públicamente\] en la Web, el libro primero en susodichos formatos.
+
+Se utilizaron las siguientes tecnologías: Pandoc, Python, Hugo, Markdown, Git, entre otras. La plantilla Hugo es: hextra.
+
 ## Bibliografía
 
 - Alberti, G. B., ed. *Thucydidis Historiae*. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato. Disponible en archive.org  
