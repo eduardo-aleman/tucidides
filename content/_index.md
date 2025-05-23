@@ -41,7 +41,7 @@ Para convertir el contenido a Markdown y HTML del libro primero (y próximamente
 
 Este proceso implicó no solo una limpieza tipográfica, sino también una armonización de estilos, una verificación cruzada con el original impreso y la adaptación al sistema de publicación utilizado en este sitio. Creemos que, por primera vez [públicamente] en la Web, se ofrece aquí el texto completo del libro primero en dichos formatos abiertos, con miras a facilitar su estudio, consulta y reutilización académica.
 
-Se utilizaron diversas tecnologías libres y de código abierto para llevar a cabo este trabajo: Pandoc para la conversión de formatos, Python para tareas automatizadas de limpieza y estructuración, Hugo como sistema de generación estática del sitio, y Git para el control de versiones. La plantilla empleada, _hextra_, ha sido personalizada para adaptarse a los requerimientos del proyecto, asegurando legibilidad, navegabilidad y fidelidad al espíritu original del texto.
+Se utilizaron diversas tecnologías libres y de código abierto para llevar a cabo este trabajo: *Pandoc* para la conversión de formatos, *Python* para tareas automatizadas de limpieza y estructuración, *Hugo* como sistema de generación estática del sitio, y *Git* para el control de versiones. La plantilla empleada, _hextra_, ha sido personalizada para adaptarse a los requerimientos del proyecto, asegurando legibilidad, navegabilidad y fidelidad al espíritu original del texto.
 
 ## Bibliografía
 
