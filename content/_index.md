@@ -8,7 +8,7 @@ categories:
 - grecia
 - tucídides
 - historiografía
-description: "Síntesis crítica sobre la vida, el método y la obra de Tucídides, con referencias a las ediciones filológicas y estudios contemporáneos más relevantes."
+description: "Síntesis sobre la vida, el método y la obra de Tucídides, con referencias a las ediciones filológicas y estudios contemporáneos más relevantes."
 cascade:
   type: docs
 ---
