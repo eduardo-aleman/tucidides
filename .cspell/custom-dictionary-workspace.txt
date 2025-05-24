@@ -6,6 +6,7 @@ Afitis
 Agesandro
 Amirteo
 Anfípolis
+antesterión
 Anticles
 argilio
 Arístides
@@ -13,6 +14,8 @@ Artabazo
 Artajerjes
 Asopio
 atenien
+beotarca
+beotarcas
 Calcieco
 Calíades
 caristios
@@ -23,12 +26,15 @@ Cilene
 cilicias
 Cilón
 Cirene
+Citerón
 Citinio
 Citio
 Cleómbroto
 consideradlo
 Crisa
+Críside
 Dascilio
+dekátōi
 delfios
 desembarazándonos
 Diasias
@@ -39,6 +45,7 @@ edonos
 éforo
 éforos
 embarcándonos
+enátōi
 Eníadas
 Epicles
 Equecrátidas
@@ -51,6 +58,7 @@ Estrebo
 Estrimón
 Estrómbico
 Etea
+Eurímaco
 expertísimos
 Eyón
 Falero
@@ -65,6 +73,7 @@ goldmark
 Góngilo
 Hagnón
 Halias
+héktōi
 Hélade
 helenotamías
 Helesponto
@@ -81,6 +90,7 @@ Jantipo
 Lámpsaco
 Leócrates
 Leónidas
+Leontíadas
 Leotíquidas
 Lisicles
 Lisimaco
@@ -99,16 +109,20 @@ Mileto
 Miliquio
 Mirónides
 Miunte
+Nauclides
 Naupacto
 naxios
 Nicomedes
 Nilo
 Orcómeno
+Oxirrinco
 Panfilia
 pertecto
 Pireo
 Pisutnes
 pítico
+Pitodoro
+Pléyades
 Plistarco
 Plistoanacte
 Posidón
@@ -128,6 +142,7 @@ sobrela
 subyuguémosla
 Teágenes
 Terme
+Termópilas
 Tlepólemo
 Tolmeo
 Tólmides
