@@ -1,6 +1,6 @@
 ---
-title: "Mapa interactivo: los lugares mencionados en el Libro I"
-description: "Visualización interactiva de los lugares mencionados en el Libro I de la Guerra del Peloponeso."
+title: "Mapa interactivo: los lugares mencionados en el Libro II"
+description: "Visualización interactiva de los lugares mencionados en el Libro II de la Guerra del Peloponeso."
 date: 2025-05-18
 layout: "docs"
 type: docs
