@@ -11,7 +11,7 @@ weight: 3
 
 La visualización Cirrus, también conocida como nube de palabras, es una herramienta de visualización de texto que muestra las palabras más utilizadas en un documento o corpus de texto. Ayuda a los usuarios a identificar rápidamente términos y patrones clave dentro de un conjunto de datos. 
 
-### Visualización del Libro 1 de las Historias de Tucídides, cortesía de *Voyant Tools*.
+### Visualización del Libro 1 de las Historias de Tucídides, cortesía de *Voyant Tools*
 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
