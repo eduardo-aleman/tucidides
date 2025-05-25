@@ -6,7 +6,7 @@ layout: "docs"
 type: docs
 sidebar:
   open: true
-weight: 17
+weight: 3
 ---
 
 La visualización Cirrus, también conocida como nube de palabras, es una herramienta de visualización de texto que muestra las palabras más utilizadas en un documento o corpus de texto. Ayuda a los usuarios a identificar rápidamente términos y patrones clave dentro de un conjunto de datos. 

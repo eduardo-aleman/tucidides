@@ -6,7 +6,7 @@ layout: "docs"
 type: docs
 sidebar:
   open: true
-weight: 16
+weight: 2
 ---
 <br>
 
