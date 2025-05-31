@@ -59,6 +59,8 @@ languages:
   es:
     languageName: Spanish
     weight: 1
+    title: Tucídides
   en:
     languageName: English
     weight: 2
+    title: Thucydides
