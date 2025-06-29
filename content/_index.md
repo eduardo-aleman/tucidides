@@ -43,7 +43,7 @@ Este proceso implicó no solo una limpieza tipográfica, sino también una armon
 
 Se utilizaron diversas tecnologías libres y de código abierto para llevar a cabo este trabajo: *Pandoc* para la conversión de formatos, *Python* para tareas automatizadas de limpieza y estructuración, *Hugo* como sistema de generación estática del sitio, y *Git* para el control de versiones. La plantilla empleada, _hextra_, ha sido personalizada para adaptarse a los requerimientos del proyecto, asegurando legibilidad, navegabilidad y fidelidad al espíritu original del texto.
 
-## Bibliografía
+## Bibliografía selecta
 
 - Alberti, G. B., ed. _Thucydidis Historiae_. Vol. 1 (Books 1–2), 1972; Vol. 2 (Books 3–5), 1992; Vol. 3 (Books 6–8), 2000. Roma: Istituto Polygraphico dello Stato. Disponible en archive.org
 - Antonios Rengakos, Antonis Tsakmakis, L. Canfora, E. J. Bakker. _Brill’s Companion to Thucydides_. Leiden: Brill, 2006.
